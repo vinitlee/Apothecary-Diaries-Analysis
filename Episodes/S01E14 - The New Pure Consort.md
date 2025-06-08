@@ -1,6 +1,5 @@
 
-Loulan arrives in a long somber sequence accompanied by snow. Music is "My Hometown". She is wearing a red headdress with red jewel (garnet, matching the pavilion's name) and is followed by 5 ladies in waiting who are all dressed like her. In the outdoor scenes, she is wearing a white overcoat contrasting with her attendants' dark coats. She is entering the Garnet Pavilion, which have been emptied out.
-
+# Plot
 - Opening scene
 	- Doors to rear palace open
 	- Loulan slowly changes focus from eyes cast down on the ground before her to the rear palace in front of her
@@ -107,13 +106,57 @@ Loulan arrives in a long somber sequence accompanied by snow. Music is "My Homet
 			- Soot reaching the next building
 			- Shrapnel
 			- More like an explosion
-			- 
+			- *Imperial* warehouse, not just any warehouse
+			- Burnt potato
+				- This was food storage
+			- Pipe on ground
+				- Pipe is made of ivory
+			- Other similar warehouse has dust in the air and bags of flour in the back
+			- Experiment
+				- 
 		- Context
 			- The palace suspects arson
 			- Has elevated this to Lihaku
 			- Empire is peaceful, but not without issues
-
-# Plots & Themes
+				- Barbarian attacks
+				- Famine
+				- Drought
+			- Peace with neighboring nations may be temporary
+			- One of the first reveals of the Li flag
+	- Lihaku initially yells at Maomao for snooping around, but she mostly ignores him
+	- After finding a potato and a pipe in the damaged warehouse, she runs into a neighboring warehouse
+		- She finds that the air is dusty
+		- She finds bags of flour that let out flour dust when hit
+	- Maomao asks Lihaku if the contents would be the same
+		- He says they are the same
+		- He also says that the oldest stuff goes in the back
+	- Maomao asks to take a bag of flour, plus tools and materials to make a wooden box
+	- She runs an experiment
+		- Makes a box with a hole in the top
+		- Fills it with flour
+		- Throws a rope on fire in the box
+	- Lihaku doesn't heed her warning and it blows up in his face, he catches fire, and they need to put him out
+		- The air is cold enough that he's very uncomfortable from getting wet
+	- Conclusion
+		- Someone snuck into the warehouse to smoke in private
+		- Circulation kicked up flour into the air
+		- When the pipe was being lit, the airborne flour caught fire
+	- Lihaku seems like he's getting sick from the cold, Maomao plugs Luomen's medicine
+	- Maomao leaves, but takes the pipe with her
+- Back in Maomao's room, night
+	- Maomao realizes she kept the pipe
+	- Wonders if she could fix and sell it
+	- Speculates that it's too fancy for a warehouse guard
+	- Figures she should try to clean it and give it back
+- Ending scene (preview)
+	- In restaurant outside of the palace
+	- Distressed man has broken a ceramic vessel and is at a table with a drink pot and food
+		- Brown wedges
+		- Shrimp tofu?
+		- Mooncake
+	- He swears and says that he's worthy too
+	- Another younger man gets up and peers at him menacingly
+# Subplots & Themes
 [[Suirei's Plot to Kill Jinshi]]
 [[Jinshi's True Identity]]
 [[Maomao-Jinshi Romance]]
