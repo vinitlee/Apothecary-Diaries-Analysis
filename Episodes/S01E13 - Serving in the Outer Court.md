@@ -1,0 +1,81 @@
+# Plot
+*Most of the episode has been skipped, may be good to go back and do*
+- Confrontation with the court ladies
+	- Maomao is in Jinshi's office
+		- Notices it's very nice
+		- Wonders how high up Jinshi is
+	- Leaves the office and notices a group of women staring at her
+		- Four unnamed court ladies and Suirei
+		- The four unnamed servants have matching angry faces, but Suirei seems more cold, indifferent, or calculating
+		- Suirei is also nearly a head taller than the others
+	- Maomao considers the status of court ladies in the outer court ^53848e
+		- Like secretaries
+		- Have qualifications and education
+		- Higher bar than rear palace
+		- Thus, prideful
+	- The group confronts her
+		- One of the unnamed ladies accosts her and questions why she is assigned to Jinshi
+		- Animation again shows Suirei as indifferent compared with the four others
+	- Maomao fumbles getting out of the situation
+		- Asks if they're jealous of her
+			- Gets slapped
+		- Asks if they think she's getting special treatment
+			- Says that Jinshi would not fall for her since she's not womanly, while they are
+			- Does imply that if Jinshi were to go for her over them, he would be a deviant
+				- It's possible that this is a reference to pedophilia
+	- Suirei asks a question
+		- "Why did he hire you, then?"
+		- Maomao shows her test arm
+			- The four are grossed out
+			- Suirei continues to be unfazed
+		- Maomao lies and implies that Jinshi is giving her the job out of charity
+		- The group leaves
+			- Suirei lingers, narrowing her eyes at Maomao before departing as well
+	- Jinshi shows up
+		- Nonplussed, pokes at her excuse that he would be a deviant to prefer her
+		- She excuses herself to go clean
+		- He says she should be studying
+- Studying
+	- Night, Maomao's room
+	- Maomao is at her desk with a book
+		- She is tired
+	- There is a fancy wooden box in front of her tied with a ribbon
+		- She opens it excitedly
+		- It contains the [[Cordyceps]] that Jinshi gave her
+	- Suiren tells her to be quiet
+- Exam results
+	- Jinshi is displeased
+	- Maomao failed the test
+		- They thought she would have an easy time passing, but she is selectively competent and lacking parts of the [[S01E13 - Serving in the Outer Court#^53848e|complete package]] that is demanded of court ladies
+	- Maomao becomes a private servant of Jinshi
+- Suirei's Garden
+	- Maomao is walking down a path in the outer court and sees a circular doorway leading down a side path to the East
+	- She gets excited when she notices there are lots of herbs there
+	- She picks lots of herbs
+	- She sees a [[Garden Mound|mound]] covered in grass, flowers, and herbs to the side
+		- This is odd. We don't expect to see a mound like this here
+		- Maomao stops and stares. Goofy energy becomes solemn.
+	- She gets hit in the back of the head and turns around to see Suirei, who had hit her
+	- Suirei reprimands Maomao and says that there's no reason for her to be here
+	- Suirei steps away, and Maomao notices her smell
+		- [[Sandalwood]]
+		- Another, distinctly [[Resurrection Potion|bitter smell]]
+	- Suirei heads back the way that Maomao came
+	- Maomao realizes that she's in front of the military wing
+	- Bell tolls
+	- Lakan is shown to have been watching the scene from high up
+- Warehouse ^4e4600
+	- Figure in large cloak with a long skirt in front of a guard posted outside of a warehouse
+	- Closeup of figure giving the guard a pipe with an ornamental tip
+	- Fingernails of figure are plain but slightly long, skin of the hand is lighter than the guard's
+	- It is snowing
+# Takeaways
+- The mound in front of the has some significance
+- Suirei was likely coming from the military wing, it's unclear whether she has the right to be there
+- Suirei is covering up the scent of the in-progress [[Resurrection Potion]]
+# Characters
+- [[Jinshi]]
+- [[Maomao]]
+- [[Suiren]]
+- [[Suirei]]
+- [[Lakan]]

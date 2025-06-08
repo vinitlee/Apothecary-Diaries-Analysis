@@ -1,0 +1,123 @@
+
+Loulan arrives in a long somber sequence accompanied by snow. Music is "My Hometown". She is wearing a red headdress with red jewel (garnet, matching the pavilion's name) and is followed by 5 ladies in waiting who are all dressed like her. In the outdoor scenes, she is wearing a white overcoat contrasting with her attendants' dark coats. She is entering the Garnet Pavilion, which have been emptied out.
+
+- Opening scene
+	- Doors to rear palace open
+	- Loulan slowly changes focus from eyes cast down on the ground before her to the rear palace in front of her
+		- She is wearing a red headdress with red jewel (garnet, matching the pavilion's name)
+		- Followed by 5 ladies in waiting who are all styled like her
+			- However, she is wearing a while coat instead of a dark purple one and has the headdress
+	- They walk in precession to the Garnet Pavilion
+		- It has been cleared out
+	- She gets inside and tosses a silver headpiece with a red jewel into a box held up by an attendant
+	- She sits on her throne, eyes cast down, then shifts to lean on her right arm
+- Maomao planting herbs
+	- Maomao is planting herbs in the outer court because there are no herbs
+	- Suiren reprimands her for not cleaning
+- Jinshi's office
+	- Jinshi has letters from Wise Consort Lihua and Precious Consort Gyokuyou
+	- Maomao enters
+	- Jinshi asks if she knows about the new Pure Consort
+	- Jinshi says that Gyokuyou and Lihua have recommended that Maomao educate the new consort
+		- This is because Maomao gave Lihua advice about paizuri
+- Receiving books
+	- Maomao has received books from Verdigris House
+	- They are expensive, but she also tries to up the price to pocket some money
+	- She won't let either Jinshi or Gaoshun help or see the books
+- Class
+	- Crowd of low-ranking concubines and ladies in waiting
+	- Only high-ranking concubines in the class
+	- Jinshi tries to join but is shoved out
+	- Concubines present
+		- Gyokuyou & Hongniang
+		- Lishu & taster
+		- Lihua & powder lady
+		- Loulan & attendant
+			- It is remarked that Loulan is wearing a "flashy southern outfit"
+			- Her face seems northern
+			- She is wearing heavy makeup
+			- She is apparently age-appropriate for the emperor
+	- Loulan yawns when being introduced, different from the other concubines, who seem either attentive or nervous.
+	- Maomao introduces herself and the class
+	- Concubines react to books
+		- Gyokuyou says wow and giggles
+		- Lihua seems surprised and bashful
+		- Lishu feints
+		- Loulan tosses the book away, seems unfazed but also not really paying attention
+	- When finishing up the class and packing up, Jinshi enters the room
+		- He'd been eavesdropping
+	- While wrapping with Jinshi, Maomao notices Loulan staring
+		- Unclear whether she's starting at Maomao or Jinshi or both
+		- First time she seems interested this entire episode
+		- Also uncharacteristically not leaning on her arm
+		- When she realizes Maomao has notices, she turns away with a huff
+- Night
+	- Garnet Pavilion
+		- Dark inside Pavilion
+		- Loulan sitting in throne leaning on right arm again
+			- This is becoming her signature
+		- 6 ladies in waiting flanking her, motionless
+		- Close up on Loulan's face, eyes set forward, then she narrows her gaze
+	- Maomao's room
+		- Maomao sleeping, is tired from teaching but excited about bonus
+		- Hears an explosion
+		- Officers running with concern outside
+		- Maomao gets up, but then thinks better of getting involved
+	- Warehouse ^9312ae
+		- A warehouse is shown with obvious damage, burn marks, and smoke coming from windows and doors
+		- Soldiers are staked outside and throwing water on the building
+		- Lakan is inside the damaged warehouse looking at the ground
+			- In front of him is a pipe matching the pipe from the [[S01E13 - Serving in the Outer Court#^4e4600|ending scene of the previous episode]]. 
+		- Lakan is inspecting a white powder on his fingers (it's flour)
+		- A soldier comes in and asks if Lakan has found anything. Lakan denies and laughs it off
+- Jinshi's office
+	- Next day
+	- Maomao wonders what the noise was
+	- She notes that he has work in both the outer court and rear palace
+		- Isn't that weird if he is who he says he is?
+	- She is tasked with burning the old documents that he is working with
+	- Gaoshun gives her a coat because it is cold outside
+		- Jinshi is mad because he isn't getting credit for the coat
+		- She thanks Jinshi
+- Walking to burn the paper
+	- Maomao walks by the circular doorway to the [[Garden Mound]]
+	- Remarks that she barely ever sees herbs growing in the outer palace
+		- Other than [[Dandelion]] and [[Mugwort]]
+	- She gets distracted by herbs in the military wing entrance area next to the [[Garden Mound]]
+		- [[Red Spider Lily]]
+	- She goes further into the military wing than before, passing the second doorway which leads out of the mound area
+- Military wing
+	- We see the same [[S01E14 - The New Pure Consort#^9312ae|warehouses]] as before, with the damaged one closest to the camera
+	- Lihaku and another man are standing in front of it
+		- Lihaku may have gotten a promotion, since his belt is red
+	- Lihaku doesn't know she got fired, and is assuming she's accompanying a concubine
+	- Aside about Lihaku
+		- In love with [[Pairin]]
+		- He's trying to get a promotion so he can book her
+		- He visits the [[Verdigris House]] often, but books tea with a low-ranking girl because he can afford that and it gives him an opportunity to catch a glimpse of Pairin
+	- Maomao informs him that she's been moved to the outer court
+		- Transferred to the personal quarters of an official
+		- He's surprised that any official would do that
+	- Maomao inquires as to what Laihaku was doing
+		- He's investigating a fire in a warehouse
+		- Fires are common at this time of year
+		- The cause has yet to be determined
+	- Maomao gets curious and starts to investigate
+		- Clues
+			- Soot reaching the next building
+			- Shrapnel
+			- More like an explosion
+			- 
+		- Context
+			- The palace suspects arson
+			- Has elevated this to Lihaku
+			- Empire is peaceful, but not without issues
+
+# Plots & Themes
+[[Suirei's Plot to Kill Jinshi]]
+[[Jinshi's True Identity]]
+[[Maomao-Jinshi Romance]]
+# Characters
+[[Loulan]]
+[[Maomao]]
+[[Suiren]]
