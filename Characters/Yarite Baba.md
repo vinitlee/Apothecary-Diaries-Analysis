@@ -1,6 +1,9 @@
 **mother::** [[???]]
 **father::** [[???]]
-**role::** ex-courtesan
-**reports_to::** [[Granny]]
+**role::** Manager of [[Verdigris House]]
+**reports_to::** none
 **origin::** [[???]]
 **domain::** [[Verdigris House]]
+
+---
+# Notes

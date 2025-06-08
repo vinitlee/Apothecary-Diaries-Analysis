@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episodes/S01E20 - Thornapple.md",
+                "file": "Places/The Military Wing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S01E20 - Thornapple"
+              "title": "The Military Wing"
+            }
+          },
+          {
+            "id": "58b15a5cd3d620f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/The West.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The West"
             }
           }
         ]
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/S01E20 - Thornapple.md",
+                "file": "Places/The Military Wing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S01E20 - Thornapple"
+              "title": "Backlinks for The Military Wing"
             }
           },
           {
@@ -133,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodes/S01E20 - Thornapple.md",
+                "file": "Places/The Military Wing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S01E20 - Thornapple"
+              "title": "Outgoing links from The Military Wing"
             }
           },
           {
@@ -162,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodes/S01E20 - Thornapple.md",
+                "file": "Places/The Military Wing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S01E20 - Thornapple"
+              "title": "Outline of The Military Wing"
             }
           },
           {
@@ -186,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,35 +216,39 @@
   },
   "active": "7dd61f2dd802624f",
   "lastOpenFiles": [
-    "Compounds/Woodsorrel.md",
+    "Places/The Outer Court.md",
+    "Places/The Military Wing.md",
+    "Characters/Suirei.md",
+    "Characters/Shi Clan.md",
+    "Places/The Shi Clan.md",
+    "Places/The South of Li.md",
+    "Features/Court Lady.md",
+    "Characters/Shisui.md",
+    "Templates/Character.md",
+    "Characters/Yarite Baba.md",
+    "Characters/Maomao.md",
+    "Characters/Fengxian.md",
+    "Places",
+    "Characters/Empress Dowager.md",
+    "Characters/Emperor.md",
+    "Characters/Basen.md",
+    "Characters/Gaoshun.md",
+    "Places/The West.md",
+    "Characters/Gyokuyou.md",
+    "Features/High-ranking Concubine.md",
+    "Characters/Lishu.md",
+    "Characters/Jinshi.md",
+    "Characters/Lakan.md",
+    "Places/Empire of Li.md",
     "Episodes/S01E20 - Thornapple.md",
-    "Compounds/Balsam.md",
-    "Episodes/S01E23 - Balsam and Woodsorrel.md",
-    "Episodes/S01E19 - Chance or Something More.md",
-    "Episodes/S01E18 - Lakan.md",
-    "Episodes/S01E17 - A Jaunt Around Town.md",
-    "Plots/Suirei's Plot to Kill Jinshi.md",
-    "Episodes/S01E09 - Suicide or Murder.md",
-    "Episodes/S01E21 - How to Buy Out a Contract.md",
-    "Episodes/S01E16 - Lead.md",
-    "Episodes/S01E15 - Raw Fish.md",
-    "Episodes/S01E14 - The New Pure Consort.md",
-    "Compounds/Bismuth.md",
-    "Compounds/Morning glory.md",
-    "Compounds/Thornapple.md",
+    "Structures/Jinshi's Group.md",
+    "Structures",
+    "Features/Fengxian's Song.md",
+    "Utility",
+    "Templates",
     "Assets/Pasted image 20250607223057.png",
     "Assets",
     "Assets/Pasted image 20250607222947.png",
-    "Plots/The Shi Clan's Quest for Eternal Life.md",
-    "Features/Fengxian's Song.md",
-    "Compounds/Japanese chestnut.md",
-    "Episodes/S01E22 - Blue Roses.md",
-    "Episodes/S01E24 - Jinshi and Maomao.md",
-    "Episodes/S01E22 - Copy - Copy - Copy.md",
-    "Episodes/S01E22 - Copy - Copy.md",
-    "Episodes/S01E22 - Copy.md",
-    "Episodes/S01E18 - Copy - Copy - Copy - Copy.md",
-    "Episodes/S01E18 - Copy - Copy - Copy.md",
     "Untitled.canvas"
   ]
 }

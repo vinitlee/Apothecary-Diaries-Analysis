@@ -1,7 +1,8 @@
 **mother::** [[???]]
 **father::** [[???]]
-**role::** Moon Prince/Rear Palace manager
+**role::** Empress Dowager
 **reports_to::** [[Emperor]]
+**origin::** [[???]]
 
 ---
 # Notes
