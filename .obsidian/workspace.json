@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "S01E15 - Raw Fish"
             }
+          },
+          {
+            "id": "bea127f2f8251fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Episodes/S01E16 - Lead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S01E16 - Lead"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c1ec74f4c45ecd9",
@@ -33,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Luomen.md",
+                "file": "Characters/Lakan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luomen"
+              "title": "Lakan"
             }
           }
         ]
@@ -114,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/S01E15 - Raw Fish.md",
+                "file": "Episodes/S01E16 - Lead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S01E15 - Raw Fish"
+              "title": "Backlinks for S01E16 - Lead"
             }
           },
           {
@@ -133,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodes/S01E15 - Raw Fish.md",
+                "file": "Episodes/S01E16 - Lead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S01E15 - Raw Fish"
+              "title": "Outgoing links from S01E16 - Lead"
             }
           },
           {
@@ -162,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodes/S01E15 - Raw Fish.md",
+                "file": "Episodes/S01E16 - Lead.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S01E15 - Raw Fish"
+              "title": "Outline of S01E16 - Lead"
             }
           }
         ]
@@ -187,16 +202,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dd61f2dd802624f",
+  "active": "bea127f2f8251fd4",
   "lastOpenFiles": [
-    "Episodes/S01E14 - The New Pure Consort.md",
     "Episodes/S01E15 - Raw Fish.md",
-    "Episodes/S01E13 - Serving in the Outer Court.md",
-    "Characters/Luomen.md",
-    "Plots/Suirei's Plot to Kill Jinshi.md",
+    "Episodes/S01E16 - Lead.md",
     "README.md",
+    "Untitled.md",
+    "Characters/Lakan.md",
+    "Characters/Basen.md",
+    "Episodes/S01E14 - The New Pure Consort.md",
+    "Characters/Loulan.md",
+    "Features/The South of Li.md",
+    "Plots/Bureaucrat Food Poisoning.md",
+    "Plots/Suirei's Plot to Kill Jinshi.md",
+    "Characters/Gaoshun.md",
+    "Compounds/Japanese camellia.md",
+    "Compounds/Fugu.md",
+    "Characters/Luomen.md",
+    "Episodes/S01E13 - Serving in the Outer Court.md",
     "Plots/The Warehouse Explosion.md",
-    "Untitled.canvas",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }

@@ -148,14 +148,14 @@
 	- Wonders if she could fix and sell it
 	- Speculates that it's too fancy for a warehouse guard
 	- Figures she should try to clean it and give it back
-- Ending scene (preview)
+- Ending scene (preview) ^816844
 	- In restaurant outside of the palace
 	- Distressed man has broken a ceramic vessel and is at a table with a drink pot and food
 		- Brown wedges
 		- Shrimp tofu?
 		- Mooncake
 	- He swears and says that he's worthy too
-	- Another younger man gets up and peers at him menacingly
+	- Another younger man gets up and peers at him menacingly ^ff9aee
 # Subplots & Themes
 [[Suirei's Plot to Kill Jinshi]]
 [[Jinshi's True Identity]]

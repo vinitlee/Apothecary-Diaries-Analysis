@@ -3,8 +3,140 @@
 	- Lihaku is getting credit for solving the warehouse mystery
 	- However, there is a rumor that Maomao helped
 	- Lakan overhears and asks for more information about Maomao
-- 
-
+- Gaoshun's request
+	- Maomao is arranging [[Japanese camellia]] flowers in a vase
+	- Gaoshun asks her for help and gives her a written account
+		- 10 years ago
+		- At a merchant's home
+		- Raw fugu food poisoning
+		- Gaoshun had been on this old case
+	- There is a recent similar case that was brought to Gaoshun by Lakan
+	- As always, Maomao is distracted by wanting to have the poison
+	- Recent account
+		- Bureaucrat ate fugu raw with vinegar
+		- Fell into a coma
+		- The dish consisted of parboiled fugu skin and meat
+	- Commonalities between the cases
+		- The cooks claimed to not have prepared the fugu in the dish
+			- Fugu had been prepared the night before
+			- They claim to have used a different fish day of
+		- The victims were gourmets who ate lots of exotic foods
+		- The guts were found in the trash, whole
+		- Victims collapsed convulsing 30min after consuming
+- Jinshi butts in
+	- Jinshi butts in once Gaoshun exits
+	- Maomao implies that she doesn't find what he says to be interesting
+		- In a playful/serious manner
+	- Maomao leaves while Suiren dries Jinshi's hair
+- Gaoshun gets more information
+	- Gaoshun has a book of the cook's notes
+		- Recipe
+			- Parboil fish
+			- Add cut vegetables
+			- Add vinegar/brine liquid
+		- Vegetables and even fish will vary, so brine mixture is not static
+	- It's winter, so Maomao expects the vegetables to be daikon and carrots
+		- However, Gaoshun says that it was seaweed (海藻)
+	- Maomao requests to see the kitchen
+- Inspecting the kitchen with Basen
+	- They go to the kitchen in the bureaucrat's home
+	- It has not been used since the incident
+	- The bureaucrat's younger brother comes storming in
+		- He is angry that people are in the kitchen
+		- He blames the servant
+		- Basen declares that they have permission from the lady of the house and that they're on official business
+	- Details emerge about how the situation has changed in the past week
+		- Master is in a coma
+		- Mistress is ill from fatigue
+		- Younger brother has taken over control of the mansion
+	- Younger brother doesn't look good
+	- Maomao picks up a brown pot from the shelf and looks inside
+		- There is seaweed inside
+		- The servant/cook says that it was the master's favorite, he ate it often, and that he didn't think it was poisonous
+	- The younger brother asks them to leave, Maomao agrees and leaves
+- On the way back to the palace
+	- Basen thinks Maomao backed down
+	- But Maomao took some of the seaweed with her
+	- She is suspicious
+		- The seaweed is not available yet this year
+		- If it had been preserved from last year, it would not have lasted this long
+		- It may have been imported from another region
+			- Maomao suspects it could come from the [[The South of Li|south]]
+		- She wants to know where it came from
+- Seaweed inspection
+	- Maomao has split the seaweed into two dishes
+		- One has been soaked in limewater, the other has not
+	- The seaweed had been imported from the south
+	- The master never ate seaweed in the winter
+	- This is the same as the seaweed that they normally use
+		- Cooks claim this means it can't be poisonous
+	- Maomao does not agree that because the seaweed is the same type that it cannot be poisonous
+	- Maomao speculates
+		- That the South may not eat this type of seaweed often
+		- That a merchant may have learned of the master's preference for this seaweed and sought to hastily throw together a salted version of the southern seaweed
+	- Maomao makes the point that something can be made not poisonous, but missing this step is dangerous
+		- Bleeding and cooking eel
+		- Implied: correctly butchering fugu
+		- Soaking this seaweed in limewater
+	- Maomao explains that one dish of seaweed has been soaked in limewater and the other was kept in the state it was in when in the jar
+	- She eats one
+		- The room panics
+		- They force her to take an emetic agent
+		- She barfs
+	- Maomao focuses on the point
+		- Who suggested sourcing this seaweed?
+- Fault
+	- Somewhat anticlimactically, Gaoshun tells Maomao that it was the younger brother who planned the attack
+		- He felt inferior and wanted to get rid of his older brother so he could gain power
+	- Maomao seems unsatisfied with this explanation
+		- Where did he learn about the poison?
+	- Gaoshun explains that he had heard about it from [[S01E14 - The New Pure Consort#^ff9aee|someone]] who had been sitting next to him at a tavern
+- Maomao cleaning up Jinshi's room
+	- Introduction of scene
+		- Starts with a shot of a ceremonial sword hanging
+		- Maomao laments not getting to try the seaweed
+		- She gets distracted thinking about how to use the [[Cordyceps]] that Jinshi gave her
+		- Jinshi enters, she bumps into him, and greets him cutely (because she's enthralled by the thought of cordyceps)
+		- Jinshi is awkward
+	- Lakan
+		- Jinshi calms down, says that he's troubled by Lakan
+		- Maomao perks up upon hearing his description of Lakan, but says nothing
+		- She ends up compartmentalizing it
+- Introduction of Lakan
+	- Maomao is sweeping
+		- Thinks that her bad hunches often come true, in this case about Lakan
+	- Jinshi is in his office
+	- Lakan enters with a pot of liquid on a string
+	- Lakan ignores social conventions and pushes forward
+	- He is here because Jinshi took in Maomao
+	- Lakan gives teasers of his story with [[Fengxian]]
+		- Knew a courtesan at Verdigris house
+		- Good at go and shogi
+		- He could beat her at shogi, but not go
+		- He thought he might buy her out, but it didn't work out
+		- Two rich men got in a bidding war
+		- She wouldn't sleep with customers
+		- Shot of Fengxian with striking visual similarity to Maomao
+		- Jokes that he thought of raping her
+		- Says that he used a dirty trick to lower her value
+		- Jinshi wants to know how
+	- Lakan leaves a cliffhanger to ask a favor
+		- He wants Maomao to help with the metalworker's will
+		- He wants her to help with the situation in order to learn the special technique
+- Final scene
+	- Maomao drops an empty bucket, crouching under an awning to stay out of the pouring rain
+	- She comments that it's a lot of rain
+	- It seems that the weather is getting a little warmer
+# Lingering questions
+- How does this tie into the larger narrative?
+- Who was the man?
 # Subplots & Themes
-
+Like things being poisonous or safe based on other factors
+[[Maomao-Jinshi Romance]], but also that Jinshi wants to be included
+[[Lakan's Mistake]]
 # Characters
+[[Maomao]]
+[[Gaoshun]]
+[[Jinshi]]
+[[Basen]]
+[[Lakan]]
