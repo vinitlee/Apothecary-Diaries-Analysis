@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episodes/S01E14 - The New Pure Consort.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S01E14 - The New Pure Consort"
+              "title": "README"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/S01E14 - The New Pure Consort.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S01E14 - The New Pure Consort"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodes/S01E14 - The New Pure Consort.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S01E14 - The New Pure Consort"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodes/S01E14 - The New Pure Consort.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S01E14 - The New Pure Consort"
+              "title": "Outline of README"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "7dd61f2dd802624f",
   "lastOpenFiles": [
-    "Plots/Suirei's Plot to Kill Jinshi.md",
     "Episodes/S01E14 - The New Pure Consort.md",
+    "README.md",
+    "Plots/Suirei's Plot to Kill Jinshi.md",
     "Plots/The Warehouse Explosion.md",
     "Episodes/S01E13 - Serving in the Outer Court.md",
     "Untitled.canvas",
