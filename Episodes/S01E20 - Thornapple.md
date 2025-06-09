@@ -158,6 +158,18 @@
 - Reposting [[Maomao]]
 	- [[Gyokuyou]] missed her period, might be pregnant
 	- [[Maomao]] is to start working in the [[Rear Palace]] to help [[Gyokuyou]] during her pregnancy
+	- She likes this because it means she can avoid [[Lakan]]
+- Return to the [[Rear Palace]]
+	- Back in her old room
+	- Acting as poison taster
+	- Sees a more human side of the [[Emperor]] when he's with [[Gyokuyou]] and [[Lingli]]
+	- Reflects that, even though things seem the same in the [[Rear Palace]], certain vital variables have changed.
+		- [[Ah-Duo]] is no longer around as an adviser
+		- [[Loulan]] is now present and has the potential to cause problems but also cannot be ignored
+		- It would be an issue if [[Loulan]] got pregnant
+- Closing scene
+	- [[Verdigris House]]
+	- [[Lihaku]] overhears that one of the [[Three Princesses]] is getting bought out
 # Lingering Questions
 Why is Jinshi playing this role?
 # Subplot and Themes
@@ -171,3 +183,6 @@ Why is Jinshi playing this role?
 [[Jinshi]]
 [[Lihaku]]
 [[Suirei]]
+[[Gyokuyou]]
+[[Emperor]]
+[[Lingli]]

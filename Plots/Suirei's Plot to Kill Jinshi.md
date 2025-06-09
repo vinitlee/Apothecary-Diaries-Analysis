@@ -39,3 +39,6 @@
 - [[Suirei]] is found by an officer of justice, apparently dead in her room
 - [[Suirei]] is inspected by doctors who confirm that she is dead
 - [[Suirei]] is put into a wooden casket and stored in the morgue
+- Collaborators go to the morgue, open the casket, disguise [[Suirei]], replace the casket, and leave
+- [[Loulan]] is whispered something
+- [[Loulan]] switches with a body double #maybe
