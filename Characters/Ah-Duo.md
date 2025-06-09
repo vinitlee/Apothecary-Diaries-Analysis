@@ -2,7 +2,7 @@
 **father::** [[???]]
 **role::** Ex-[[High-ranking Concubine]]
 **reports_to::** [[Emperor]]
-**origin::** [[Imperial Capitol]]
+**origin::** [[Imperial Capital]]
 **domain::** [[Rear Palace]]
 
 ---

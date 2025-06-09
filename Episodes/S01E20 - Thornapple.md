@@ -72,7 +72,7 @@
 	- The doctor says that he was sure it was Suirei, but that he did not perform an autopsy, and just felt for a heartbeat
 	- Maomao states that his feelings for [[Suirei]] have been exploited since he did not take the appropriate measures due to his feelings
 		- And that [[Suirei]] knew that this was going to happen
-	- [[Maomao]] says that [[Suirei]] took a mixture, not just [[Thornapple]], and that the other components likely came from the [[Capitol Pharmacy]]. She blames the [[Flirty Doctor]] for not keeping track appropriately
+	- [[Maomao]] says that [[Suirei]] took a mixture, not just [[Thornapple]], and that the other components likely came from the [[Capital Pharmacy]]. She blames the [[Flirty Doctor]] for not keeping track appropriately
 	- [[Maomao]] explains that [[Suirei]] put a different corpse in a new casket to take her place so the weights would not be off for the cremation
 	- Jinshi asks what happened with [[Suirei]]'s body
 	- [[Maomao]] explains that [[Suirei]] was using [[Resurrection Medicine]] to make it seem like she had died in order to wake up later.
@@ -144,8 +144,8 @@
 		- She changes style and makeup often
 		- She seems like a different person every time he visits her
 		- But still visits her ever 1.5 weeks
-	- [[Loulan's Father]] is a high-ranking official who was the [[Previous Empress Dowager]]'s favorite
-		- The [[Emperor]] needs to be careful around [[Loulan's Father]]
+	- [[Master Shishou]] is a high-ranking official who was the [[Previous Empress Dowager]]'s favorite
+		- The [[Emperor]] needs to be careful around [[Master Shishou]]
 	- [[Jinshi]] connects this to [[Lishu]], saying that she is unappealing as well since the [[Emperor]] does not share the [[Late Emperor]]'s taste for young girls
 - Jinshi reflects on his birth
 	- Retells that [[Ah-Duo]] and [[Empress Dowager]] gave birth at the same time, but only one baby (thought to be the [[Empress Dowager]]'s child) survived.

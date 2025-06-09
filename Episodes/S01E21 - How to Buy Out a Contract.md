@@ -1,5 +1,81 @@
 # Plot
+- [[Lihaku]] is out of it
+	- He's worried about [[Pairin]] being bought out
+- Back at the [[Rear Palace Pharmacy]]
+	- [[Maomao]] is bossing around the [[Eunuch Doctor]] and making him help clean up the [[Rear Palace Pharmacy]]
+	- They take a snack break and he serves sweets and tea
+		- Sweet potato sweets
+		- Served on paper
+	- [[Maomao]] feels that he must be from a rich family because sweet potatoes are not in season and he's using good paper recklessly
+	- His family is the paper purveyor for the palace
+	- He talks about how well they used to do, but everything is in the past tense
+	- The [[Previous Empress Dowager]] banned the cutting of trees
+		- They started using alternative materials
+		- His older sister came to work at the [[Rear Palace]]
+		- His younger sister was going to also go to work at the [[Rear Palace]], but he opted to go in her stead and become a eunuch
+			- Reading between the lines, we can guess that this was to protect her from the [[Late Emperor]], since she was younger
+		- He never saw his older sister though
+			- This is odd. This suggests that something bad may have happened.
+	- [[Maomao]] reflects that the [[Eunuch Doctor]] has been through more than expected
+- [[Lihaku]] is not having a easy time
+	- He's stressing out about [[Pairin]] getting sold off
+- Helping out the [[Eunuch Doctor]] with paper problems
+	- [[Eunuch Doctor]] gets a letter from his younger sister saying that the family might lose palace purveyor status
+	- This is because the paper quality has dropped
+		- Everything is great, but the paper is weak
+	- The only change is that they're using oxen now
+	- Maomao deduces that the oxen's saliva is entering the stored water and dissolving the starch glue
+		- The [[Eunuch Doctor]] wants to be tight-lipped about the glue formula
+		- The [[Eunuch Doctor]] is kinda dumb
+- Helping [[Lihaku]]
+	- [[Maomao]] gets an urgent summons from [[Lihaku]]
+		- She thinks it's about [[Suirei]], but he just wants to talk about buying out a courtesan
+	- [[Maomao]] explains that there are two main clients of [[Pairin]]
+		- Older man who visited the [[Verdigris House]] during the bad years
+		- Younger man who is good but gets exhausted the next day
+		- Neither seem ideal for [[Pairin]]
+	- [[Pairin]] is very lustful, but also has a motherly side that few have seen
+		- She lactates naturally
+			- Nursed [[Maomao]] when she was a baby
+		- Has a motherly side to her that [[Maomao]] feels has gone to waste
+	- [[Maomao]] estimates the amount to be around 10,000 silver
+		- [[Lihaku]] only makes 1000/year
+	- He still wants to know the chances that [[Pairin]] will accept his offer if he finds the money
+	- Funny scene of posing naked
+- [[Jinshi]] shows up
+	- He's distraught because he's misunderstanding the situation
+	- Maomao reveals that she can read bodies to understand personalities
+	- After some misunderstanding, it's clarified that [[Maomao]] was trying to assess [[Lihaku]]'s compatibility with [[Pairin]]
+- [[Lihaku]] gets summoned by [[Jinshi]]
+	- Jinshi says that he hears that [[Lihaku]] is romantically pursuing someone
+	- Lihaku gets defensive, but decides that he will draw the line at Jinshi making fun of Pairin
+	- [[Jinshi]] offers him 20,000 to help him buy out [[Pairin]]
+	- Lihaku is floored by the offer, but questions if it's alright for [[Jinshi]] to offer it, since they barely know each other
+	- Jinshi says that Maomao's approval is enough
+		- Calls her his cat
+		- When [[Lihaku]] repeats the cat line, Jinshi seems displeased
+	- [[Jinshi]] gives [[Lihaku]]'s backstory
+		- Comes from a good family
+		- Still worked hard to become a military officer in the capital
+		- Discovered by [[Lakan]], assigned to lead a squad
+		- Officially, the prior squad leader retired and [[Lihaku]] took his place
+			- But there's more to the story
+			- Seems like [[Lakan]] prefers [[Lihaku]] and pushed out the previous squad leader
+	- [[Jinshi]] is testing [[Lihaku]] to see if he would be susceptible to bribes
+	- [[Lihaku]] passes the test
+		- Gives a romantic speech about it
+- We get a little montage of [[Lihaku]] romancing [[Pairin]] in the ways that he can
+- [[Maomao]] gets a letter from [[Pairin]]
+	- She's still in the game
+	- Waiting for her prince charming
+	- If she likes [[Lihaku]], [[Maomao]] thinks he won't need 10,000 silver
+	- The rumor that kicked off the episode came from [[Lakan]] inquiring about buying people out
+- Closing scene
+	- An attendant finds [[Lakan]] sitting at a pavilion. He seems to be late for a meeting
+	- [[Lakan]] chuckles about "blue roses"
 # Lingering Questions
 # Subplot and Themes
+This is all setting up for [[Lakan]]/[[Fengxian]]
 # Characters
+[[Lihaku]]
 [[Maomao]]

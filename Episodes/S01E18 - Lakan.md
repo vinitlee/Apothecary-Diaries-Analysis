@@ -53,7 +53,7 @@
     - This is a surprisingly multi-layered line
       - Direct: Meimei's view of Maomao/Lakan
       - Sub-direct: Meimei's view of Lakan's interaction with Meimei. Through this and the next scene, there is implied to be some feelings between her and Lakan, but only partway.
-      - Also shares a cruel irony with the true story of [[Lakan's Mistake]], since Fengxian thought that she could get everything she wanted through her trick, but ended up in her current state
+      - Also shares a cruel irony with the true story of [[Lakan's Mistake]], since Fengxian thought that she could get everything she wanted through her trick, but ended up in her current state ^d2102c
       - However, also partakes in the flipside of that irony; that Fengxian/Lakan ends up coming together, even if it was nearly 20 years later than desired
   - Meimei says that because she's getting older, she should take getting bought out more seriously
   - We see a flash of Meimei playing go with Lakan

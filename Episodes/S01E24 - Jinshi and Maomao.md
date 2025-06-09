@@ -1,4 +1,97 @@
 # Plot
+- [[Lakan]] looking at the withered rose, [[Verdigris House]] room
+	- Lakan is thinking about his desire to be with Maomao
+	- He thinks that [[Fengxian]] is dead and wants to be with the person she left behind
+	- We see a baby Maomao picking [[Woodsorrel]], another connection between the two
+	- He feels that it's natural for [[Maomao]] to hate him, but he still wants her nearby
+	- He thinks that he's failed
+	- He resents that [[Jinshi]] is close to [[Maomao]]
+	- [[Yarite Baba]] comes in the room and he begrudgingly says that he'll uphold his end of the deal, no matter the cost
+- Picking a girl
+	- He is brought into the mail hall of [[Verdigris House]]
+	- A line of girls is there, with [[Meimei]] in the front
+		- They all are depicted with Go pieces for faces
+	- [[Yarite Baba]] says that he can have his pick
+	- He questions whether she really wants to include [[Meimei]], since she is one of the [[Three Princesses]]
+	- He views this all as a trouble, but he tends towards [[Meimei]], since she's been good to him
+	- [[Meimei]] says that if he picks her, she'll accept without hesitation
+	- However, she walks over to the side door to the [[Verdigris Annex]] and opens it up
+		- We hear, faintly, the sound of [[Fengxian's Song]] coming from the [[Verdigris Annex]]
+	- Lakan cannot comprehend what he is hearing
+	- Then, it all comes together and he starts running like a madman straight for the sound, tripping over barriers
+		- Also breaking his monocle on the way, which strips him down to more of a person than we've seen him
+	- [[Yarite Baba]] protests and says that she told [[Meimei]] not to open that door
+		- [[Yarite Baba]] is still protective of [[Fengxian]]
+	- [[Lakan]] realizes the meaning of the withered rose
+- [[Verdigris Annex]]
+	- [[Fengxian]] is singing at the window
+	- [[Lakan]] makes it to the room and then stands transfixed
+	- [[Yarite Baba]] comes chasing after with [[Meimei]] in tow, protesting
+	- [[Lakan]] says that he does need to pick
+		- And that he picks her, [[Fengxian]]
+		- No matter the price, he will pay it
+		- [[Yarite Baba]] continues to protest, but [[Meimei]] quiets her
+	- [[Lakan]] sits on the bed and takes out a bag of go pieces from his sleeve. He removes a black piece and a white piece and puts them in her hand and says "Let's play Go"
+		- This is him showing that he wants to give her everything that she may want, as a reference to the last game they played, but instead of wanting to be selfish in respect to his position, he now only wants to live for her.
+	- She looks at him, face sunken and diseased.
+		- But we see from [[Lakan]]'s point of view, where she is beautiful and unblemished as 20 years ago
+			- The flipside to his face blindness
+			- Damn I need to stop cutting onions
+	- [[Meimei]] breaks down crying
+		- Both from the emotion of the moment but also for the time that was lost
+		- She asks why [[Fengxian]] could not have been honest from the start, why it took this long
+	- [[Yarite Baba]] seems to have processed what is happening and is watching on
+	- [[Lakan]] reaffirms that he will buy this courtesan
+- Back in the palace
+	- [[Maomao]] and [[Basen]] are returning from the carriage ride from [[Verdigris House]]
+	- [[Basen]] spots [[Loulan]] and [[Master Shishou]] at a gate
+		- He does not seem to like them
+		- He calls them "the wicked father-daughter duo"
+		- [[Loulan]] has three ladies in waiting behind her
+		- [[Master Shishou]] has four men behind him
+	- "My Hometown" plays as background music
+	- This may not be in the [[Rear Palace]], since [[Maomao]] comments that they stayed out after the Garden Party
+	- [[Maomao]] reflects that [[Master Shishou]] pushed hard to get his daughter in the [[Rear Palace]]
+	- [[Maomao]] concerned about [[Basen]] badmouthing high-up officials, since it might cause her trouble
+	- [[Basen]] tells her that [[Jinshi]] wants to see her
+- [[Jinshi]]'s room
+	- [[Jinshi]], [[Gaoshun]], and [[Suiren]] are there
+	- [[Suiren]] is worried about [[Maomao]], much more doting than she typically is
+	- [[Jinshi]] questions [[Maomao]] because he thought she hated [[Lakan]]
+		- She jokes that she's here because he "landed that shot"
+	- [[Maomao]] gives more agency to [[Fengxian]], and, [[S01E18 - Lakan#^d2102c|similar to the line in S01E18 by Meimei]], implies that [[Fengxian]] was trying to game the system and lost her mind when her master plan did not work out
+		- She likely timed it so he visited when she was most fertile
+	- [[Maomao]] explains [[Lakan]]'s face blindness and explains that he can see her face, thus the attachment
+		- She also has inferred that [[Lakan]] always talks to [[Jinshi]] in his office because of the face blindness
+	- She dislikes [[Lakan]], but does not hate him
+	- [[Maomao]] explains why [[Lakan]] has been at crucial points uncovering [[Suirei's Plot to Kill Jinshi]]. He does not collect evidence like she does, but goes with his gut and is rarely wrong. He did not know what was going to happen, but the traps that [[Suirei]] set stood out to him and so he pushed pieces around to uncover them.
+		- She notes that he is too lazy to take action himself, contributing to the partial failure of her operation
+		- She both thinks very highly of [[Lakan]]'s abilities and very low of his character, describing the feeling as jealousy
+			- He's talented enough to receive [[Luomen]]'s praise without caveat
+	- [[Lakan]] will not become an ally, but may be help as a non-enemy
+	- [[Gaoshun]] tries to remind her that no father *wants* to be disliked
+		- Is there any connection we're supposed to be drawing to [[Loulan]]/[[Master Shishou]]?
+- Letter from [[Meimei]]
+	- Informs Maomao of [[Lakan]]/[[Fengxian]]
+	- Includes a beautiful silk shawl and a note that says that [[Meimei]] wants her to dance when she gets bought off
+	- History aside, [[Maomao]] feels that [[Meimei]] deserves happiness and wanted to send her off
+- Dance sequence
+	- This is the custom to send off a courtesan who has been bought off
+	- It is her way of congratulating her parents on finally getting together
+	- Jinshi finds her, surprises her, saves her, and scolds her
+	- She explains what the dance was for
+	- She recounts that [[Lakan]] paid so much for [[Fengxian]] that the celebrations are double what they usually are
+		- Both shows his picture of her and to make up for the one she never had because of him
+	- Maomao also recounts that the ladies of [[Verdigris House]] hid that [[Fengxian]] was her mother when she was growing up, but that she found out through leaks that [[Fengxian]] was her mother and that [[Maomao]] was the reason that [[Verdigris House]] almost went out of business once
+	- She explains that the nightmare was real
+	- She has a crooked finger, but tells [[Jinshi]] that fingertips grow back
+	- Her leg wound from saving [[Jinshi]] opens up again and she sits down to sew it up
+	- He stops her, picks her up, jumps off the wall, and carries her to the room
+	- He says that this isn't he first time he's carried her like this, as a reference to the time in [[S01E19 - Chance or Something More]]
+	- She trolls him be getting all romantic and then asking for the [[Ox bezoar]]
+- Teaser
+	- [[Maomao]] is in her room looking at her [[Cordyceps]]
+	- She gets called out by [[Jinshi]] to help with something interesting
 # Lingering Questions
 # Subplot and Themes
 # Characters

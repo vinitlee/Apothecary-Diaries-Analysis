@@ -1,6 +1,87 @@
 # Plot
+- Opening scene, [[Verdigris House]]
+	- [[Pairin]] opens the windows to the [[Verdigris Annex]]
+	- [[Fengxian]] is singing [[Fengxian's Song]]
+		- The English translation leaves out that the song refers to the child as 猫
+- [[Maomao]] challenges [[Lakan]] to a game
+	- Rules
+		- Play xiangqi
+		- Win if you win three matches
+		- After every match, the winner chooses a cup and the loser drinks from it
+		- If a player abandons a match (forfeits or cannot play), they lose that match
+	- Stakes
+		- If [[Lakan]] wins, [[Maomao]] comes to live with him after her contract is up
+		- If [[Maomao]] wins, he buys out an "aging courtesan" from the [[Verdigris House]]
+	- She isn't playing well and loses two matches
+		- He's a pro
+	- He decides to forfeit the third match
+		- Asks if he would taste the poison if he drank a cup with the poison
+		- Maomao says it would taste bad
+		- He picks a cup and drinks it
+		- Says it tastes bad
+		- Jinshi panics because he thinks it means that Lakan basically won
+	- Lakan passes out
+		- Drunk
+- Lakan's story
+	- Faceblind
+	- His father ran off with another woman because of him
+	- But he had time to study Go and Xiangqi
+	- His uncle ([[Luomen]]) was the only person who understood and taught him to recognize people based on other things and to think of people as game pieces
+	- He got very good at both board games as well as human chess
+	- Went to [[Verdigris House]] to challenge a famous courtesan
+		- Surprisingly, he lost
+	- This was [[Fengxian]], the first person whose face he could fully see
+	- [[Fengxian]] is likened to balsam in two ways
+		- First, the color of her nails as she moved the Go pieces
+		- Second, her defiant eyes, which he says were like a balsam flower that would burst if touched
+	- They met for several years after that to play Go and Xiangqi and grew closer
+		- She was born in the pleasure district, very similar to Maomao
+	- Her popularity and price rose, and Lakan came to only be able to see her every three months
+	- The last time they met
+		- She was applying her nail polish when he came in
+			- Balsam (fengxian)
+			- Woodsorrel (cat's paw, liked to Maomao)
+			- Both burst when you touch the ripe fruit
+		- She asks him when next he can come
+			- Three months
+		- She tells him she's being bought out and that it's well above what he could pay
+		- She offers a bet: if he beats her at a game, she will give him anything that he wants, and if she wins she will take anything that she wants.
+			- She offers him the choice between Go and xiangqi.
+				- She always wins Go, and he always wins xiangqi
+			- He chooses Go
+		- [[Meimei]] is her young maid
+		- They don't finish the game and instead sleep together
+			- It's her first time
+			- Probably his as well
+		- In bed, she says that she wants to play go and he thinks that he wants to play chess
+			- This is both of them admitting that they want to be selfish and have what they want (each other) rather than what life is dictating for them
+		- When drifting to sleep, [[Fengxian]] sings [[Fengxian's Song]] in its entirety
+	- Three months later, [[Luomen]] is ousted from the [[Rear Palace]]
+	- [[Lakan]] is forced by his father to go with [[Luomen]] to study abroad just in case he gets swept up in the fallout
+	- [[Fengxian]] writes to him to let him know that the buyout fell through
+	- [[Lakan]] expects to be away for only 6 months, but is gone for three years
+	- When he returns, he discovers a pile of letters from [[Fengxian]] along with a bloody one paired with a bag of severed fingers, meant to be a curse upon him
+		- One finger is a baby's
+	- All at once, he realizes that he's been blind to the obvious truth that [[Fengxian]] had become pregnant from the last time they saw each other
+	- He rushes to [[Verdigris House]] in the rain and cries to [[Yarite Baba]] where is [[Fengxian]]
+		- She hits him, berates him, and yells that [[Fengxian]] is gone
+	- Heck dude this hits in the feels
+- [[Lakan]] wakes up, [[Verdigris House]]
+	- [[Meimei]] is taking care of him
+	- He explains that [[Meimei]] used to be [[Fengxian]]'s servant girl
+		- He used to play board games with her and when he complemented her, she seemed abashed
+			- This resurfaces the notion that [[Meimei]] has a little crush on [[Lakan]]
+	- [[Meimei]] brings him something to drink
+		- But it's super bitter!
+		- [[Maomao]] made it
+		- After hearing that [[Maomao]] made it, he's not as offended by it
+		- [[Maomao]] has also left a withered blue rose for him
+			- "Even when withered, it can retain its shape"
+- [[Maomao]] in a carriage with [[Basen]]
+	- Presumably headed back to the palace from the [[Verdigris House]]
+	- She takes out a dried blue rose bud from her robe and looks at it
 # Lingering Questions
 # Subplot and Themes
-[[]]
+[[Lakan's Mistake]]
 # Characters
 [[Maomao]]

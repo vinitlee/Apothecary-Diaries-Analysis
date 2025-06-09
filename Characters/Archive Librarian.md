@@ -3,7 +3,7 @@
 **role::** Librarian
 **reports_to::** [[???]]
 **origin::** [[???]]
-**domain::** [[Capitol Archives]]
+**domain::** [[Capital Archives]]
 
 ---
 # Notes

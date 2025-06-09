@@ -29,7 +29,7 @@
 - The [[Ceremonial Tools]] are produced
 - [[Metalworker Master]] is killed or dies
 - [[Lakan]] asks Jinshi to discover the secret technique of [[Metalworker Master]]
-- [[Suirei]] picks up medicine from the [[Capitol Pharmacy]] from the [[Flirty Doctor]]
+- [[Suirei]] picks up medicine from the [[Capital Pharmacy]] from the [[Flirty Doctor]]
 - The replacement parts are installed in the [[Altar of the Sapphire Sky]]
 - [[Jinshi]] starts performing a ritual at the [[Altar of the Sapphire Sky]]
 - [[Maomao]] tries to stop the ritual but is blocked by a guard
