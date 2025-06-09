@@ -1,4 +1,4 @@
-**mother::** [[Previous Empress Dowager]]
+**mother::** [[???]]
 **father::** [[???]]
 **role::** [[???]]
 **reports_to::** [[???]]
@@ -7,3 +7,6 @@
 
 ---
 # Notes
+Serious, skilled, stoic
+Lost his wife and child to an epidemic
+Indulged in sweets and wine

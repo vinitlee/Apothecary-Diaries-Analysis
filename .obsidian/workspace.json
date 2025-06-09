@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/The Military Wing.md",
+                "file": "Episodes/S01E20 - Thornapple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Military Wing"
+              "title": "S01E20 - Thornapple"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#why",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,17 +128,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/The Military Wing.md",
+                "file": "Episodes/S01E20 - Thornapple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Military Wing"
+              "title": "Backlinks for S01E20 - Thornapple"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/The Military Wing.md",
+                "file": "Episodes/S01E20 - Thornapple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Military Wing"
+              "title": "Outgoing links from S01E20 - Thornapple"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/The Military Wing.md",
+                "file": "Episodes/S01E20 - Thornapple.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Military Wing"
+              "title": "Outline of S01E20 - Thornapple"
             }
           },
           {
@@ -216,34 +216,36 @@
   },
   "active": "7dd61f2dd802624f",
   "lastOpenFiles": [
-    "Places/The Outer Court.md",
-    "Places/The Military Wing.md",
-    "Characters/Suirei.md",
-    "Characters/Shi Clan.md",
-    "Places/The Shi Clan.md",
-    "Places/The South of Li.md",
-    "Features/Court Lady.md",
-    "Characters/Shisui.md",
-    "Templates/Character.md",
-    "Characters/Yarite Baba.md",
-    "Characters/Maomao.md",
-    "Characters/Fengxian.md",
-    "Places",
-    "Characters/Empress Dowager.md",
-    "Characters/Emperor.md",
-    "Characters/Basen.md",
-    "Characters/Gaoshun.md",
-    "Places/The West.md",
-    "Characters/Gyokuyou.md",
-    "Features/High-ranking Concubine.md",
-    "Characters/Lishu.md",
-    "Characters/Jinshi.md",
-    "Characters/Lakan.md",
-    "Places/Empire of Li.md",
+    "Places/Jade Pavilion.md",
     "Episodes/S01E20 - Thornapple.md",
-    "Structures/Jinshi's Group.md",
+    "Characters/Emperor.md",
+    "Characters/Empress Dowager.md",
+    "Plots/General timeline.md",
+    "Episodes/S01E14 - The New Pure Consort.md",
+    "Characters/Previous Empress Dowager.md",
+    "Characters/Late Emperor.md",
+    "Characters/Loulan's Father.md",
+    "Places/Garnet Pavilion.md",
+    "Assets/Pasted image 20250608164326.png",
+    "Assets/Pasted image 20250608164249.png",
+    "Plots/Suirei's Plot to Kill Jinshi.md",
+    "Characters/Suirei.md",
+    "Compounds/Thornapple.md",
+    "Compounds/Morning glory.md",
+    "Episodes/S01E18 - Lakan.md",
+    "Places/Garden Mound.md",
+    "Characters/Flirty Doctor.md",
+    "Features/Resurrection Medicine.md",
+    "Places/Capitol Pharmacy.md",
+    "Episodes/S01E16 - Lead.md",
+    "Episodes/S01E17 - A Jaunt Around Town.md",
+    "Episodes/S01E15 - Raw Fish.md",
+    "Characters/Blue-eyed Man.md",
+    "Features/Ceremonial Tools.md",
+    "Characters/Warehouseman.md",
+    "Characters/Archive Librarian.md",
+    "Places",
     "Structures",
-    "Features/Fengxian's Song.md",
     "Utility",
     "Templates",
     "Assets/Pasted image 20250607223057.png",

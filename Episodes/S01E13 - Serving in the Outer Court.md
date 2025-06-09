@@ -59,7 +59,7 @@
 	- Suirei reprimands Maomao and says that there's no reason for her to be here
 	- Suirei steps away, and Maomao notices her smell
 		- [[Sandalwood]]
-		- Another, distinctly [[Resurrection Potion|bitter smell]]
+		- Another, distinctly [[Resurrection Medicine|bitter smell]]
 	- Suirei heads back the way that Maomao came
 	- Maomao realizes that she's in front of the military wing
 	- Bell tolls
@@ -72,7 +72,7 @@
 # Takeaways
 - The mound in front of the has some significance
 - Suirei was likely coming from the military wing, it's unclear whether she has the right to be there
-- Suirei is covering up the scent of the in-progress [[Resurrection Potion]]
+- Suirei is covering up the scent of the in-progress [[Resurrection Medicine]]
 # Characters
 - [[Jinshi]]
 - [[Maomao]]

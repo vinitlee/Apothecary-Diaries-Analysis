@@ -7,3 +7,4 @@
 
 ---
 # Notes
+Adopted by [[Flirty Doctor]]'s teacher a few years before the events of [[Suirei's Plot to Kill Jinshi]]

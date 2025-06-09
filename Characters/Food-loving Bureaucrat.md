@@ -1,9 +1,9 @@
-**mother::** [[Previous Empress Dowager]]
+**mother::** [[???]]
 **father::** [[???]]
 **role::** [[???]]
 **reports_to::** [[???]]
 **origin::** [[???]]
-**domain::** [[???]]
+**domain::** [[Board of Rites]]
 
 ---
 # Notes

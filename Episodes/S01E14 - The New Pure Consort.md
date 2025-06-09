@@ -4,11 +4,13 @@
 	- Doors to rear palace open
 	- Loulan slowly changes focus from eyes cast down on the ground before her to the rear palace in front of her
 		- She is wearing a red headdress with red jewel (garnet, matching the pavilion's name)
+			- This is the one surrendered by [[Ah-Duo]] in [[S01E11 - Reducing Two to One]]
 		- Followed by 5 ladies in waiting who are all styled like her
 			- However, she is wearing a while coat instead of a dark purple one and has the headdress
 	- They walk in precession to the Garnet Pavilion
 		- It has been cleared out
 	- She gets inside and tosses a silver headpiece with a red jewel into a box held up by an attendant
+		- She seems to have apathy or distaste for it
 	- She sits on her throne, eyes cast down, then shifts to lean on her right arm
 - Maomao planting herbs
 	- Maomao is planting herbs in the outer court because there are no herbs

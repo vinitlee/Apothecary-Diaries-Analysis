@@ -1,4 +1,4 @@
-**mother::** [[Previous Empress Dowager]]
+**mother::** [[???]]
 **father::** [[???]]
 **role::** [[???]]
 **reports_to::** [[???]]

@@ -6,3 +6,5 @@
 
 ---
 # Notes
+Gave birth to the [[Emperor]] when she was very young
+Gave birth to another child 10 years later
