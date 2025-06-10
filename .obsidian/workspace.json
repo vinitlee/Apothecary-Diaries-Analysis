@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Episodes/S02E01 - Maomao and Maomao.md",
+                "file": "Compounds/Japanese chestnut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S02E01 - Maomao and Maomao"
+              "title": "Japanese chestnut"
             }
           }
         ],
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Episodes/S02E01 - Maomao and Maomao.md",
+                "file": "Compounds/Japanese chestnut.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S02E01 - Maomao and Maomao"
+              "title": "Backlinks for Japanese chestnut"
             }
           },
           {
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Episodes/S02E01 - Maomao and Maomao.md",
+                "file": "Compounds/Japanese chestnut.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from S02E01 - Maomao and Maomao"
+              "title": "Outgoing links from Japanese chestnut"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Episodes/S02E01 - Maomao and Maomao.md",
+                "file": "Compounds/Japanese chestnut.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of S02E01 - Maomao and Maomao"
+              "title": "Outline of Japanese chestnut"
             }
           },
           {
@@ -215,16 +215,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef6d82eaaf051f59",
+  "active": "ea9986436b38c54f",
   "lastOpenFiles": [
-    "Templates/Episode.md",
+    "Characters/Blue-eyed Man.md",
     "Episodes/S02E01 - Maomao and Maomao.md",
     "Episodes/S01E24 - Jinshi and Maomao.md",
+    "Episodes/S01E23 - Balsam and Woodsorrel.md",
+    "Episodes/S01E21 - How to Buy Out a Contract.md",
+    "Episodes/S01E20 - Thornapple.md",
+    "Episodes/S01E18 - Lakan.md",
+    "Episodes/S01E16 - Lead.md",
+    "Episodes/S01E14 - The New Pure Consort.md",
+    "Episodes/S01E13 - Serving in the Outer Court.md",
+    "Episodes/S01E11 - Reducing Two to One.md",
+    "Episodes/S01E09 - Suicide or Murder.md",
+    "Templates/Episode.md",
     "Compounds/Ox bezoar.md",
     "Characters/Meimei.md",
-    "Episodes/S01E18 - Lakan.md",
     "Plots/General timeline.md",
-    "Episodes/S01E23 - Balsam and Woodsorrel.md",
     "Characters/Myne.md",
     "Characters/Empress Dowager.md",
     "Characters/Lihaku.md",
@@ -235,14 +243,6 @@
     "Characters/Lakan.md",
     "Compounds/Balsam.md",
     "Characters/Yinghua.md",
-    "Episodes/S01E16 - Lead.md",
-    "Characters/Ah-Duo.md",
-    "Templates/Character.md",
-    "Characters/Loulan.md",
-    "Characters/Master Shishou.md",
-    "Episodes/S01E21 - How to Buy Out a Contract.md",
-    "Places/The West.md",
-    "Places/Capital Archives.md",
     "Assets/Pasted image 20250608164326.png",
     "Assets/Pasted image 20250608164249.png",
     "Places",
