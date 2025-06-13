@@ -61,6 +61,7 @@
 	- [[Maomao]] explains that the issue is that the [[Rear Palace]] has a structural issue where the women brought in are expected to both be virgins and skilled at pleasing the emperor
 		- So, [[Maomao]] wants to do sex education like in [[S01E14 - The New Pure Consort]]
 			- But with more women
+			- Using the books that are in the package
 	- She is transporting the package out of the sight of [[Hongnian]] but now that effort has gone to waste
 		- This introduces [[Hongnian]] as a slightly more named character in this season and more severe (though still kind) than we knew her from last season
 	- She normally imports these from [[Verdigris House]] for the [[Emperor]], who likes the books, but multiplied the order this time
@@ -72,12 +73,28 @@
 	- [[Maomao]] explains that the print is made with metal plates instead of the typical wood plates
 		- This seems like a weirdly fancy book
 	- [[Maomao]] reiterates the desire to share it with the ladies of the [[Rear Palace]]
-		- [[Jinshi]] seems reluctant to concede the point and 
+		- [[Jinshi]] seems reluctant to concede the point, but keeps reading the book
+	- [[Gaoshun]] makes the joke/suggestion that if [[Jinshi]] likes the book so much, maybe he can just keep a copy
+	- [[Jinshi]] is embarrassed, but explains that he wants to know where they're printed so that he can learn more about their techniques
+	- [[Gaoshun]] says that some of the more explicit parts of the books need to be censored and carries them off with [[Jinshi]]. [[Maomao]] says that the [[Emperor]] wanted more exciting ones, but [[Gaoshun]] isn't having any of it
+- [[Maomao]] and [[Xiaolan]]
+	- At the clothes washing area
+	- [[Xiaolan]] is quoting something that sounds somewhat romantic
+		- While eating a huge bao
+		- "Oh, what is it that I seek beneath those beautiful flowers?"
+			- "Manure?"
+		- [[Maomao]] makes a joke and causes [[Xiaolan]] to choke on her bao
+	- [[Xiaolan]] explains that the passage is from a popular novel
+		- She cannot read
+		- But one of the girls who can is reading it out loud
+	- [[Maomao]] reflects that if even the illiterate girls know the story, it must be very popular
+- [[Jade Pavilion]]
+	- [[Yinghua]] and the other two ladies in waiting are gathered around a tan book, looking sheepish
 # Lingering Questions
 # Subplot and Themes
 A teaser of [[Who is this new girl]] when [[Shisui]] is shown just before [[Jinshi]] goes into the [[Garnet Pavilion]]
 [[The last Emperor's proclivities]] is in a way referenced by the way that the [[Emperor]]'s preferences and relative openness conflicts with how the [[Rear Palace]] has been set up, which can be seen in the problem that the books are trying to solve.
-The books also set up the challenge of [[Get these girls to read]]
+The sex books and the novel set up the challenge of [[Get these girls to read]]. [[Jinshi]]'s interest in finding the printer contributes.
 [[The Cat]] gets in somehow, evoking [[How are things getting in and out]]
 # Characters
 [[Maomao]]
