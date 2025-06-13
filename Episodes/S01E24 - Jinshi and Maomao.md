@@ -93,6 +93,13 @@
 	- [[Maomao]] is in her room looking at her [[Cordyceps]]
 	- She gets called out by [[Jinshi]] to help with something interesting
 # Lingering Questions
+## Season End Questions
+- Why was Jinshi targeted?
+- What is the goal of Jinshi's job?
+- Was Luomen actually expelled just because Ah-Duo's delivery did not go well?
+- How did the conspiracy get access to the Board of Rites?
+- Was Suirei the lone operative, or were there others? Was Suirei the [[Blue-eyed Man]]?
+- What was the role of the [[Previous Empress Dowager]]? How much power did she wield?
 # Subplot and Themes
 # Characters
 [[Maomao]]

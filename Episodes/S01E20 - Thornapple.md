@@ -172,6 +172,7 @@
 	- [[Lihaku]] overhears that one of the [[Three Princesses]] is getting bought out
 # Lingering Questions
 Why is Jinshi playing this role?
+[[How are things getting in and out]]
 # Subplot and Themes
 [[Thornapple]] is visually similar to [[Morning glory]]. However, one is poisonous and the other is medicinal. This is parallel to the double life of [[Suirei]].
 [[Jinshi's True Identity]] deepened through the drink at the end of the episode
