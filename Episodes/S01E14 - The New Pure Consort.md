@@ -114,8 +114,6 @@
 			- Pipe on ground
 				- Pipe is made of ivory
 			- Other similar warehouse has dust in the air and bags of flour in the back
-			- Experiment
-				- 
 		- Context
 			- The palace suspects arson
 			- Has elevated this to Lihaku

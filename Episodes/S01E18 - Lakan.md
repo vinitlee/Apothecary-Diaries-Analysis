@@ -64,7 +64,7 @@
   - The three goddesses join to scrub Maomao's back and dote on Maomao
 - Back in the palace
   - Jinshi reflects
-    - He wasn't expecting the place to offer brothel services
+    - He wasn't expecting the place to offer brothel services #why
   - Jinshi brings Maomao the [[S01E16 - Lead#^64a592|drink vessel]] that Lakan left him
   - Suiren instructs Maomao that the dinner tonight will be vegetarian
   - Maomao continues to be distracted by issues with Lakan due to the vessel

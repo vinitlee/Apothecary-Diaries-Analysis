@@ -13,6 +13,7 @@
 	- Covers up the identity of whomever ordered the compromised part
 
 ## Full Account of Events
+- [[Suirei]] adopted by [[Flirty Doctor]]'s teacher (allegedly)
 - [[Suirei]] recommended by the [[Flirty Doctor]]'s teacher
 - [[Suirei]] arrives in the palace
 - [[Master Kounen]] is [[Killing of Master Kounen|killed]] at a party for coworkers when [[Blue-eyed Man]] poisons him with salt
@@ -29,7 +30,7 @@
 - The [[Ceremonial Tools]] are produced
 - [[Metalworker Master]] is killed or dies
 - [[Lakan]] asks Jinshi to discover the secret technique of [[Metalworker Master]]
-- [[Suirei]] picks up medicine from the [[Capital Pharmacy]] from the [[Flirty Doctor]]
+- [[Suirei]] picks up medicine from the [[Capital Pharmacy]] from the [[Flirty Doctor]] for [[The Military Wing]]
 - The replacement parts are installed in the [[Altar of the Sapphire Sky]]
 - [[Jinshi]] starts performing a ritual at the [[Altar of the Sapphire Sky]]
 - [[Maomao]] tries to stop the ritual but is blocked by a guard
