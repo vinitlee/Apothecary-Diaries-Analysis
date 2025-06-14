@@ -1,0 +1,228 @@
+# Plot
+- Reorientation/setup vignettes
+	- Springtime in [[Pleasure District]]
+		- There seems to be a market selling perfume and other goods
+	- [[Verdigris Annex]]
+		- [[Meimei]] cleaning up the room
+		- She finds one of the black stones [[Fengxian]] used to play go against herself
+	- [[Maomao]] distilling (broken up into shorter clips spliced between the others)
+		- Shot of a still
+		- [[Maomao]] putting down a basket of flowers in the [[Rear Palace Pharmacy]]
+	- [[Verdigris House]]
+		- [[Yarite Baba]] is tabulating the cost for a stack of books
+		- Apparently, [[Maomao]] ordered the books to the palace
+		- It's going to make [[Verdigris House]] a lot of money
+	- [[Jinshi]] and [[Lihua]]
+		- [[Lihua]] is smelling a small pink 5-petaled flower near a pond
+		- [[Jinshi]] says that they're pretty
+		- [[Lihua]] says she wants to have some in her room
+	- [[Jinshi]] and [[Lishu]]
+		- [[Jinshi]] asks if she's doing ok and she says that she is
+	- [[Jinshi]] and [[Loulan]]
+		- On the way to the [[Garnet Pavilion]], [[Jinshi]] passes three servant girls carrying two baskets of clothing
+		- One of the servant girls is [[Shisui]]
+		- The girls bow to him as he passes and then run off
+		- [[Jinshi]] enters the [[Garnet Pavilion]] and we see that [[Loulan]] has many more ladies-in-waiting than before
+			- We see 18 at the vestibule
+				- 9 on each side
+			- We see 3 on the stairs
+			- The full number is obscured by a cut
+		- [[Jinshi]] makes it up the stairs and greets [[Loulan]]
+	- [[Jinshi]] and [[Gyokuyou]]
+		- We see [[Lingli]] playing with a lion doll
+		- [[Jade Pavilion]] ladies in waiting are attending to [[Lingli]]
+		- [[Jinshi]] looks around the room for [[Maomao]]
+		- [[Gyokuyou]] watches him leave from a balcony and exclaims that it really is spring
+- [[Jinshi]] and [[Maomao]], [[Maomao]] is distilling
+	- [[Rear Palace Pharmacy]]
+	- We come back to [[Maomao]] distilling
+	- The [[Eunuch Doctor]] is helping by tending a fire for a second still (and seems overwhelmed)
+	- The room is hot
+	- [[Jinshi]] asks what she is doing 
+		- [[Maomao]] explains that she found some stills and is making [[Scented oils]] from the roses they grew for the Garden Party in [[S01E22 - Blue Roses]]
+			- This confirms that S02 is starting just days after the end of S01
+	- [[Jinshi]] asks why she is not doing it at the [[Jade Pavilion]]
+		- [[Maomao]] whispers to him that some [[Scented oils]] can cause miscarriages
+			- The [[Eunuch Doctor]] is not to be trusted with information about [[Gyokuyou]]'s second pregnancy yet
+		- However, she says that unless they're very concentrated, it shouldn't be a problem
+		- [[Jinshi]] asks if perfumes will be an issue and it seems that they should be fine
+	- [[Jinshi]] asks about the second still
+		- [[Maomao]] is making high-proof alcohol
+		- Not for drinking, but for disinfecting surfaces in the [[Jade Pavilion]]
+	- [[Eunuch Doctor]] starts to bring in dessert and tea when
+	- A delivery in a large purple package arrives
+- The purple package
+	- It's brought by 2 men
+	- Wrapped in purple cloth
+	- [[Maomao]] doesn't want [[Jinshi]] to know what's inside
+		- Says that it's from her family
+		- Says that it's undergarments
+			- [[Gaoshun]] questions what undergarments would require two men to carry
+	- [[Maomao]] explains that the issue is that the [[Rear Palace]] has a structural issue where the women brought in are expected to both be virgins and skilled at pleasing the emperor
+		- So, [[Maomao]] wants to do sex education like in [[S01E14 - The New Pure Consort]]
+			- But with more women
+			- Using the books that are in the package
+	- She is transporting the package out of the sight of [[Hongnian]] but now that effort has gone to waste
+		- This introduces [[Hongnian]] as a slightly more named character in this season and more severe (though still kind) than we knew her from last season
+	- She normally imports these from [[Verdigris House]] for the [[Emperor]], who likes the books, but multiplied the order this time
+	- The books seem Kama Sutra-esque and contain both large pictures and words
+		- [[Maomao]] says they're typical gifts for newlyweds
+		- Easy to follow even if you cannot read
+	- [[Gaoshun]] comments that the paper is of good quality
+		- #why is the paper of good quality? Is the [[Eunuch Doctor]] helping source?
+	- [[Maomao]] explains that the print is made with metal plates instead of the typical wood plates
+		- This seems like a weirdly fancy book
+	- [[Maomao]] reiterates the desire to share it with the ladies of the [[Rear Palace]]
+		- [[Jinshi]] seems reluctant to concede the point, but keeps reading the book
+	- [[Gaoshun]] makes the joke/suggestion that if [[Jinshi]] likes the book so much, maybe he can just keep a copy
+	- [[Jinshi]] is embarrassed, but explains that he wants to know where they're printed so that he can learn more about their techniques
+	- [[Gaoshun]] says that some of the more explicit parts of the books need to be censored and carries them off with [[Jinshi]]. [[Maomao]] says that the [[Emperor]] wanted more exciting ones, but [[Gaoshun]] isn't having any of it
+- [[Maomao]] and [[Xiaolan]]
+	- At the clothes washing area, a few days later
+	- [[Xiaolan]] is quoting something that sounds somewhat romantic
+		- While eating a huge bao
+		- "Oh, what is it that I seek beneath those beautiful flowers?"
+			- "Manure?"
+		- [[Maomao]] makes a joke and causes [[Xiaolan]] to choke on her bao
+	- [[Xiaolan]] explains that the passage is from a popular novel
+		- She cannot read
+		- But one of the girls who can is reading it out loud
+	- [[Maomao]] reflects that if even the illiterate girls know the story, it must be very popular
+- [[Jade Pavilion]]
+	- [[Yinghua]] and the other two ladies in waiting are gathered around a tan book, looking sheepish
+	- The [[Emperor]] has distributed these books to the concubines and they're instructed to hand the book off to other ladies of the [[Rear Palace]] when they're done with them
+	- The books have the stamp of the printer's that the books from [[Verdigris House]] had, the shop that [[Maomao]] had told [[Jinshi]] of the other day
+		- It's clear that [[Jinshi]] had these made
+	- Novels are viewed as low-class for the high class, but they are a fitting gift from the emperor due to the quality of the book
+	- There are at least 100 copies
+- [[Jade Pavilion]] Kitchen
+	- [[Maomao]] is making something with [[Ginseng]] and (?) [[Mint]]
+	- [[Yinghua]] complains that she finished the current volume of the novel but wants to read more
+	- Apparently, the novel is split into volumes and they will be distributed over time. [[Gaoshun]] is already working on getting the next volume printed.
+	- The three [[Jade Pavilion]] ladies in waiting say that it's a waste for these books to only benefit them, but that sharing them outside the [[Jade Pavilion]] would not be taking proper care of the gift
+	- [[Maomao]] gets an idea from this
+		- She recommends that they make copies of the novel instead and distribute the copies
+		- She figures that this is in line with [[Jinshi]]'s plan with the books
+		- [[Jinshi]] intends to
+			- Distribute the books in the [[Rear Palace]]
+			- Generate interest in the story
+			- Generate interest in reading the story
+			- Increase the literacy in the [[Rear Palace]]
+		- He had been interested in raising literacy rate in the [[Rear Palace]] for a while
+		- [[Get these girls to read]]!
+- Get [[Xiaolan]] to read!
+	- [[Maomao]] and [[Xiaolan]] on their usual bench near the clotheswashing area
+	- [[Xiaolan]] directly displays [[Jinshi]]'s plant to [[Get these girls to read]] by passionately asking that [[Maomao]] teach her how to read
+	- The girl who was reading the books out wore out her voice
+		- But she made copies
+		- But [[Xiaolan]] can't read
+	- [[Maomao]] offers to read it to [[Xiaolan]]
+		- But [[Xiaolan]] shows commitment and feels that would be cheating
+	- [[Maomao]] starts teaching her there
+		- Draws in the sand
+		- Starts with [[Xiaolan]]'s name
+		- [[Xiaolan]] wants to both read and write
+			- Has goals for her future beyond the [[Rear Palace]]
+		- [[Maomao]] writes a bunch of herb names, which aren't the best vocab words
+			- [[Mushroom fungus]]
+			- [[Thornapple]]
+			- [[Kudzu Root]]
+- Short vignette with [[Shisui]]
+	- Windy night
+	- [[Shisui]] walking with a lantern
+	- She passes a narrow alley and [[The Cat]] perks up
+	- We see it jump on her from its POV
+- [[Lingli]]'s growing up
+	- [[Lingli]] is now permitted to leave the [[Jade Pavilion]]
+	- [[Maomao]] thinks this would be good for her health
+	- She will be guarded
+		- Two eunuchs
+		- [[Maomao]]
+		- [[Hongnian]]
+		- This is done because the rest of the [[Emperor]]'s children have died young and they're being extra cautious
+	- [[Maomao]] will teach [[Lingli]] about plants and creatures outside
+		- [[Gyokuyou]] is conscious of the fact that knowledge of poisons might actually be very helpful for [[Lingli]], since she will grow up to be a princess who is married off to another powerful family
+- [[Lingli]]'s walk
+	- [[Lingli]] walks with [[Hongnian]], with [[Maomao]] following and the two eunuchs farther behind
+	- There are a mix of reactions from the members of the rear palace
+		- Joy
+		- Respect
+		- Jealousy
+	- [[Lingli]] sees a [[Primrose]]
+	- [[Lingli]]'s attention gets grabbed by something in a narrow alleyway
+		- Remember the night scene?
+		- She runs to it
+			- To the objection of [[Hongnian]]
+		- [[Maomao]] shimmies into the alley to take a look
+		- She sees a kitten
+			- Which runs out of the alley into a grove of nearby trees
+- Catching [[The Cat]]
+	- [[Maomao]] tries to catch [[The Cat]], but it evades her
+	- [[Shisui]] jumps in and catches it
+	- She offers it to [[Maomao]]
+	- And then runs off
+	- [[Lingli]] wants to pet [[The Cat]], but [[Maomao]] says that it is dirty and needs to be cleaned first
+		- [[Lingli]] is sad
+- Cleaning [[The Cat]]
+	- [[Rear Palace Pharmacy]]
+	- [[Eunuch Doctor]] sees [[The Cat]] is trembling and fixes a bed with a hot water bottle to help
+		- He had found another cat before, and so is familiar with doing this
+	- However, [[Maomao]] is confused where [[The Cat]] could have come from
+		- Not many pets in the [[Rear Palace]]
+		- You need permission to have one
+		- Cats and dogs need to be neutered
+		- So, it's unclear where [[The Cat]] (and the one that the doctor mentioned finding before) could have come from.
+		- [[How are things getting in and out]]
+	- [[Maomao]] uses goats milk and intestine to make a replacement teat to feed [[The Cat]]
+	- Short aside of the [[Emperor]] giving permission to keep [[The Cat]]
+		- Continued humanization of the [[Emperor]], showing him as a doting father
+		- [[Emperor]] says that [[Maomao]]'s name is fitting for raising a cat
+		- [[The Emperor is a dude]]
+- [[The Cat]] rehab montage
+	- Wash carefully
+	- Wash in a bath
+	- Feed with milk
+	- Feed with chicken
+	- Use litter box
+	- Clip claws
+- [[Jinshi]] and [[Gaoshun]] check on progress
+	- [[Gaoshun]] brings dried fish
+		- Might be tough, will boil
+	- [[Jinshi]] determines [[The Cat]] is female
+	- Series of jokes about [[Jinshi]] being a eunuch
+	- [[Gaoshun]] and [[Eunuch Doctor]] like cats
+	- [[Maomao]] doesn't like cats very much
+	- [[Jinshi]] is unsure
+		- But [[Maomao]]'s description of cats reminds him of his relationship with [[Maomao]]
+- Sum up
+	- They never found out where [[The Cat]] came from
+	- Decided it must have been mixed up in some luggage
+	- It started to catch mice and was given the title "Admonisher of Thieves" by the [[Emperor]]
+	- They name [[The Cat]] "Maomao"
+- Teaser
+	- [[Jade Pavilion]] ladies and [[Maomao]] pulling out storage bins
+	- The ladies say that they need to get things cleaned up because the [[Caravan]] is coming soon
+	- [[Maomao]] doesn't know what the [[Caravan]] is
+	- Shots of a desert
+		- Red
+		- Carriage, presumably part of the [[Caravan]]
+		- Inside the carriage, we see [[Twin Sisters]]
+# Lingering Questions
+Where did the cat come from?
+# Subplot and Themes
+A teaser of [[Who is this new girl]] when [[Shisui]] is shown just before [[Jinshi]] goes into the [[Garnet Pavilion]] and when she catches [[The Cat]]
+[[The last Emperor's proclivities]] is in a way referenced by the way that the [[Emperor]]'s preferences and relative openness conflicts with how the [[Rear Palace]] has been set up, which can be seen in the problem that the books are trying to solve.
+The sex books and the novel set up the challenge of [[Get these girls to read]]. [[Jinshi]]'s interest in finding the printer contributes.
+[[The Cat]] gets in somehow, evoking [[How are things getting in and out]]
+# Notes
+This is an insanely dense episode and does the job of reorienting the audience with all of the major characters, shows what has changed, starts off most of the major plot threads of S02.
+## Inciting events
+- Bringing sex books into the [[Rear Palace]]
+	- Bringing novels into the [[Rear Palace]]
+		- [[Xiaolan]] wants to read
+		- [[Jade Pavilion]] ladies want to share the novel
+- [[Lingli]] is older
+	- [[Lingli]] finds [[The Cat]]
+- [[Maomao]] finds some stills
+# Characters
+[[Maomao]]
