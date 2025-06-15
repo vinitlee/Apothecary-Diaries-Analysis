@@ -2,8 +2,8 @@
 **father::** [[???]]
 **role::** [[???]]
 **reports_to::** [[???]]
-**origin::** 
+**origin::** [[???]]
+**domain::** [[???]]
 
 ---
 # Notes
-From [[The West of Li]]

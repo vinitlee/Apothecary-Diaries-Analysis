@@ -43,7 +43,7 @@
 			- This confirms that S02 is starting just days after the end of S01
 	- [[Jinshi]] asks why she is not doing it at the [[Jade Pavilion]]
 		- [[Maomao]] whispers to him that some [[Scented oils]] can cause miscarriages
-			- The [[Eunuch Doctor]] is not to be trusted with information about [[Gyokuyou]]'s second pregnancy yet
+			- The [[Eunuch Doctor]] is not to be trusted with information about [[Gyokuyou]]'s second pregnancy yet ^8b05d2
 		- However, she says that unless they're very concentrated, it shouldn't be a problem
 		- [[Jinshi]] asks if perfumes will be an issue and it seems that they should be fine
 	- [[Jinshi]] asks about the second still

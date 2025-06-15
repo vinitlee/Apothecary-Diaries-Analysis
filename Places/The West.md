@@ -1,0 +1,1 @@
+This refers to the foreign west, like the in-universe Europe
