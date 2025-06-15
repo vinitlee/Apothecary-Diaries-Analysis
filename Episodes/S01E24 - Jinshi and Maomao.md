@@ -1,5 +1,5 @@
 # Plot
-- [[Lakan]] looking at the withered rose, [[Verdigris House]] room
+- [[Lakan]] looking at the withered rose, [[Verdigris House]] room ^719847
 	- Lakan is thinking about his desire to be with Maomao
 	- He thinks that [[Fengxian]] is dead and wants to be with the person she left behind
 	- We see a baby Maomao picking [[Woodsorrel]], another connection between the two
@@ -71,7 +71,7 @@
 	- [[Lakan]] will not become an ally, but may be help as a non-enemy
 	- [[Gaoshun]] tries to remind her that no father *wants* to be disliked
 		- Is there any connection we're supposed to be drawing to [[Loulan]]/[[Master Shishou]]?
-- Letter from [[Meimei]]
+- Letter from [[Meimei]] ^287b0d
 	- Informs Maomao of [[Lakan]]/[[Fengxian]]
 	- Includes a beautiful silk shawl and a note that says that [[Meimei]] wants her to dance when she gets bought off
 	- History aside, [[Maomao]] feels that [[Meimei]] deserves happiness and wanted to send her off

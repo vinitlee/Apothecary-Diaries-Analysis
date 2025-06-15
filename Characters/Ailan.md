@@ -7,4 +7,4 @@
 
 ---
 # Notes
-Maroon hair
+Black hair

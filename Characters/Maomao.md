@@ -6,4 +6,4 @@
 **domain::** [[Verdigris House]]
 
 # Notes
-Main character;;
+Main character

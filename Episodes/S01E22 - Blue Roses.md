@@ -1,6 +1,30 @@
+[Episode Link](https://www.crunchyroll.com/watch/GD9UV37DZ/blue-roses)
 # Plot
-*I'm going to skip a lot of this because it's not important to the large plotlines*
-- (14:15) [[Loulan]] makes her entrance to the Garden Party
+*I'm going to skip a lot of this because it's not important to the large plotlines* #todo 
+- Lakan asks Jinshi to feature blue roses at the Garden Party ^79d7e1
+	- Garden Party is next month
+- [[Gaoshun]] asks florists
+	- Montage showing him consulting multiple florists
+	- Roses are out of season
+- [[Jinshi]] asks [[Maomao]] to help
+	- He asks her to help procure blue roses
+	- She objects
+		- She's an apothecary, not a florist
+		- Also, blue roses don't exist
+			- She asks if this is the product of a hallucinogen
+			- [[Jinshi]] seems stressed
+	- Garden Party is still next month
+	- [[Maomao]] senses that this request likely came from [[Lakan]]
+		- After confirming this, she accepts
+		- She wants to stick it to him
+	- [[Maomao]] needs to make some requests to complete the assignment
+- [[Crystal Pavilion]]
+	- [[Lihua]] has given [[Maomao]] permission to use the steam room
+	- [[Maomao]] gives [[Lihua]] the [[Emperor]]'s favorite sexy book as a token of appreciation
+- Modifying the steam room
+	- #todo
+- #todo 
+- (14:15) [[Loulan]] makes her entrance to the Garden Party ^666fce
 	- Procession with four attendants
 		- Officers are wowed
 		- She has her original look back

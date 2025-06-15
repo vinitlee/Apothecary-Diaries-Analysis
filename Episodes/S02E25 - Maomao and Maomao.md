@@ -1,5 +1,5 @@
 # Plot
-- Reorientation/setup vignettes
+- Reorientation/setup vignettes ^367083
 	- Springtime in [[Pleasure District]]
 		- There seems to be a market selling perfume and other goods
 	- [[Verdigris Annex]]
@@ -77,7 +77,7 @@
 	- [[Gaoshun]] makes the joke/suggestion that if [[Jinshi]] likes the book so much, maybe he can just keep a copy
 	- [[Jinshi]] is embarrassed, but explains that he wants to know where they're printed so that he can learn more about their techniques
 	- [[Gaoshun]] says that some of the more explicit parts of the books need to be censored and carries them off with [[Jinshi]]. [[Maomao]] says that the [[Emperor]] wanted more exciting ones, but [[Gaoshun]] isn't having any of it
-- [[Maomao]] and [[Xiaolan]]
+- [[Maomao]] and [[Xiaolan]] ^341ba4
 	- At the clothes washing area, a few days later
 	- [[Xiaolan]] is quoting something that sounds somewhat romantic
 		- While eating a huge bao
@@ -110,7 +110,7 @@
 			- Increase the literacy in the [[Rear Palace]]
 		- He had been interested in raising literacy rate in the [[Rear Palace]] for a while
 		- [[Get these girls to read]]!
-- Get [[Xiaolan]] to read!
+- Get [[Xiaolan]] to read! ^402bd0
 	- [[Maomao]] and [[Xiaolan]] on their usual bench near the clotheswashing area
 	- [[Xiaolan]] directly displays [[Jinshi]]'s plant to [[Get these girls to read]] by passionately asking that [[Maomao]] teach her how to read
 	- The girl who was reading the books out wore out her voice
@@ -132,7 +132,7 @@
 	- [[Shisui]] walking with a lantern
 	- She passes a narrow alley and [[The Cat]] perks up
 	- We see it jump on her from its POV
-- [[Lingli]]'s growing up
+- [[Lingli]]'s growing up ^bac5a4
 	- [[Lingli]] is now permitted to leave the [[Jade Pavilion]]
 	- [[Maomao]] thinks this would be good for her health
 	- She will be guarded
@@ -185,7 +185,7 @@
 	- Feed with chicken
 	- Use litter box
 	- Clip claws
-- [[Jinshi]] and [[Gaoshun]] check on progress
+- [[Jinshi]] and [[Gaoshun]] check on progress ^1e0bc8
 	- [[Gaoshun]] brings dried fish
 		- Might be tough, will boil
 	- [[Jinshi]] determines [[The Cat]] is female
@@ -199,7 +199,7 @@
 	- Decided it must have been mixed up in some luggage
 	- It started to catch mice and was given the title "Admonisher of Thieves" by the [[Emperor]]
 	- They name [[The Cat]] "Maomao"
-- Teaser
+- Teaser ^b8088a
 	- [[Jade Pavilion]] ladies and [[Maomao]] pulling out storage bins
 	- The ladies say that they need to get things cleaned up because the [[Caravan]] is coming soon
 	- [[Maomao]] doesn't know what the [[Caravan]] is

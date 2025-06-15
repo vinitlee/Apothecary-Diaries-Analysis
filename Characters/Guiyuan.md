@@ -7,4 +7,4 @@
 
 ---
 # Notes
-Maroon hair
+Tan hair
