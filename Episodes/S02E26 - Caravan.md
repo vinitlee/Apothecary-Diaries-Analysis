@@ -210,6 +210,7 @@
 - Sniffing at the [[Crystal Pavilion]]
 	- Montage of [[Maomao]] sniffing ladies at the [[Crystal Pavilion]]
 	- It seems that she doesn't find what she's looking for until she smells [[Shin]]'s dress
+		- It may also just be that [[Maomao]] smells a lot on [[Shin]]
 	- [[Shin]] throws her out and writes an official complaint
 - [[Jinshi]] addresses the complaint
 	- [[Shin]] has filed an official complaint
@@ -220,12 +221,77 @@
 		- [[Parasol Tree]]
 		- [[Frankincense]]
 		- [[Cinnamon]]
-		- 
+	- They are a list of scents and oils that [[Maomao]] smelled on the ladies of the [[Crystal Pavilion]]
+		- These compounds also have a negative effect on pregnancy
+	- [[Maomao]] also shows spices and teas she bought at the [[Caravan]]
+		- [[Jasmine Blooming Tea]]
+			- Constricts uterus
+		- [[Mustard]]
+			- Ingredient in abortive drugs
+	- She says that these are not dangerous normally, but can be used in high concentrations to negatively affect pregnancies
+	- [[Maomao]] asks [[Jinshi]] to look into the vendors
+		- [[Jinshi]] will
+		- But they were already inspected
+		- And it's unlikely that detailed records were kept
+	- [[Maomao]] likens this to the first incident of the show involving [[White Face Powder]] containing [[Lead]] which killed the child of [[Lihua Pregnancy 1]] and endangered [[Lingli]]
+	- [[Jinshi]] asks if they can assume that someone was trying to bring poison into the [[Rear Palace]]
+		- [[Maomao]] cannot say for certain
+		- There were many compounds brought in that could be used as poisons but are mundane compounds
+		- The other concubines should be warned
+	- [[Hongnian]] instructs [[Guiyuan]] to check the scented oils, spices, and teas in the [[Jade Pavilion]]
+- [[Maomao]] recontextualizes this in the events of S01
+	- [[Suirei]] still at large
+	- She tried to assassinate [[Jinshi]]
+	- More people than just her involved
+		- The question is how embedded the conspirators are
+- [[Maomao]] making [[Jasmine Blooming Tea]] in the kitchen
+	- She frets over how much of this is coincidence versus planning
+	- She sees the connections, but jumping to the conclusion there is a plot is premature
+	- However, they cannot afford to take too many risks
+	- She remembers [[Luomen]] telling her to gather proof rather than working off of conjecture
+	- [[Jinshi]] comes in
+		- He jokes that he thought the tea was poison
+		- However
+			- It's not strong enough in small doses
+			- She's not pregnant
+		- [[Maomao]] tells him off for being in the kitchen, which is below his station
+	- [[Jinshi]] asks for tea and wants the [[Jasmine Blooming Tea]] as well
+		- [[Maomao]] says it's the last one and steeping it again would make the tea watery
+			- [[Jinshi]] says that's fine
+			- However, [[Maomao]] starts to prepare a different tea
+	- [[Jinshi]] asks what the effects of the tea are
+		- Calms the mind
+		- Improves sleep
+		- Helps wake people up
+		- Helps with giving birth
+	- [[Jinshi]] comments that there are more good effects than bad
+		- [[Maomao]] agrees and says that can make remembering the bad ones hard
+	- [[Maomao]] finishes making white tea for [[Jinshi]]
+		- He protests, saying that he wanted the watery re-brewed [[Jasmine Blooming Tea]]
+	- [[Maomao]] tells him that [[Jasmine Blooming Tea]] also decreases fertility in males
+		- This was a spicy joke
+		- [[Jinshi]] is not amused
+	- She goes to fix snacks
+	- While she's not looking, he drinks the already-brewed [[Jasmine Blooming Tea]] (that she was drinking from) and then leaves
+		- Since this is an anime, I'm sure this is meant to be an "indirect kiss"
+		- He plays it off as if he's upset
+			- It's unclear if this is a ruse or if he's actually frustrated
+- [[Jinshi]] meets [[Gaoshun]]
+	- Night, right after [[Jinshi]] leaves the kitchen
+	- [[Gaoshun]] reports that he's delivered the message regarding the dangerous compounds
+	- He also reports that [[Concubine Jin]] has died
+		- Middle rank
+		- Poisoned
+		- [[Gaoshun]] whispers the details to [[Jinshi]]
+- Teaser
+	- #shot of [[Hongnian]] pouring tea for [[Gyokuyou]]
+	- Implication that the tea is poisoned
 # Lingering Questions
 Why is [[Shin]] acting [[S02E26 - Caravan#^0937da|menacingly]]?
 Does the [[Caravan]] know about a pregnancy? If so, which one(s) and how?
 # Subplot and Themes
 [[What is Shin hiding]]
 Illness
+[[Conjecture vs Proof]]
 # Characters
 [[Maomao]]

@@ -89,6 +89,90 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "6ab7be55-4c0d-488e-838b-a1d6be698083",
+      "name": "New Plot",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Plot.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Plots/{{name}}.md"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "58f0acb8-1bdf-4d6b-a2ad-ce2c8f469671",
+      "name": "New Place",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Place.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Places/{{name}}.md"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "fa39d4e3-8198-4300-8039-95855f5540a8",
+      "name": "New Feature",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Feature.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Features/{{name}}.md"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [],

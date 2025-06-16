@@ -124,7 +124,7 @@
 		- [[Xiaolan]] wants to both read and write
 			- Has goals for her future beyond the [[Rear Palace]]
 		- [[Maomao]] writes a bunch of herb names, which aren't the best vocab words
-			- [[Mushroom fungus]]
+			- [[Mushroom]]
 			- [[Thornapple]]
 			- [[Kudzu Root]]
 - Short vignette with [[Shisui]]
