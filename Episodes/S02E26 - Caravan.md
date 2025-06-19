@@ -1,3 +1,4 @@
+[Link to episode](https://www.crunchyroll.com/watch/GWDU7MZPE/caravan)
 # Plot
 - [[Jinshi]] and [[Gaoshun]] discuss the [[Caravan]]
 	- [[Caravan]]
