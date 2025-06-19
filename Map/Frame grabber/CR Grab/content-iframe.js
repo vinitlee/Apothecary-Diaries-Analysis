@@ -19,22 +19,32 @@ document.body.appendChild(marker);
 window.addEventListener("message", async (event) => {
   if (event.data?.type !== "CR_CAPTURE_FRAME") return;
 
-  log("Capture request received.");
   const video = document.querySelector("video");
   if (!video) return log("No video element found.");
+  if (video.readyState < 2) return log("Video not ready.");
 
-  try {
-    const canvas = document.createElement("canvas");
-    canvas.width = video.videoWidth;
-    canvas.height = video.videoHeight;
+  const canvas = document.createElement("canvas");
+  canvas.width = video.videoWidth;
+  canvas.height = video.videoHeight;
+  const ctx = canvas.getContext("2d");
 
-    const ctx = canvas.getContext("2d");
-    ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+  let attempts = 0;
 
-    const dataUrl = canvas.toDataURL("image/png");
-    log("Frame captured.");
-    window.parent.postMessage({ type: "CR_FRAME_DATA", data: dataUrl }, "*");
-  } catch (err) {
-    log("Frame capture failed:", err);
+  function attemptCapture() {
+    if (video.videoWidth === 0 || video.videoHeight === 0 || video.paused) {
+      if (attempts++ > 10) return log("Unable to capture: video not ready.");
+      return requestAnimationFrame(attemptCapture);
+    }
+
+    try {
+      ctx.drawImage(video, 0, 0);
+      const dataUrl = canvas.toDataURL("image/png");
+      window.parent.postMessage({ type: "CR_FRAME_DATA", data: dataUrl }, "*");
+      log("Frame successfully captured and sent.");
+    } catch (e) {
+      log("drawImage failed:", e);
+    }
   }
+
+  requestAnimationFrame(attemptCapture);
 });
