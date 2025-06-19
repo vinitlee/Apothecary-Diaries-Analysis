@@ -8,3 +8,5 @@
 ---
 # Notes
 Potentially Jinshi's mother, speculated by Maomao in [[S01E11 - Reducing Two to One]]. This would make Jinshi's lineage [[Ah-Duo]]/[[Emperor]]
+
+Aged 35 as of [[Garden Party (1)]]

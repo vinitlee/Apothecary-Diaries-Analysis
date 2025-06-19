@@ -10,6 +10,7 @@ The gazebo near the top cutting into the lake is where [[Gyokuyou]] and [[Jinshi
 This is the circled location for the school. It's suggested that the circled area is called "the southern courtyard" and is near the main gate. It's also a common congregating place.
 ![[Pasted image 20250615135736.png]]
 This is called out to be the north side near the [[North ruins]]
+![[VS--Vilos-4’40”.png]]
 ![[Pasted image 20250615172857.png]]
 ![[Pasted image 20250617201848.png]]
 ![[Pasted image 20250615181016.png]]
@@ -20,6 +21,7 @@ Rare shot of SE corner of [[Rear Palace]] looking
 # [[Garnet Pavilion]]
 ![[VS--Vilos-17’13”.png]]
 # [[Crystal Pavilion]]
+![[VS--Vilos-7’28”.png]]
 ![[VS--Vilos-6’36”.png]]
 ![[VS--Vilos-6’38”.png]]
 ![[VS--Vilos-6’41”.png]]
@@ -48,6 +50,9 @@ Note that Wisteria-9 is N of this location
 
 # [[Rear Palace Pharmacy]]
 ![[VS--Vilos-1’43”.png]]
+# Jinshi's Rear Palace Office
+![[VS--Vilos-20’41” (1).png]]
+Faces East
 # Garden Party
 ![[VS--Vilos-13’30”.png]]
 ![[VS--Vilos-14’07” (1).png]]

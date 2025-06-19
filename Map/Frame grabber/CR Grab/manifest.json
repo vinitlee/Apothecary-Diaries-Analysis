@@ -1,0 +1,39 @@
+{
+    "name": "Crunchyroll Frame Copier",
+    "description": "Copies the current frame from Crunchyroll video player to clipboard.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "scripting",
+        "clipboardWrite",
+        "webNavigation"
+    ],
+    "host_permissions": [
+        "https://www.crunchyroll.com/*",
+        "https://static.crunchyroll.com/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.crunchyroll.com/*"
+            ],
+            "js": [
+                "content-main.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://static.crunchyroll.com/vilos-v2/web/vilos/player.html*"
+            ],
+            "js": [
+                "content-iframe.js"
+            ]
+        }
+    ],
+    "action": {
+        "default_title": "Copy Frame"
+    }
+}

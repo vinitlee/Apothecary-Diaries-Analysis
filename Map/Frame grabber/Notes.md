@@ -1,0 +1,1 @@
+<div dir="auto" class="css-901oao r-1awozwy r-6koalj r-1d9yedq r-15lhr44 r-195d4m8 r-1gwld19 r-b5h31w" data-testid="vilos-current_time_label" style="color: rgb(249, 249, 250); font-size: 14px; font-weight: 500; justify-content: flex-start; -webkit-box-pack: start;">12:00</div>
