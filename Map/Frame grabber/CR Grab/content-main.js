@@ -1,30 +1,32 @@
-// Runs on www.crunchyroll.com
-document.addEventListener("keydown", (e) => {
+// content-main.js
+
+function log(...args) {
+  console.log("[CR EXT]", ...args);
+}
+
+window.addEventListener("keydown", async (e) => {
   if (e.ctrlKey && e.altKey && e.code === "KeyC") {
-    console.log("🔍 Capturing frame...");
-    const iframe = document.querySelector("iframe.video-player");
-    if (iframe && iframe.contentWindow) {
-      iframe.contentWindow.postMessage({ type: "CR_CAPTURE_FRAME" }, "*");
-    } else {
-      console.error("❌ No video player iframe found.");
-      console.log(iframe);
-      console.log(iframe.contentWindow);
-    }
+    log("Shortcut detected, sending capture request...");
+    const iframe = document.querySelector('iframe[src*="vilos/player.html"]');
+    if (!iframe) return log("No video iframe found.");
+
+    iframe.contentWindow.postMessage({ type: "CR_CAPTURE_FRAME" }, "*");
   }
 });
 
 window.addEventListener("message", async (event) => {
-  if (event.data?.type === "CR_FRAME_CAPTURED") {
-    console.log("📸 Frame captured from iframe:", event.data.payload);
-    const uint8Array = new Uint8Array(event.data.data);
-    const blob = new Blob([uint8Array], { type: "image/png" });
+  if (event.source !== window && event.data?.type === "CR_FRAME_DATA") {
+    const base64 = event.data.data;
+    log("Received image data from iframe.");
 
     try {
-      const item = new ClipboardItem({ "image/png": blob });
-      await navigator.clipboard.write([item]);
-      console.log("✅ Frame copied from iframe via parent.");
+      const blob = await (await fetch(base64)).blob();
+      await navigator.clipboard.write([
+        new ClipboardItem({ [blob.type]: blob }),
+      ]);
+      log("Image copied to clipboard.");
     } catch (err) {
-      console.error("❌ Clipboard copy in parent failed:", err);
+      log("Clipboard write failed:", err);
     }
   }
 });
