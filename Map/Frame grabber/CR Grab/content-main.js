@@ -4,7 +4,7 @@ document.addEventListener("keydown", (e) => {
     console.log("🔍 Capturing frame...");
     const iframe = document.querySelector("iframe.video-player");
     if (iframe && iframe.contentWindow) {
-      iframe.contentWindow.postMessage({ type: "CAPTURE_FRAME" }, "*");
+      iframe.contentWindow.postMessage({ type: "CR_CAPTURE_FRAME" }, "*");
     } else {
       console.error("❌ No video player iframe found.");
       console.log(iframe);
@@ -14,7 +14,8 @@ document.addEventListener("keydown", (e) => {
 });
 
 window.addEventListener("message", async (event) => {
-  if (event.data?.type === "VIDEO_FRAME_DATA") {
+  if (event.data?.type === "CR_FRAME_CAPTURED") {
+    console.log("📸 Frame captured from iframe:", event.data.payload);
     const uint8Array = new Uint8Array(event.data.data);
     const blob = new Blob([uint8Array], { type: "image/png" });
 
