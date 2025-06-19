@@ -12,3 +12,18 @@ document.addEventListener("keydown", (e) => {
     }
   }
 });
+
+window.addEventListener("message", async (event) => {
+  if (event.data?.type === "VIDEO_FRAME_DATA") {
+    const uint8Array = new Uint8Array(event.data.data);
+    const blob = new Blob([uint8Array], { type: "image/png" });
+
+    try {
+      const item = new ClipboardItem({ "image/png": blob });
+      await navigator.clipboard.write([item]);
+      console.log("✅ Frame copied from iframe via parent.");
+    } catch (err) {
+      console.error("❌ Clipboard copy in parent failed:", err);
+    }
+  }
+});
