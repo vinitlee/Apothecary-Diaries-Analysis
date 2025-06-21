@@ -4,12 +4,12 @@
 	- [[Caravan]]
 		- Larger than last time ^a1b7a9
 		- Is the advance party of special envoys from a foreign nation
-			- [[Twin Sisters]]
+			- [[Cousin Special Envoys]]
 		- Will stay longer than usual
 	- Envoy
-		- [[Twin Sisters]]?
+		- [[Cousin Special Envoys]]?
 		- There will be a welcome banquet
-		- It is being managed by a high-ranking officer in charge of receptions
+		- It is being managed by a high-ranking officer in charge of receptions ^f886db
 			- Is this [[Master Shishou]]?
 		- The envoy/neighboring country is important diplomatically
 - Shot of a [[Thornapple]] flower, perhaps in the [[Garden Mound]]

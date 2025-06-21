@@ -7,3 +7,5 @@
 
 ---
 # Notes
+Upper middle rank concubine
+Daughter of a high-ranking official

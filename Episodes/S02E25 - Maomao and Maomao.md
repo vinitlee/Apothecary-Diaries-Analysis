@@ -206,7 +206,7 @@
 	- Shots of a desert
 		- Red
 		- Carriage, presumably part of the [[Caravan]]
-		- Inside the carriage, we see [[Twin Sisters]]
+		- Inside the carriage, we see [[Cousin Special Envoys]]
 # Lingering Questions
 Where did the cat come from?
 # Subplot and Themes

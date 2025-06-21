@@ -1,0 +1,239 @@
+# Plot
+- [[Jinshi]] heads to the [[Jade Pavilion]]
+	- [[Jinshi]]'s office, [[Jinshi]] and [[Gaoshun]]
+		- It is the next day after getting the news about [[Concubine Jin]]
+	- [[Jinshi]] is reading a scroll
+	- Exclaims that he is going to the [[Jade Pavilion]]
+- [[Gyokuyou]] receives the news
+	- [[Concubine Jin]] has died
+		- She had been bedridden for around a year
+			- #maybe we might have some clue of what caused this from S01
+		- The cause of death was reported as food poisoning
+			- We can assume this is the poisoning of food, rather than foodborne illness
+	- [[Yinghua]] reports that [[Jinshi]] has arrived
+- [[Maomao]] at the [[Rear palace laundry area]]
+	- [[Maomao]] is dropping off a basket of clothes
+	- She sees [[Xiaolan]] concentrating and showing other girls her writing by drawing in the dirt with a stick like [[Maomao]] did in [[S02E25 - Maomao and Maomao]]
+- [[Maomao]] learns about [[Court Lady Tao]]
+	- [[Rear Palace Pharmacy]]
+	- [[Eunuch Doctor]] tells [[Maomao]] that [[Court Lady Tao]] is missing
+		- Good girl
+		- Hard worker
+		- Tenure was almost up
+		- Was set to be married soon
+	- [[Maomao]] inquires about the marriage
+		- [[Court Lady Tao]] had been given a hairpin at the [[Garden Party (2)]]
+		- The hairpin was from an up-and-coming bureaucrat
+		- Matron wanted her to stay
+			- Who is the matron?
+	- [[The Cat]] claws at [[Maomao]]'s skirt
+	- No idea where [[Court Lady Tao]] went
+	- However, this is not an uncommon occurrence
+		- Many women of the rear palace have "interpersonal concerns"
+	- [[Maomao]] reflects on the nature of the [[Rear Palace]]
+		- "flower garden" with 2000 women
+- Outdoor tea party
+	- [[Maomao]] sees [[Gyokuyou]] having tea with [[Jinshi]] at an outdoor gazebo by a lake
+	- She figures that if [[Gyokuyou]] stays inside too much, people will get suspicious that she is pregnant
+	- [[Gyokuyou]] is being diligent in choosing the place and her attire, but [[Maomao]] thinks someone outside of the trusted group has likely already noticed
+	- [[Gyokuyou]] calls [[Maomao]] over and says that [[Jinshi]] has need of her
+	- [[Jinshi]] suggests that he and [[Maomao]] talk elsewhere
+		- [[Gyokuyou]] says that she does not mind them talking there
+		- But [[Jinshi]] politely opposes this ^5d58ea
+			- Makes excuses
+				- Cannot take up [[Gyokuyou]]'s time
+				- [[Gyokuyou]] needs to take care of [[Lingli]]
+- [[Jinshi]] talks to [[Maomao]] about literacy
+	- [[Jinshi]] brings up the [[Novel]] that the [[Emperor]] gifted to the [[Concubine]]s
+	- [[Maomao]] confirms
+		- [[Emperor]] to [[Concubine]]
+		- [[Concubine]] to [[Lady-in-waiting]]
+		- [[Lady-in-waiting]] to other court ladies of the [[Rear Palace]]
+		- People are making copies
+		- Generating interest in learning to read and write
+	- [[Jinshi]] shows plans to build a penmanship school
+		- [[Get these girls to read]] up big
+	- [[Maomao]] approves of the idea
+		- Already those interested in learning to read and write
+		- It will help them with work after their tenure
+			- #hm it does seem that tenure and what happens after is coming up a lot in this season
+	- [[Maomao]] criticizes the location
+		- [[Southern Courtyard]]
+		- It's near the main gate
+		- It's easy to transport goods there
+		- However, it's a common place for [[Concubine]]s to gather
+			- They may not appreciate a school being there
+		- She recommends renovating a building in the [[North ruins]]
+	- [[Maomao]] makes a few more suggestions
+		- Calling it "vocational training"
+		- Give out occasional snacks
+- Mushrooms
+	- [[Jinshi]] mentions there's another thing
+	- He asks if [[Maomao]] knows about [[Mushroom]]
+	- [[Maomao]] says somewhat
+		- Food
+		- Medicine
+	- [[Jinshi]] says that around this time of year, court ladies forage for mushrooms and get sick
+	- [[Jinshi]] jabs at [[Maomao]] and brings up when she
+		- Foraged for [[Matsutake]]
+		- Took fruit from the orchard
+			- #huh When was this?
+	- [[Jinshi]] gives [[Maomao]] instructions
+		- Find and dispose of any mushrooms in the area
+		- Catalog poisonous varieties
+		- Reduce [[Jade Pavilion]] roles other than food tasting
+			- #why [[Maomao]] is confused by this, since he had [[S02E27 - Corpse Fungus#^5d58ea|just]] left a conversation with [[Gyokuyou]] and this seems like something that should be discussed with her present
+			- She also notes that he's been giving her a weird look recently
+- Starting looking for Mushrooms
+	- [[Maomao]] considers places to start
+		- Garden
+		- Orchard
+		- Pine trees
+		- [[North forest]]
+			- This is a good choice because the ladies are foraging in secret and there are too many people on the south side to be able to pull that off
+- Looking for mushrooms in the [[North forest]]
+	- Lots of mushrooms
+	- [[Maomao]] smells something weird
+	- She wonders if sewage is feeding the mushrooms
+- Returning with mushrooms
+	- [[Jade Pavilion]]
+	- She's very dirty
+	- Found a lot of mushrooms, some medicinal, dropped them off at the [[Rear Palace Pharmacy]]
+		- Told doctor that they were all poisonous
+- [[Jade Pavilion]]
+	- Timing is tight and [[Maomao]] is being rushed
+	- [[Gyokuyou]] and [[Hongnian]] have black strings on the wrists
+		- This means a noble person has died in the [[Rear Palace]]
+	- [[Hongnian]] is going somewhere after dinner and wants [[Maomao]] to come with
+- Going out with [[Hongnian]]
+	- [[Hongnian]] explains that the person who died is [[Concubine Jin]], as mentioned in [[S02E26 - Caravan]] and the beginning of this episode
+	- Reiteration of her description
+		- Upper-mid-rank concubine
+		- Daughter of high-ranking official
+		- Bedridden for a year
+		- Got food poisoning and never recovered
+			- This may be more "foodborne illness" rather than "poisoned food," but it could swing either way
+	- [[Hongnian]] says that she should have gone home, seeming to disapprove of [[Concubine Jin]]'s decisions.
+		- [[Maomao]] notices a different tone than usual in [[Hongnian]]
+	- [[Hongnian]] explains that [[Concubine Jin]] is not very nice
+		- Jealous of other concubines and court ladies
+		- Verbally and physically attacked others
+		- Did not openly attack the [[High-ranking Concubine]]s
+			- However, this coincided with the [[White Face Powder]] poisoning
+			- [[Jinshi]] made an inquiry with her
+			- She did not cooperate
+		- There has been "turmoil recently"
+			- Her ladies in waiting have been having a bad time
+			- [[Hongnian]] is honestly relieved that she died
+				- She is concerned that [[Concubine Jin]] may actually have had something to do with the [[White Face Powder]] poisoning
+	- [[Maomao]] reflects on circumstances
+		- [[Concubine Jin]] died of food poisoning
+		- Ladies had gotten food poisoning from foraging for mushrooms
+		- [[Jinshi]] very recently asked her to investigate poison mushrooms
+		- [[Jinshi]] had asked her to do this in a manner that is hidden from [[Gyokuyou]]
+	- She concludes
+		- [[Jinshi]] may be suspicious of the people at the [[Jade Pavilion]]
+		- [[Maomao]] rules out most of the people at the [[Jade Pavilion]], and realizes that she would be the prime suspect there
+			- However, she does not actually rule out [[Hongnian]]
+	- They are going to a funeral event for [[Concubine Jin]]
+		- One of [[Concubine Jin]]'s ladies in waiting is handing out [[Lily]] flowers
+			- She has a rash on the palm of her hand
+		- There is an open casket with a cloth over the corpse and a place to put the lilies
+		- [[Concubine Son]] rushes in, flips the table
+			- She has rashes on her hand and arm as well
+			- Missing hair
+			- Bandages on her head
+		- [[Concubine Son]] rips off the cloth covering the corpse and we see that there are rashes all over the face of the body, as well as missing hair
+			- This seems similar to [[Concubine Son]]
+		- [[Concubine Son]] laughs and says that [[Concubine Jin]] got what she deserved
+	- [[Maomao]] realizes that there is a connection between
+		- The inflammation on [[Concubine Jin]]/[[Concubine Son]]'s face
+		- The poisonous mushrooms
+		- [[Hongnian]] saying that [[Concubine Jin]]'s ladies in waiting had a rough time
+- Looking for mushrooms again
+	- [[North forest]]
+	- [[Maomao]] is now wearing a face mask
+	- [[Maomao]] reviews information
+		- [[Concubine Son]] is a low-ranking concubine
+		- From a wealthy merchant family
+		- Good personality
+		- Emperor visited her
+		- Exactly two years ago
+			- She fell ill, with rashes and hair loss
+			- She lost all her status, life was ruined
+			- Was permitted to stay in the rear palace out of grace of the [[Emperor]]
+		- Why did she act like that at the funeral?
+			- She thought that [[Concubine Jin]] was somehow responsible for the illness
+	- [[Maomao]] finds a [[Fire coral mushroom]]
+- Bringing the [[Fire coral mushroom]] back
+	- [[Rear Palace Pharmacy]]
+	- [[Maomao]], [[Jinshi]], [[Gaoshun]]
+	- [[Maomao]] is wearing a face mask and instructs the other two to do the same
+		- Says the mushroom is extremely poisonous
+	- Mushroom is in a wooden box
+	- Explains
+		- She found it in the [[North forest]]
+		- Area was not maintained
+		- Rare
+		- Dangerous
+			- Ingesting is lethal
+			- Touching is harmful
+		- [[Maomao]] has encountered this before and still has a scar
+	- [[Maomao]] asks if [[Jinshi]] was looking for the source of this mushroom poison
+		- [[Gaoshun]] confirms she's correct
+	- [[Jinshi]] explains
+		- [[Concubine Son]] contracted an illness two years ago and a mushroom was suspected as the cause
+		- [[Concubine Jin]] was suspected as the culprit, but never proven
+		- One year ago, [[Concubine Jin]] also contracted the same illness
+			- She became depressed and could barely speak
+			- She seemed like a different person
+		- Her ladies in waiting attest that
+			- She accidentally touched the poison when trying to use it on someone else
+			- She took the poison to commit suicide
+	- [[Maomao]] has a problem with that explanation
+		- Eating the mushroom causes
+			- Stomachaches
+			- Vomiting
+			- Paralysis
+			- Inflammation inside the mouth
+		- However, it would not spread to the rest of the face
+		- The inflammation on [[Concubine Jin]]'s face seemed new, so it would not have been from the exposure a year ago
+		- [[Maomao]] thinks [[Concubine Jin]]'s inflammation is indicative of someone rubbing the poison directly on her face
+			- [[Concubine Jin]]'s hands were clean
+			- But her lady in waiting had a rash on her hand
+	- [[Jinshi]] sees that [[Maomao]] has figured something out and prompts her to tell him, but she's not sure yet
+	- [[Maomao]] asks for
+		- A few days
+		- A few eunuchs who can keep a secret and do labor
+- Looking for a body
+	- [[Maomao]] brings [[Gaoshun]] and two eunuchs to the [[North forest]] to where the smell was
+	- She sniffs around and find the source of the smell along with a bed of mushrooms
+	- She has them dig at that spot
+	- They find a wrapped corpse that has decomposed to the bones
+	- It has jewelry on
+		- Gold necklace with purple stone
+		- Gold head thing
+- Conclusions
+	- The body was [[Concubine Jin]]
+	- She died a year ago and her ladies in waiting covered it up
+	- [[Court Lady Tao]] had taken her place
+	- [[Maomao]]'s conjecture
+		- [[Concubine Jin]] was jealous of [[Court Lady Tao]]
+			- Because they looked similar, but [[Court Lady Tao]] had gotten a marriage proposal
+		- There was a confrontation, [[Concubine Jin]] died
+		- [[Concubine Jin]]'s court ladies covered it up
+			- Partially self-preservation
+			- Partially sympathy for [[Court Lady Tao]]
+		- Her marriage talks became more serious an so playing the imposter became harder
+		- The court ladies killed her to cover up what they had done
+	- [[Jinshi]] asks [[Maomao]] how she knew where to look
+		- Mushrooms growing there are the type that grow on corpses
+		- [[Jinshi]] confiscates the mushrooms she has
+	- [[Maomao]] ruminates on what a mushroom that grew on a corpse would do #huh 
+# Inciting Events
+- [[Jinshi]] asks [[Maomao]] to remove mushrooms
+# Lingering Questions
+# Subplot and Themes
+This sets up the idea of someone being an imposter
+# Characters
+[[Maomao]]

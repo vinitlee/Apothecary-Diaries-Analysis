@@ -6,6 +6,5 @@
 **domain::** [[???]]
 
 ---
-[[Twin Sister 1]]
-[[Twin Sister 2]]
 # Notes
+Low-ranking concubine

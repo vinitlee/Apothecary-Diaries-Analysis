@@ -4,7 +4,7 @@
 I have discovered that these (dark lines) are walkways, not walls. Maybe. They also might just be bs.
 ![[Pasted image 20250615122343.png]]
 ![[Pasted image 20250615124205.png]]
-The gazebo near the top cutting into the lake is where [[Gyokuyou]] and [[Jinshi]] have tea in [[S02E26 - Corpse Fungus]]
+The gazebo near the top cutting into the lake is where [[Gyokuyou]] and [[Jinshi]] have tea in [[S02E27 - Corpse Fungus]]
 ![[Pasted image 20250615132403.png]]
 ![[Pasted image 20250617212407.png]]
 This is the circled location for the school. It's suggested that the circled area is called "the southern courtyard" and is near the main gate. It's also a common congregating place.
