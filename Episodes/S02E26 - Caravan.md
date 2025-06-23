@@ -89,7 +89,7 @@
 			- Underground sewers carry out waste straight to the [[Great River]], bypassing the moat ^d8d93c
 				- #whoa this would suggest that there's a way between the [[Rear Palace]] and the [[Great River]] that is not protected by the moat
 				- This is technology from [[The West]]
-				- This was the doing of "The Empress", aka [[Previous Empress Dowager]]
+				- This was the doing of "The Empress", aka [[Previous Empress Dowager]] ^0e6623
 			- Because of the good hygiene, disease is mostly prevented
 			- Those with severe illness are sent home to quarantine
 				- But it seems that [[Maomao]] still feels like there's something missing from the picture
@@ -146,7 +146,7 @@
 		- [[Shisui]] is wearing the same dress as [[Xiaolan]]
 		- [[Maomao]] infers that [[Shisui]] works in the laundry area
 	- [[Maomao]] buys three of the [[Jasmine Blooming Tea]] so they can wrap their business and not block the stall
-- [[Maomao]] brings her new friend to the [[Rear Palace Pharmacy]]
+- [[Maomao]] brings her new friend to the [[Rear Palace Medical Office]]
 	- [[Eunuch Doctor]] says that he didn't expect [[Maomao]] to have friends
 	- The look at the cat
 		- Ask its name
@@ -212,6 +212,7 @@
 	- Montage of [[Maomao]] sniffing ladies at the [[Crystal Pavilion]]
 	- It seems that she doesn't find what she's looking for until she smells [[Shin]]'s dress
 		- It may also just be that [[Maomao]] smells a lot on [[Shin]]
+			- We learn in [[S02E28 - The Moon Fairy]] that it's actually that [[Shin]] is not wearing any
 	- [[Shin]] throws her out and writes an official complaint
 - [[Jinshi]] addresses the complaint
 	- [[Shin]] has filed an official complaint

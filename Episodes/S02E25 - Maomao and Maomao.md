@@ -7,7 +7,7 @@
 		- She finds one of the black stones [[Fengxian]] used to play go against herself
 	- [[Maomao]] distilling (broken up into shorter clips spliced between the others)
 		- Shot of a still
-		- [[Maomao]] putting down a basket of flowers in the [[Rear Palace Pharmacy]]
+		- [[Maomao]] putting down a basket of flowers in the [[Rear Palace Medical Office]]
 	- [[Verdigris House]]
 		- [[Yarite Baba]] is tabulating the cost for a stack of books
 		- Apparently, [[Maomao]] ordered the books to the palace
@@ -34,7 +34,7 @@
 		- [[Jinshi]] looks around the room for [[Maomao]]
 		- [[Gyokuyou]] watches him leave from a balcony and exclaims that it really is spring
 - [[Jinshi]] and [[Maomao]], [[Maomao]] is distilling
-	- [[Rear Palace Pharmacy]]
+	- [[Rear Palace Medical Office]]
 	- We come back to [[Maomao]] distilling
 	- The [[Eunuch Doctor]] is helping by tending a fire for a second still (and seems overwhelmed)
 	- The room is hot
@@ -164,7 +164,7 @@
 	- [[Lingli]] wants to pet [[The Cat]], but [[Maomao]] says that it is dirty and needs to be cleaned first
 		- [[Lingli]] is sad
 - Cleaning [[The Cat]]
-	- [[Rear Palace Pharmacy]]
+	- [[Rear Palace Medical Office]]
 	- [[Eunuch Doctor]] sees [[The Cat]] is trembling and fixes a bed with a hot water bottle to help
 		- He had found another cat before, and so is familiar with doing this
 	- However, [[Maomao]] is confused where [[The Cat]] could have come from

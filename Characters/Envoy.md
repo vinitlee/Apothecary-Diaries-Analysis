@@ -8,8 +8,8 @@
 ---
 # Notes
 [[Cousin Special Envoys]]
-[[Envoy Red]]
-[[Envoy Blue]]
+[[Ayla]]
+[[Aylin]]
 
 From [[The West]]
 

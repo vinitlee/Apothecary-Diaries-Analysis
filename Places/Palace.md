@@ -48,7 +48,7 @@ E01 5:58 - Same hangers as seen at sunset
 E01 6:01 - Other direction
 Note that Wisteria-9 is N of this location
 
-# [[Rear Palace Pharmacy]]
+# [[Rear Palace Medical Office]]
 ![[VS--Vilos-1’43”.png]]
 # Jinshi's Rear Palace Office
 ![[VS--Vilos-20’41” (1).png]]
@@ -68,7 +68,17 @@ This is a very similar but different gazebo
 ![[VS--Vilos-7’40”.png]]
 Apparently [[Lihaku]] comes through the main gate whenever he visits
 # Unknown
+# Unknown orchard/storage area
+![[VS--Vilos-16’14”.png]]
 
+![[VS--Vilos-16’16”.png]]
+[[Maomao]] is coming from the [[Rear palace laundry area]] and coming via the L-R running path in the overhead shot
+![[VS--Vilos-16’19”.png]]
+# [[Clinic]]
+![[VS--Vilos-17’28”.png]]
+Called out as being on the N side of the palace
+May be on NW side
+Close to the washhouse
 # Training grounds
 ![[VS--Vilos-1’30”.png]]
 Training grounds

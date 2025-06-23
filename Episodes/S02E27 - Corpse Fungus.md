@@ -15,7 +15,7 @@
 	- [[Maomao]] is dropping off a basket of clothes
 	- She sees [[Xiaolan]] concentrating and showing other girls her writing by drawing in the dirt with a stick like [[Maomao]] did in [[S02E25 - Maomao and Maomao]]
 - [[Maomao]] learns about [[Court Lady Tao]]
-	- [[Rear Palace Pharmacy]]
+	- [[Rear Palace Medical Office]]
 	- [[Eunuch Doctor]] tells [[Maomao]] that [[Court Lady Tao]] is missing
 		- Good girl
 		- Hard worker
@@ -98,7 +98,7 @@
 - Returning with mushrooms
 	- [[Jade Pavilion]]
 	- She's very dirty
-	- Found a lot of mushrooms, some medicinal, dropped them off at the [[Rear Palace Pharmacy]]
+	- Found a lot of mushrooms, some medicinal, dropped them off at the [[Rear Palace Medical Office]]
 		- Told doctor that they were all poisonous
 - [[Jade Pavilion]]
 	- Timing is tight and [[Maomao]] is being rushed
@@ -166,7 +166,7 @@
 			- She thought that [[Concubine Jin]] was somehow responsible for the illness
 	- [[Maomao]] finds a [[Fire coral mushroom]]
 - Bringing the [[Fire coral mushroom]] back
-	- [[Rear Palace Pharmacy]]
+	- [[Rear Palace Medical Office]]
 	- [[Maomao]], [[Jinshi]], [[Gaoshun]]
 	- [[Maomao]] is wearing a face mask and instructs the other two to do the same
 		- Says the mushroom is extremely poisonous

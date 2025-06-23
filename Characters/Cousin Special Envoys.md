@@ -6,8 +6,8 @@
 **domain::** [[???]]
 
 ---
-[[Envoy Red]]
-[[Envoy Blue]]
+[[Ayla]]
+[[Aylin]]
 # Notes
 - Not actually twin sisters
 - They are cousins with the same grandfather

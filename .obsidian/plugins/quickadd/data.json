@@ -126,7 +126,7 @@
       "templatePath": "Templates/Place.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "Places/{{name}}.md"
+        "format": "Places/{{VALUE:Name}}.md"
       },
       "folder": {
         "enabled": false,

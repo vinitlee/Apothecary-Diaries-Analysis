@@ -5,9 +5,9 @@
 	- #shot The [[Cousin Special Envoys]] are sitting in chairs
 		- facing a palace man who is bowing to them
 		- four mirrors covered with white cloths
-		- [[Envoy Red]] gets up
+		- [[Ayla]] gets up
 	- #shot We see two men staked out. One is at an entrance and one is on a high floor ^bc32cd
-	- #shot [[Envoy Red]] is talking with [[Master Shishou]]
+	- #shot [[Ayla]] is talking with [[Master Shishou]]
 - The mirror
 	- [[Jade Pavilion]]
 	- There is a new mirror
@@ -190,7 +190,7 @@ Where the [[Cousin Special Envoys]] are staying or at least are meeting with [[M
 # Theory
 - The room the [[Cousin Special Envoys]] are in at the very beginning of the episode matches the outside guest room.
 - They originally had four mirrors in that room, which they gave to the [[High-ranking Concubine]]s soon after
-- It's likely that all four mirrors were used to cover up that [[Envoy Red]] left to meet with [[Master Shishou]] or that she actually left the capital all together. Still unclear what the specific information that [[Gaoshun]] had was, but there must be some reason that he's asking the question.
+- It's likely that all four mirrors were used to cover up that [[Ayla]] left to meet with [[Master Shishou]] or that she actually left the capital all together. Still unclear what the specific information that [[Gaoshun]] had was, but there must be some reason that he's asking the question.
 # Subplot and Themes
 # Characters
 [[Maomao]]
