@@ -97,7 +97,7 @@
 	- [[Maomao]] notes
 		- The envoys are cousins with a shared grandfather
 		- But they appear like twins
-		- They would be able to pull off the mirror trick from [[S02E28 - Mirrors]]
+		- They would be able to pull off the mirror trick from [[S02E28 - Mirror]]
 	- [[Ayla]] leaves her carriage, strides up to the [[Emperor]]
 		- She says she wants to sit with him
 		- She says that she hears that his brother is not attending, but would have loved to meet him

@@ -45,7 +45,7 @@
 		- The lady in waiting felt sympathy for them and took them out a few times
 			- But the father found out
 		- The father stationed male servants outside the room to watch them
-			- The included #shot is reminiscent of ![[S02E28 - Mirrors#^bc32cd]]
+			- The included #shot is reminiscent of ![[S02E28 - Mirror#^bc32cd]]
 			- The second #shot in fact shows the exact courtyard, side building, and [[Three-storied building]] that was shown at the beginning of the episode
 		- The father locked the door to their room
 		- The daughters were introverts

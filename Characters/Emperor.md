@@ -7,3 +7,4 @@
 
 ---
 # Notes
+34 at beginning of narrative, one year younger than [[Ah-Duo]]
