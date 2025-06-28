@@ -1,0 +1,251 @@
+[Link to Episode](https://www.crunchyroll.com/watch/G7PU32NV2/the-crystal-pavilion-for-the-third-time)
+# Plot
+- #shot of [[Shenlu]] in [[Clinic]] severely reading an unfolded piece of paper with many accordion folds in it
+- [[Jade Pavilion]]
+	- [[Maomao]], [[Gyokuyou]], [[Ailan]]
+	- [[Gyokuyou]] says that [[Shenlu]] wants to meet with [[Maomao]]
+	- [[Ailan]] apologizes for not being careful about the medicine
+	- [[Gyokuyou]] is a little concerned, but [[Ailan]] explains that [[Shenlu]] wants to borrow [[Maomao]]
+	- [[Gyokuyou]] has [[Ailan]] get [[Yinghua]] and sends [[Yinghua]] and [[Maomao]] to the [[Clinic]]
+- [[Clinic]]
+	- [[Shenlu]] tells [[Maomao]] her name
+	- [[Maomao]] notices things about [[Shenlu]]
+		- Green eyes
+			- [[Empire of Li]] people do not have green eyes
+			- [[Maomao]] wonders if she is from a western region like [[Gyokuyou]]
+	- [[Shenlu]] apologizes for being severe the previous day and explains that she did not realize that [[Maomao]] worked for [[Gyokuyou]] (referred to as The Precious Consort)
+		- [[Maomao]] rehashes the classification of the [[High-ranking Concubine]]s
+	- [[Shenlu]] asks [[Maomao]] for help with something
+		- Servant working for [[Lihua]] at the [[Crystal Pavilion]] who needs medicine
+		- [[Shenlu]] asks [[Maomao]] to make medicine for her
+	- [[Yinghua]] gets mad because doing so might reveal that [[Maomao]] has bene making medicine and get her in trouble
+		- [[Maomao]] figures that there must be reasons for this particular ask
+		- She asks for more details
+	- [[Shenlu]] is appreciative and explains
+		- #shot of [[Shenlu]] at the [[Rear palace laundry area]], walking N
+			- This might suggest that the [[Clinic]] is S of the [[Rear palace laundry area]]
+		- Servant girl is one [[Shenlu]] became familiar with at the [[Rear palace laundry area]]
+		- When [[Caravan]] came, she was fatigued and had a fever
+		- Had a strange cough
+		- [[Shenlu]] told her to get rest
+		- Servant girl disappeared
+		- Even if her disappearance is mundane, she needs medical attention
+		- Did not visit the clinic
+			- [[Shenlu]] feels that the higher ups at the [[Crystal Pavilion]] may not have allowed her to go
+				- [[Maomao]] explains that this means the head lady-in-waiting, [[Shin]], not [[Lihua]]
+		- It's been 2 weeks
+- Heading back
+	- [[Yinghua]] questions whether the servant girl story is real
+	- [[Maomao]] wants to investigate regardless
+		- Cough may be infectious
+		- That would affect the whole [[Rear Palace]]
+	- [[Yinghua]] warns [[Maomao]] to get permission before delving into things
+		- [[Maomao]] starts to formulate a plan
+	- [[Maomao]] sees a [[Lizard]] in the grass
+		- She jumps to catch it
+		- It gets away, but leaves its tail
+			- #hm is this an analogy or just bonding
+		- [[Yinghua]] is freaked out
+- Coughing servant girl
+	- #shot of coughing servant girl in dark room with wicker box. She coughs blood into her hand
+- [[Crystal Pavilion]]
+	- Walkway, three servant girls cleaning while [[Shin]] oversees
+	- [[Shin]] scolds a servant girl
+		- Tells her that she's supposed to be cleaning the main building
+		- Questions if she's going to "that place" again
+		- Scolds her to mind her own business
+	- Servant girl is super scared and begs for forgiveness
+	- A [[Crystal Pavilion]] lady in waiting comes running over and tells [[Shin]] that the [[Eunuch Doctor]] is here
+		- She is not expecting him
+- [[Crystal Pavilion]]
+	- [[Eunuch Doctor]], [[Maomao]] at doorway, [[Crystal Pavilion]] ladies in waiting watch
+	- Ladies in waiting speak under their breath about the [[Eunuch Doctor]]
+		- Why is he here
+		- He couldn't save the prince of [[Lihua Pregnancy 1]]
+	- [[Shin]] confronts [[Eunuch Doctor]] at the gate
+		- [[Eunuch Doctor]] nervously says that he wishes to meet with [[Lihua]]
+		- [[Shin]] says that [[Lihua]] does not want to see him
+		- [[Maomao]] whispers something in [[Eunuch Doctor]]'s ear
+			- She seems taller than usual
+		- [[Shin]] tries to recognize [[Maomao]]
+			- She doesn't fully recognize
+			- Is surprised that a court lady would be that tall
+			- Starts to recognize
+	- [[Eunuch Doctor]] proffers a request from [[Jinshi]] to justify the visit
+	- [[Shin]] yields and lets them in
+- In the [[Crystal Pavilion]]
+	- [[Shin]] says that [[Lihua]] is well
+		- She seems to still be opposing the [[Eunuch Doctor]] seeing [[Lihua]]
+	- [[Shin]] speaks with lots of harsh pride about herself and the [[Crystal Pavilion]]
+		- All the ladies in waiting at the [[Crystal Pavilion]] have noble lineage
+		- They deserve their positions
+		- [[Lihua]] is of imperial lineage
+			- Bitterly thinks to herself that she, too, has imperial lineage
+	- Flashbacks of [[Shin]]'s past
+		- Young [[Shin]] and young [[Lihua]] before a man, possibly their father
+			- He is impressing upon them the importance of winning the [[Emperor]]'s love
+- [[Shin]] is leading [[Eunuch Doctor]] and [[Maomao]] out of the [[Crystal Pavilion]]
+	- They hear a cough
+	- [[Eunuch Doctor]] and [[Maomao]] stop, looking to the source of the cough
+	- [[Maomao]] shields her face and whispers something in [[Eunuch Doctor]]'s ear
+		- She is clearly feeding him lines
+	- [[Eunuch Doctor]] asks about the shed, which was the source of the cough
+		- [[Shin]] says it's just for storage
+	- [[Eunuch Doctor]] asks if they've done gardening in the area recently
+		- [[Shin]] says no, but notices a bush with white flowers next to the shed that she does not recognize
+	- [[Maomao]] speaks for the first time this encounter
+		- She says [[Shin]] is wearing perfume today
+			- The last time, when [[Maomao]] sniffed in the [[Crystal Pavilion]], [[Shin]] was the only one without any perfume
+		- [[Shin]] is taken aback, suddenly recognizing [[Maomao]] as the girl who was sniffing around
+	- The [[Eunuch Doctor]] made a break for the shed
+		- [[Shin]] was caught up in recognizing [[Maomao]] and missed that
+		- She goes chasing after him
+			- However, [[Maomao]] grabs her wrist to stop her
+		- #whoa [[Eunuch Doctor]] has really grown since the beginning of the narrative
+		- He unbars the door to the shed and looks inside
+			- Calls out to [[Maomao]]
+	- [[Maomao]] runs over
+		- She has big wooden shoes on
+	- The coughing servant girl is inside the shed on a straw mat, just like we saw her before
+- Starting treatment
+	- [[Maomao]] puts on a face mask
+	- She tells the [[Eunuch Doctor]] to boil water and bring it
+	- [[Eunuch Doctor]] runs to get the water, passing [[Shin]] slowly walking to the shed
+	- [[Maomao]] has the servant girl drink something from a bamboo flask
+		- She coughs up blood
+	- [[Shin]] arrives in the doorway
+	- [[Maomao]] questions [[Shin]]
+		- Why is the servant girl here
+			- [[Shin]] plays it off
+			- She claims that she's quarantining the sick person
+		- [[Maomao]] says while quarantining is sensible, the servant girl will end up dead like this
+		- [[Maomao]] needles [[Shin]] and says that [[Shin]] does not value the life of a servant girl
+		- [[Maomao]] brings up when she was treating [[Lihua]]
+			- They had burned incense to cover up the smell of sick
+		- [[Maomao]] thinks this time, it's inverted; the sick servant girl is in the shed to hide the contents of the shed
+	- [[Maomao]] goes over and takes the lid off of one of many wicker boxes
+		- [[Shin]] freaks out and tries to stop her
+	- Inside the box, there are many glass perfume bottles like the ones sold at the [[Caravan]]
+		- [[Maomao]] says that they are the ones that were banned
+		- Remarks that another eunuch is going to get in trouble because these were not confiscated
+	- [[Shin]]'s inner thoughts are revealed to the viewer
+		- She is trying to stay unshaken so she can conceal her true purpose
+	- However, it seems that [[Maomao]] has figured it out
+		- She's trying to make an abortion drug
+- Washing up
+	- [[Maomao]] is washing her face and the pieces of her disguise have been taken off
+		- Dress
+		- Platform shoes
+		- Makeup
+	- She explains in internal monologue that she wore the disguise because she expected it to take multiple visits to find everything
+- [[Crystal Pavilion]]
+	- [[Lihua]], [[Shin]], [[Jinshi]], [[Gaoshun]], [[Maomao]]
+	- [[Shin]] is standing opposite everyone else
+	- [[Jinshi]] asks [[Shin]] for an explanation for the retained perfumes
+		- They were being confiscated because they could make poisons
+		- [[Shin]] remains silent, then turns to [[Lihua]]
+	- [[Maomao]] voiceover explains
+		- [[Shin]] and [[Lihua]] are cousins
+		- [[Shin]] is beautiful in her own right, and could easily be a mid-rank concubine
+			- But she's serving [[Lihua]]
+	- [[Jinshi]] poses another question: "What were you trying to do with these banned goods?"
+		- [[Shin]] claims ignorance
+		- She ordered the sick servant to sleep in the shed
+		- But she claims to not have known about the perfumes
+		- [[Shin]] also goes on the offensive and claims that [[Maomao]] and [[Eunuch Doctor]] snooping around was the real wrongdoing here
+		- She further diffuses the guilt by claiming that any number of people could have put these perfumes in the shed
+	- [[Jinshi]] says that they can ask the sick servant girl
+		- [[Shin]] challenges this by saying that she was barely conscious, feverish, and so her account cannot be trusted
+			- [[Maomao]] jumps on this and highlights that this means that [[Shin]] knew the state of the sick servant
+			- [[Maomao]] implies that [[Shin]] has been visiting the shed
+			- She also notes that [[Shin]] now has perfume scent on her, even though she had not when [[Maomao]] visited the [[Crystal Pavilion]] sniffing around
+	- [[Maomao]] pulls a bottle from the case
+		- She claims that [[Shin]] currently has on a scent that matches this bottle
+		- Approaches [[Shin]]
+			- [[Shin]] lashes out and scratches [[Maomao]]'s face, drawing blood
+		- [[Maomao]] admits that she doesn't have the right to touch [[Shin]], seems to call upon [[Jinshi]] to do so instead
+			- But [[Lihua]] says that she will
+	- [[Lihua]] asks about the outcome if the accusations are true
+		- Equivalent to attempted murder of [[Emperor]]'s child
+		- [[Lihua]] asks if it changes anything if the target was [[Lihua]]
+			- Revealing for the first time to others that she is [[Lihua Pregnancy 2|pregnant]]
+	- [[Maomao]] notes the signs that [[Lihua]] had been pregnant
+		- Same fit as [[Gyokuyou]]
+	- [[Maomao]] notes aspects of [[Crystal Pavilion]]
+		- The ladies in waiting are bad because of [[Shin]]'s designs
+	- [[Lihua]] approaches [[Shin]]
+		- Says [[Shin]] never saw [[Lihua]] as a concubine
+		- That [[Shin]] did not see her as worthy
+		- That they both did not know who would be in which position until the last moment
+	- [[Shin]] freaks out, pushes [[Lihua]] away
+		- Says [[Lihua]] is talking down to her
+		- Says that's what she always hated about [[Lihua]]
+		- [[Shin]] was always better at studies and manners, but was viewed as lesser
+	- [[Maomao]] considers the two cousins
+		- Muses that it might come down to cup size
+		- [[Shin]] means apricot, while [[Lihua]] means pear (blossom)
+		- Seems like they were made to go together by their family and have similar upbringings and aspirations
+		- However, [[Shin]] is someone who will let emotions cause her to do terrible things
+	- [[Shin]] continues throwing her fit
+		- [[Lihua]] is the daughter of the head of the family
+		- Claims she ([[Shin]]) was raised to be the empress since birth
+		- [[Jinshi]] interjects, asking if that's a confession
+		- [[Shin]] goes to the crate of perfumes and goes to throw it at [[Lihua]]
+			- Curses her to rot childless in the [[Rear Palace]]
+	- [[Gaoshun]] stops her short and the perfumes shatter on the ground
+	- [[Shin]] continues having a breakdown
+	- [[Maomao]] stoops to [[Shin]]
+		- You must love the [[Emperor]]
+		- Because it seems like you like the title of Empress more than you feel for [[Lihua]]
+			- It's possible that this is an awkward translation
+	- [[Lihua]] has been mostly watching, quiet and reserved
+		- She walks over and slaps [[Shin]] (hard)
+		- She announces to [[Jinshi]] that
+			- Her head lady in waiting has verbally abused her
+			- To the point that she raised her hand to her
+			- And so she's firing her
+		- This seems to be a form of grace; we can assume that by firing [[Shin]], [[Lihua]] is sparing her likely capital punishment
+	- [[Maomao]] notes that [[Lihua]] has grown a lot from when she first met her
+		- As understood above, the punishment is lenient and generous
+- Outside the [[Crystal Pavilion]]
+	- [[Jinshi]], [[Gaoshun]], [[Maomao]]
+	- [[Jinshi]] pushes a white silk handkerchief to [[Maomao]] and urges her to wipe the blood from her face
+	- She doesn't want to soil such a fancy thing
+	- [[Jinshi]] asks her how she figured everything out
+	- Explanation
+		- Since the servant had not been seen, she was somewhere out of sight and far from bedrooms
+		- Bush that was noticed before was white, but is typically red. Green and white is believed to bring good health in feng shui
+		- Ironically, the white powder in the seeds of this plant can be used to make an abortive medicine
+	- [[Jinshi]] reacts to this and says that there are poisons everywhere
+		- [[Maomao]] reminds him that knowledge is needed to transform things into poisons
+		- However, it's unlikely that [[Shin]] would have normally had this knowledge, so it's possible that the information came from a third party
+		- Additionally, the events stack up a little too neatly
+	- [[Jinshi]] asks if this means there's someone spreading this information in the [[Rear Palace]]
+		- Not sure, but they will need to stay careful
+	- The servant girl friend of the sick girl comes right after [[Jinshi]] leaves
+		- Asks about the sick girl
+			- Getting treatment outside of the [[Rear Palace]]
+				- Lihua is paying for it
+		- Has some of the white flowers
+		- Is happy to hear
+- [[Crystal Pavilion]]
+	- [[Lihua]], [[Emperor]] alone together drinking wine
+	- [[Emperor]] remarks about [[Maomao]]'s involvement with the recent events
+	- [[Lihua]] says that [[Maomao]] has done nothing but save her
+	- #shot of [[Emperor]]'s stare reflected in a glass of red wine
+	- He goes silent
+		- [[Lihua]] asks if there is something wrong
+		- He denies and drinks the glass
+- #shot of the [[Shrine-like building]]
+# Inciting Events
+# Lingering Questions
+What are the three times?
+- Rehab of [[Lihua]]
+- ?
+	- Sniffing?
+- This episode
+
+It's wild that [[Shin]] was just not present when [[Maomao]] was taking care of [[Lihua]]. I strongly suspect this is an artifact of the book/manga adding [[Shin]] around this point, but the anime includes more characterization in [[S01E01 - Maomao]] though [[Shin]] discarding [[Maomao]]'s warning
+# Subplot and Themes
+# Characters
+[[Maomao]]

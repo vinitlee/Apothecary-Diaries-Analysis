@@ -46,7 +46,7 @@
 			- The [[Eunuch Doctor]] is not to be trusted with information about [[Gyokuyou]]'s second pregnancy yet ^8b05d2
 		- However, she says that unless they're very concentrated, it shouldn't be a problem
 		- [[Jinshi]] asks if perfumes will be an issue and it seems that they should be fine
-	- [[Jinshi]] asks about the second still
+	- [[Jinshi]] asks about the second still ^6a56e8
 		- [[Maomao]] is making high-proof alcohol
 		- Not for drinking, but for disinfecting surfaces in the [[Jade Pavilion]]
 	- [[Eunuch Doctor]] starts to bring in dessert and tea when

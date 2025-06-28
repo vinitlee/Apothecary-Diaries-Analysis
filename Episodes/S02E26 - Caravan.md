@@ -212,7 +212,7 @@
 	- Montage of [[Maomao]] sniffing ladies at the [[Crystal Pavilion]]
 	- It seems that she doesn't find what she's looking for until she smells [[Shin]]'s dress
 		- It may also just be that [[Maomao]] smells a lot on [[Shin]]
-			- We learn in [[S02E28 - The Moon Fairy]] that it's actually that [[Shin]] is not wearing any
+			- We learn in [[S02E29 - The Moon Fairy]] that it's actually that [[Shin]] is not wearing any
 	- [[Shin]] throws her out and writes an official complaint
 - [[Jinshi]] addresses the complaint
 	- [[Shin]] has filed an official complaint

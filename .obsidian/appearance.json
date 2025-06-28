@@ -1,3 +1,10 @@
 {
-  "accentColor": "#289a5f"
+  "accentColor": "#289a5f",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "theme": "obsidian"
 }

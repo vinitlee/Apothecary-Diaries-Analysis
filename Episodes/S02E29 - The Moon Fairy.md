@@ -253,15 +253,60 @@
 		- It's on the N side of the palace
 		- Close to the [[Rear palace laundry area]]
 			- Good since it makes sanitization easier
-	- [[Older Clinic Woman]] comes over to look at [[Ailan]]
+	- [[Shenlu]] comes over to look at [[Ailan]]
 		- [[Maomao]] is surprised to see a middle-aged court lady in the [[Rear Palace]]
-	- [[Older Clinic Woman]] checks [[Ailan]]'s fever and tongue
+	- [[Shenlu]] checks [[Ailan]]'s fever and tongue
 		- She says that as long as [[Ailan]] takes it easy for a couple days, it should pass
 		- But then asks [[Ailan]] what she wants to do
 		- [[Ailan]] says she doesn't want to spread the illness
 			- Asks to stay overnight
-	- [[Older Clinic Woman]] seems professional and knowledgeable, better than [[Eunuch Doctor]]
-	- 
+	- [[Shenlu]] seems professional and knowledgeable, better than [[Eunuch Doctor]]
+- Walking through the [[Clinic]]
+	- [[Ailan]] smells [[Alcohol]] and says that she hates the smell
+		- This connects with [[S02E25 - Maomao and Maomao#^6a56e8|when Maomao was explaining using alcohol for disinfecting in E25]]
+	- The [[Clinic]] has a few elements that keep it clean
+		- Disinfecting surfaces with [[Alcohol]]
+		- Good ventilation
+		- Simple, so easy to clean
+	- [[Ailan]] gets a room to quarantine in
+	- [[Maomao]] looks inside the room, but [[Shenlu]] scolds her and tells her to get back to work
+		- Threatens her with folding the [[Clinic]] laundry
+- Just outside the [[Clinic]]
+	- There are many older women dressed like [[Shenlu]] who work at the [[Clinic]]
+	- It's weird that there are so many older women, since there is a soft age cap in the [[Rear Palace]]
+		- [[Maomao]] assumes that this is because [[Clinic]] workers need to have experience and knowledge and so stay longer
+	- She runs into [[Jinshi]], who scolds her for walking while talking to herself
+	- He doesn't seem to have anything in particular to talk about
+		- But [[Gaoshun]] motions for [[Maomao]] to hold a conversation
+	- [[Maomao]] explains that she's been at the [[Clinic]]
+		- Didn't know it existed
+		- [[Jinshi]] says that she should have been shown during orientation, but [[Maomao]] was not paying attention
+			- I believe this is a 3.5th wall sort of way of saying that we're about to see a bunch of locations in the [[Rear Palace]] that we didn't previously know existed
+	- [[Maomao]] compliments the [[Clinic]] and says that it should replace the [[Rear Palace Medical Office]]
+		- [[Jinshi]] and [[Gaoshun]] explain that would be great, but impossible
+			- Women not allowed to be doctors
+			- Women not allowed to make medicine
+				- They're looking the other way for [[Maomao]]
+				- #hm [[Maomao]] suspects there's a convoluted backstory to these rules and this situation
+	- [[Jinshi]] explains that they need to consider ways of getting non-eunuch doctors
+		- Apparently, the [[Emperor]] banned the castration surgery that creates eunuchs five years ago
+		- However, non-contrasted men are still not allowed in the [[Rear Palace]]
+		- #huh this seems wildly impractical
+		- The [[Rear Palace]] cannot replenish staff so faces an impending crisis
+		- [[Maomao]] surmises that it would only make sense if [[Jinshi]] had been castrated right before the ban
+			- We know this to not be true, but it should match [[Jinshi]]'s cover story
+	- [[Jinshi]] and [[Gaoshun]] head off
+	- Before leaving, [[Jinshi]] warns [[Maomao]] to make sure no one finds out that she makes medicine
+	- [[Maomao]] muses on making a drug to grow back [[Jinshi]]'s family jewels
+- [[Clinic]]
+	- [[Ailan]]'s room
+	- [[Ailan]] has powdered medicine in a paper and takes it orally
+	- [[Shenlu]] sees her and questions her
+		- She identifies that it is medicine
+		- And that [[Maomao]] secretly made it
+			- [[Maomao]] smelled like medicine
+		- This is exactly what [[Jinshi]] just warned [[Maomao]] about!
+- #shot  of [[Maomao]] making medicine in a rolling grinder
 # Inciting Events
 # Lingering Questions
 # Subplot and Themes
