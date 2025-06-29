@@ -4,7 +4,7 @@
 | ----------------------------------------- | ------------------------------------------------------------------------------------------- |
 | -29 to -38[[General timeline#^8451ca\|*]] | [[Emperor]] born                                                                            |
 | -19.25                                    | [[Lakan]] and [[Fengxian]] sleep together                                                   |
-| -19                                       | [[Jinshi]] born, [[Empress Dowager]] in labor, [[Ah-Duo]] in labor                          |
+| -17                                       | [[Jinshi]] born, [[Empress Dowager]] in labor, [[Ah-Duo]] in labor                          |
 | -19                                       | [[Luomen]] ousted from his position                                                         |
 | -16                                       | [[Lakan]] returns to [[Empire of Li]]                                                       |
 | -18.5                                     | [[Maomao]] born                                                                             |
@@ -19,6 +19,11 @@ Emperor birth time range: The current bounds on the age of the [[Emperor]] come 
 
 This is something to check using early S01.  I think this should be able to be told within a few months. We know that the assassination happens only a few days before the second Garden Party, we should be able to tell the season at the start of S01E01, and I believe there was an explicit period of time skipped between the kidnapping and the true start of the series.^9a91ad
 
+Okay, some notes from the manga
+Apparently, at the time of expulsion, [[Jinshi]] is 17. This is confirmed from [[Maomao]]'s research in the archives while investigating [[Fengming]] at the [[Garnet Pavilion]], when she reads that [[Ah-Duo Pregnancy]] delivery was 17 years ago.
+The baby (in her care) died a year later.
+[[Ah-Duo]] is 35 and the [[Emperor]] is 34 at time of investigation.
+This requires updating of all events that relied on [[Jinshi]] being 19, but also might be best to revise everything to be relative to date of kidnapping.
 # Episode Timeline
 Most increments here are approximate because the show is not explicit about whether something is happening the next day, a few days later, or a few weeks later. When the day delta is a guess, it will have a **?** appended. When it is strongly explicit, it will have a **!** appended. When there is nothing appended, it is not explicit but is a solid inference.
 
