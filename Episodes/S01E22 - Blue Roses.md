@@ -39,7 +39,7 @@
 		- Some are envious, and the finds that easy to manage
 		- However, some are harder to read and those are a problem
 			- [[Master Shishou]]
-				- Because of his high status and being favored by the [[Previous Empress Dowager]], even the emperor is threatened by him
+				- Because of his high status and being favored by the [[The Empress]], even the emperor is threatened by him
 			- [[Lakan]]
 				- Funny scene of Lakan wiping his fingers on a drunk officer's hat
 				- Lakan finds the success that Jinshi had in procuring the roses to be troublesome, but isn't too affected by it

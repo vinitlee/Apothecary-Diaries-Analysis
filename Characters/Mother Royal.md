@@ -1,4 +1,4 @@
-**mother::** [[The Empress]]
+**mother::** [[???]]
 **father::** [[???]]
 **role::** [[???]]
 **reports_to::** [[???]]
@@ -7,3 +7,4 @@
 
 ---
 # Notes
+![[S02E31 - The Shrine of Choosing#^dbeea6]]

@@ -144,7 +144,7 @@
 		- She changes style and makeup often
 		- She seems like a different person every time he visits her
 		- But still visits her ever 1.5 weeks
-	- [[Master Shishou]] is a high-ranking official who was the [[Previous Empress Dowager]]'s favorite
+	- [[Master Shishou]] is a high-ranking official who was the [[The Empress]]'s favorite
 		- The [[Emperor]] needs to be careful around [[Master Shishou]]
 	- [[Jinshi]] connects this to [[Lishu]], saying that she is unappealing as well since the [[Emperor]] does not share the [[Late Emperor]]'s taste for young girls
 - Jinshi reflects on his birth

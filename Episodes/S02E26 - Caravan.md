@@ -89,7 +89,9 @@
 			- Underground sewers carry out waste straight to the [[Great River]], bypassing the moat ^d8d93c
 				- #whoa this would suggest that there's a way between the [[Rear Palace]] and the [[Great River]] that is not protected by the moat
 				- This is technology from [[The West]]
-				- This was the doing of "The Empress", aka [[Previous Empress Dowager]] ^0e6623
+				- This was the doing of "The Empress", aka [[The Empress]] ^0e6623
+					- *Clarification from the LN:* The development of the [[Rear Palace]] was the work of [[The Empress]], but the sewer system was already there. Furthermore, it suggests that the palace had likely been the entire ancient city
+					- *The former emperor had utilized this site because there was already an existing sewer here, a technology that had apparently come from the west. Talk had it that the rear palace had once been an actual city, refashioned to serve its current purpose. Both the walls and moat had belonged to that city, so that despite its size, building the rear palace had actually been fairly economical. It was perhaps not surprising to hear that the prime mover behind the project had been the haughty but effective empress regnant.*
 			- Because of the good hygiene, disease is mostly prevented
 			- Those with severe illness are sent home to quarantine
 				- But it seems that [[Maomao]] still feels like there's something missing from the picture

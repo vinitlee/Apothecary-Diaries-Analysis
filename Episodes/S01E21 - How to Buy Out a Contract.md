@@ -9,7 +9,7 @@
 	- [[Maomao]] feels that he must be from a rich family because sweet potatoes are not in season and he's using good paper recklessly
 	- His family is the paper purveyor for the palace
 	- He talks about how well they used to do, but everything is in the past tense
-	- The [[Previous Empress Dowager]] banned the cutting of trees
+	- The [[The Empress]] banned the cutting of trees
 		- They started using alternative materials
 		- His older sister came to work at the [[Rear Palace]]
 		- His younger sister was going to also go to work at the [[Rear Palace]], but he opted to go in her stead and become a eunuch

@@ -99,7 +99,7 @@
 - Was Luomen actually expelled just because Ah-Duo's delivery did not go well?
 - How did the conspiracy get access to the Board of Rites?
 - Was Suirei the lone operative, or were there others? Was Suirei the [[Blue-eyed Man]]?
-- What was the role of the [[Previous Empress Dowager]]? How much power did she wield?
+- What was the role of the [[The Empress]]? How much power did she wield?
 # Subplot and Themes
 # Characters
 [[Maomao]]
