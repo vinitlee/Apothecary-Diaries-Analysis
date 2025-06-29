@@ -1,5 +1,5 @@
 # Plot
-- Lakan overhears a rumor
+- Lakan overhears a rumor ^45ae27
 	- Lihaku is getting credit for solving the warehouse mystery
 	- However, there is a rumor that Maomao helped
 	- Lakan overhears and asks for more information about Maomao

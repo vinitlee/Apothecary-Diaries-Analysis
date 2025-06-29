@@ -89,6 +89,7 @@
     - He says "A court lady shouldn't be doing this..."
 - Reflecting on Jinshi
   - Medicine tastes like potato flour
+	  - #why 
   - Jinshi is mysterious
     - Gets assigned peculiar work every few weeks
     - Takes long baths the day before

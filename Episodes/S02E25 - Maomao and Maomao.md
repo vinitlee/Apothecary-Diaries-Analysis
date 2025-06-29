@@ -7,7 +7,7 @@
 		- She finds one of the black stones [[Fengxian]] used to play go against herself
 	- [[Maomao]] distilling (broken up into shorter clips spliced between the others)
 		- Shot of a still
-		- [[Maomao]] putting down a basket of flowers in the [[Rear Palace Pharmacy]]
+		- [[Maomao]] putting down a basket of flowers in the [[Rear Palace Medical Office]]
 	- [[Verdigris House]]
 		- [[Yarite Baba]] is tabulating the cost for a stack of books
 		- Apparently, [[Maomao]] ordered the books to the palace
@@ -34,7 +34,7 @@
 		- [[Jinshi]] looks around the room for [[Maomao]]
 		- [[Gyokuyou]] watches him leave from a balcony and exclaims that it really is spring
 - [[Jinshi]] and [[Maomao]], [[Maomao]] is distilling
-	- [[Rear Palace Pharmacy]]
+	- [[Rear Palace Medical Office]]
 	- We come back to [[Maomao]] distilling
 	- The [[Eunuch Doctor]] is helping by tending a fire for a second still (and seems overwhelmed)
 	- The room is hot
@@ -46,7 +46,7 @@
 			- The [[Eunuch Doctor]] is not to be trusted with information about [[Gyokuyou]]'s second pregnancy yet ^8b05d2
 		- However, she says that unless they're very concentrated, it shouldn't be a problem
 		- [[Jinshi]] asks if perfumes will be an issue and it seems that they should be fine
-	- [[Jinshi]] asks about the second still
+	- [[Jinshi]] asks about the second still ^6a56e8
 		- [[Maomao]] is making high-proof alcohol
 		- Not for drinking, but for disinfecting surfaces in the [[Jade Pavilion]]
 	- [[Eunuch Doctor]] starts to bring in dessert and tea when
@@ -164,7 +164,7 @@
 	- [[Lingli]] wants to pet [[The Cat]], but [[Maomao]] says that it is dirty and needs to be cleaned first
 		- [[Lingli]] is sad
 - Cleaning [[The Cat]]
-	- [[Rear Palace Pharmacy]]
+	- [[Rear Palace Medical Office]]
 	- [[Eunuch Doctor]] sees [[The Cat]] is trembling and fixes a bed with a hot water bottle to help
 		- He had found another cat before, and so is familiar with doing this
 	- However, [[Maomao]] is confused where [[The Cat]] could have come from
@@ -206,7 +206,7 @@
 	- Shots of a desert
 		- Red
 		- Carriage, presumably part of the [[Caravan]]
-		- Inside the carriage, we see [[Twin Sisters]]
+		- Inside the carriage, we see [[Cousin Special Envoys]]
 # Lingering Questions
 Where did the cat come from?
 # Subplot and Themes

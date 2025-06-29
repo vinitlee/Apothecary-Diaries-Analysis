@@ -21,6 +21,7 @@
 	- Jinshi asks if she knows about the new Pure Consort
 	- Jinshi says that Gyokuyou and Lihua have recommended that Maomao educate the new consort
 		- This is because Maomao gave Lihua advice about paizuri
+		- It's interesting that [[Lihua]] and [[Gyokuyou]] are recommending education for [[Loulan]]
 - Receiving books
 	- Maomao has received books from Verdigris House
 	- They are expensive, but she also tries to up the price to pocket some money
@@ -164,3 +165,5 @@
 [[Loulan]]
 [[Maomao]]
 [[Suiren]]
+
+![[Pasted image 20250615204334.png]]

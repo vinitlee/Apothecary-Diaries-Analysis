@@ -1,0 +1,196 @@
+[Link to Episode](https://www.crunchyroll.com/watch/G0DUMWE92/mirror)
+# Plot
+- [[Cousin Special Envoys]]
+	- #shot from the garden area of a 3-story building (bigger than consort pavilion), but which we haven't seen before
+	- #shot The [[Cousin Special Envoys]] are sitting in chairs
+		- facing a palace man who is bowing to them
+		- four mirrors covered with white cloths
+		- [[Ayla]] gets up
+	- #shot We see two men staked out. One is at an entrance and one is on a high floor ^bc32cd
+	- #shot [[Ayla]] is talking with [[Master Shishou]]
+- The mirror
+	- [[Jade Pavilion]]
+	- There is a new mirror
+		- Everyone is impressed
+		- It is made out of glass
+	- Information on mirrors
+		- Glass mirrors are hard to make
+		- Only available through trade with the west
+		- This mirror must be very valuable
+	- The [[Jade Pavilion]] had a glass hand mirror in the past
+		- But [[Yinghua]] broke it
+	- This mirror was a gift from the special foreign envoy
+		- [[Maomao]] recalls the envoy being discussed
+			- The [[Caravan]] was the advance party to the arrival of the envoy
+		- A mirror was given to each [[High-ranking Concubine]]
+			- #shot of each concubine with their new mirror
+	- Transporting the four mirrors must have been difficult
+- The question of the two sisters
+	- #shot of [[Jade Pavilion]] from courtyard. It's lush at this time of year. In some ways, this is a parallel shot to the opening shot of the 3-storied building
+	- [[Gaoshun]] comes to the [[Jade Pavilion]] to ask [[Maomao]] to consult on an issue
+	- [[Hongnian]] wants to join
+		- However, loses interest when she learns that [[Gaoshun]] is married
+			- Is [[Hongnian]] looking for a husband?
+		- She still joins though?
+	- The problem
+		- A rich family has two daughters
+			- Close in age
+			- Similar appearances
+		- Loved by their parents
+		- When they came of age, parents became overprotective
+			- Not allowed to leave house
+				- Not even together
+			- Lady in waiting monitored them
+			- Stayed in the house
+		- The lady in waiting felt sympathy for them and took them out a few times
+			- But the father found out
+		- The father stationed male servants outside the room to watch them
+			- The included #shot is reminiscent of ![[S02E28 - Mirror#^bc32cd]]
+			- The second #shot in fact shows the exact courtyard, side building, and [[Three-storied building]] that was shown at the beginning of the episode
+		- The father locked the door to their room
+		- The daughters were introverts
+			- Spent all day at embroidery
+		- One day, younger daughter is pregnant
+			- Older daughter claims it is the child of a wizard
+	- [[Maomao]]'s questions
+		- Didn't the lady in waiting just sneak them out?
+			- No, she had been fired as a warning
+			- There was a new one that didn't interact with them very much
+		- Did one of the servant men do it?
+			- Not allowed to approach the room
+	- [[Maomao]] says it's outside her realm of expertise
+		- Notes that it's possible for the body to trick itself into thinking it's pregnant
+		- She asks if [[Gaoshun]] is sure she's pregnant
+			- [[Gaoshun]] reacts funnily, implying that the story he has told is at least partially fabricated. It is likely a thought experiment constructed around a real mystery involving the [[Cousin Special Envoys]]
+			- [[Gaoshun]] clarifies that what he really wants to know is how she snuck past surveillance
+	- [[Gaoshun]] even has a diagram of how they were being surveilled
+		- ![[Pasted image 20250620221620.png]]
+			- What is the square my dude
+		- Three ways of leaving the room
+			- W-running corridor to main building
+			- S window
+				- Watched by man on third floor of main building
+			- E window
+				- Watched by man on first floor of main building
+	- More questions
+		- Could the guards see inside the room?
+			- No, but they could see the sisters doing needlepoint near the window
+		- Why were they doing a strange hobby like embroidery?
+			- They are from a pastoral culture #huh 
+	- [[Maomao]] thinks [[Gaoshun]] is hiding important details
+	- [[Gaoshun]] says that [[Jinshi]] is sorry that the [[Ox bezoar]] is late
+		- It's suddenly in high demand
+			- #why [[Maomao]] doesn't get an answer for this
+		- He's been gifted rare medicines by different people recently
+			- People know he's looking for them
+				- I guess we can assume that part of this is [[Jinshi]] wanting to get these for [[Maomao]], but I'm not sure this explains why the [[Ox bezoar]] is in high demand, unless it's people preemptively buying it so they can try to get favors from [[Jinshi]]
+		- [[Gaoshun]] gives her [[Bear gall]] to tide her over
+			- [[Jinshi]] had wanted to give it to her personally
+				- So it seems that [[Jinshi]] is tied up with some business, perhaps related to the sister problem
+	- [[Maomao]]'s Solution
+		- A mirror was placed diagonally between the sisters
+		- The needlepoint was chosen to be an image that looks like two different things (birds, rabbits) and each girl worked on a mirrored version
+		- One girl stayed with the mirror and the other left by the W exit
+		- Additionally
+			- The mirrors from the envoys were large and had high quality reflections
+			- [[Luomen]] said that high-class women in [[The West]] often did needlepoint
+			- It seems likely that this is not about a pregnancy, but rather about a guest who may be a spy
+- [[Gaoshun]] and [[Jinshi]]
+	- "An otherworldly beauty that sheds pearls as tears"
+	- [[S02E26 - Caravan#^f886db|High-ranking official in charge of welcoming party]] is asking [[Jinshi]] for help
+	- [[Jinshi]] is concerned
+		- This concerns the envoys ([[Cousin Special Envoys]])
+		- Their mirrors are suspicious
+		- This request is also weird
+- The otherworldly beauty
+	- [[Jade Pavilion]]
+	- [[Jinshi]], [[Gaoshun]], [[Gyokuyou]], [[Hongnian]], [[Maomao]]
+	- [[Jinshi]] asks [[Maomao]] if she has heard of "An otherworldly beauty that sheds pearls as tears"
+	- Story
+		- Beauty, like moon fairy
+		- Danced
+		- Lights danced around her
+		- When she cried, her tears turned to pearls
+		- Courtesan from [[Pleasure District]]
+	- Requested by envoys
+		- Envoys from [[The West]]
+		- Their grandfather told them the story when they were young
+			- The story is around 50 years old
+	- The courtesan in question is [[Yarite Baba]]
+	- [[Maomao]] says they could just hire a beautiful woman
+		- [[Jinshi]] said they already threw a welcoming party with beautiful women, but the envoys were not satisfied
+			- #shot of the two envoys in a similar event space that [[Verdigris House]] performed in when [[Jinshi]] found [[Maomao]] dancing for them. 7 men in fez hats accompanying
+		- The envoys laughed it off
+	- The envoys are female, so they're not interested in sleeping with the women
+	- More information
+		- The envoys are very important
+		- They control both the northern and western trade points
+			- The caravan was large because of interest in increasing trade from both nations
+	- [[Jinshi]] is stressed
+		- Needs a solution that is both effective and isn't risky
+			- So no hallucinogens
+- [[Yarite Baba]]
+	- Visitation room
+	- Did she perform for an envoy?
+		- Yes
+		- >50 years ago
+			- Emperor before [[Late Emperor]]
+		- At the time, there were tourists visiting the city
+			- It had been build on ancient ruins
+		- The city was newly the capital of the country
+		- There was no castle at the time
+		- They used a ruin as the venue
+			- Old ceremonial site
+			- Next to a pond
+			- Buildings next to an orchard
+			- [[North ruins]]
+		- [[Yarite Baba]] was main dancer
+			- She was the highest-ranked courtesan at the time
+				- She had 12 backup dancers
+			- She was tall and curvy
+		- The event was largely improvised and hard to plan
+			- They tried to increase visibility
+				- Planned for phase of moon
+				- Cleared out obstacles
+			- Picked out bugs from nearby orchard
+				- But there were bugs around torches
+		- People tampered with her costume
+			- Rubbed bug carcasses on it
+			- But she powered through it
+		- Audience loved the performance
+		- [[Maomao]] has heard this story before
+	- [[Yarite Baba]] unpacks a painting of her perfoming
+		- It was commissioned by the envoy when he got home
+	- [[Maomao]] feels like she's missing what caused the audience to call her a goddess
+		- [[Yarite Baba]]'s telling does not seem to be wrong, but it's missing something that the audience experienced
+- Updating [[Jinshi]]
+	- Still challenging
+	- [[Gaoshun]] suggests that they can just find someone who looks like the painting
+	- One issue is the height; 175cm tall beautiful women are hard to find
+	- Apparently, the envoys are tall and women from [[Empire of Li]] tend to be shorter. [[Gaoshun]] is afraid that short women will be seen as children by the envoys
+	- [[Maomao]] is hearing for the first time that there are two envoys
+		- They are cousins with the same grandfather
+	- [[Maomao]] realizes that they should use [[Jinshi]]
+- [[Emperor]] with [[Loulan]]
+	- [[Garnet Pavilion]]
+	- #shot of the [[Emperor]] sitting across from [[Loulan]], likely an imposter
+		- She is dressed in the style seen in later [[S01E20 - Thornapple]]
+	- [[Loulan]] giggles
+- [[Shisui]]
+	- [[North forest]], near the [[North ruins]]
+	- [[Shisui]] is digging in a bush with a wooden insect cage next to her
+	- She places something in the cage and makes notes in her book
+	- She sees a glowing moth flying into the sky and watches it
+# Inciting Events
+# Places
+Where the [[Cousin Special Envoys]] are staying or at least are meeting with [[Master Shishou]]
+![[Pasted image 20250620203114.png]]
+
+# Lingering Questions
+# Theory
+- The room the [[Cousin Special Envoys]] are in at the very beginning of the episode matches the outside guest room.
+- They originally had four mirrors in that room, which they gave to the [[High-ranking Concubine]]s soon after
+- It's likely that all four mirrors were used to cover up that [[Ayla]] left to meet with [[Master Shishou]] or that she actually left the capital all together. Still unclear what the specific information that [[Gaoshun]] had was, but there must be some reason that he's asking the question.
+# Subplot and Themes
+# Characters
+[[Maomao]]

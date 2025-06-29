@@ -1,0 +1,1 @@
+Peach orchard in the [[North ruins]] area, part of the [[North forest]]

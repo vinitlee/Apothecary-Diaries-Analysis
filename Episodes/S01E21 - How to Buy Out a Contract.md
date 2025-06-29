@@ -1,8 +1,8 @@
 # Plot
 - [[Lihaku]] is out of it
 	- He's worried about [[Pairin]] being bought out
-- Back at the [[Rear Palace Pharmacy]]
-	- [[Maomao]] is bossing around the [[Eunuch Doctor]] and making him help clean up the [[Rear Palace Pharmacy]]
+- Back at the [[Rear Palace Medical Office]]
+	- [[Maomao]] is bossing around the [[Eunuch Doctor]] and making him help clean up the [[Rear Palace Medical Office]]
 	- They take a snack break and he serves sweets and tea
 		- Sweet potato sweets
 		- Served on paper
