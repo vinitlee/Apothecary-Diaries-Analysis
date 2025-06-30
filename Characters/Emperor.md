@@ -1,4 +1,4 @@
-**mother::** [[Empress Dowager]]
+**mother::** [[Empr Dow Anshi]]
 **father::** [[Late Emperor]]
 **role::** Emperor
 **reports_to::** 

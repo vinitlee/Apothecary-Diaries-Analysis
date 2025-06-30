@@ -4,7 +4,7 @@
 | ----------------------------------------- | ------------------------------------------------------------------------------------------- |
 | -29 to -38[[General timeline#^8451ca\|*]] | [[Emperor]] born                                                                            |
 | -19.25                                    | [[Lakan]] and [[Fengxian]] sleep together                                                   |
-| -17                                       | [[Jinshi]] born, [[Empress Dowager]] in labor, [[Ah-Duo]] in labor                          |
+| -17                                       | [[Jinshi]] born, [[Empr Dow Anshi]] in labor, [[Ah-Duo]] in labor                          |
 | -19                                       | [[Luomen]] ousted from his position                                                         |
 | -16                                       | [[Lakan]] returns to [[Empire of Li]]                                                       |
 | -18.5                                     | [[Maomao]] born                                                                             |

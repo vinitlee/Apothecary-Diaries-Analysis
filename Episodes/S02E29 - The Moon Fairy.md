@@ -194,7 +194,7 @@
 					- Ranks second in terms of family power
 					- Maternally related to the [[Emperor]]
 						- Means less hungry for power
-						- #hm I wonder what this connection actually is. Does this mean the [[Empress Dowager]] is her aunt or something?
+						- #hm I wonder what this connection actually is. Does this mean the [[Empr Dow Anshi]] is her aunt or something?
 					- Fell ill after [[Lihua Pregnancy 1]] died
 						- But got better and now the [[Emperor]] visits her frequently and likes her
 							- We also know that she's pregnant now [[Lihua Pregnancy 2]]

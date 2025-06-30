@@ -148,8 +148,8 @@
 		- The [[Emperor]] needs to be careful around [[Master Shishou]]
 	- [[Jinshi]] connects this to [[Lishu]], saying that she is unappealing as well since the [[Emperor]] does not share the [[Late Emperor]]'s taste for young girls
 - Jinshi reflects on his birth
-	- Retells that [[Ah-Duo]] and [[Empress Dowager]] gave birth at the same time, but only one baby (thought to be the [[Empress Dowager]]'s child) survived.
-		- He says that [[Luomen]] had spent the whole time with the [[Empress Dowager]]'s delivery, which went successfully
+	- Retells that [[Ah-Duo]] and [[Empr Dow Anshi]] gave birth at the same time, but only one baby (thought to be the [[Empr Dow Anshi]]'s child) survived.
+		- He says that [[Luomen]] had spent the whole time with the [[Empr Dow Anshi]]'s delivery, which went successfully
 		- [[Ah-Duo]] received no attention and lost her uterus
 		- [[Ah-Duo]]'s child is said to have died shortly after
 	- However, if [[Ah-Duo]]'s child had survived, they would not be so desperate for the [[Emperor]] to produce an son heir

@@ -5,16 +5,16 @@ z[Link to Episode](https://www.crunchyroll.com/watch/G9DU9NVP2/the-shrine-of-cho
 	- Sees [[Late Emperor]] standing in front of him
 	- The [[Late Emperor]] smiles at him
 		- Goes to offer him something from his hand
-	- [[Empress Dowager]] intercedes
+	- [[Empr Dow Anshi]] intercedes
 		- She has a very serious, negative expression on
 	- From the far end of the hall behind the [[Late Emperor]], the [[The Empress]] approaches
 		- Flanked by 6 court men
 		- [[Late Emperor]] gasps with some fear
-		- [[Empress Dowager]] goes into a kneeling bow
+		- [[Empr Dow Anshi]] goes into a kneeling bow
 			- Young [[Jinshi]] follows suit
-		- [[Empress Dowager]] has a weird expression on
+		- [[Empr Dow Anshi]] has a weird expression on
 			- [[Jinshi]] voiceover wonders why she had that expression
-		- Young [[Jinshi]] refers to [[Empress Dowager]] as mother
+		- Young [[Jinshi]] refers to [[Empr Dow Anshi]] as mother
 	- [[The Empress]] puts her hand on [[Late Emperor]]'s shoulder and suggests that he go back to his room
 		- He seems frightened, but also not all there
 		- He is making grunting noises and gripping himself
@@ -112,7 +112,7 @@ z[Link to Episode](https://www.crunchyroll.com/watch/G9DU9NVP2/the-shrine-of-cho
 		- [[Maomao]] thinks it's off limits to women
 			- It's not
 			- [[Mother Royal]] was a woman
-			- But also [[Empress Dowager]] apparently also went through the shrine?
+			- But also [[Empr Dow Anshi]] apparently also went through the shrine?
 				- I wonder if this is a mistranslation of [[The Empress]]
 - [[Shrine of Choosing]], [[Emperor]]'s attempt
 	- [[Emperor]] is mostly just guessing, like choosing the green door because he chose the blue door last time
@@ -246,7 +246,7 @@ z[Link to Episode](https://www.crunchyroll.com/watch/G9DU9NVP2/the-shrine-of-cho
 	- Covers same opening events
 	- A little more detail that [[The Empress]] was a powerful woman no one dared go against
 	- A little more detail that he recognized the yellow color
-	- Both book and manga cover that [[Jinshi]] currently believes that he is the son of [[Late Emperor]], but thought that the [[Emperor]] was his father growing up. No ambiguity about the identity of his mother, [[Empress Dowager]]
+	- Both book and manga cover that [[Jinshi]] currently believes that he is the son of [[Late Emperor]], but thought that the [[Emperor]] was his father growing up. No ambiguity about the identity of his mother, [[Empr Dow Anshi]]
 # Inciting Events
 # Lingering Questions
 How old is the [[Empire of Li]]? There's no guarantee that 

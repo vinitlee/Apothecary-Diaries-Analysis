@@ -1,6 +1,6 @@
 [Link to Episode](https://www.crunchyroll.com/watch/GX9U3M87Q/the-empress-dowager)
 # Plot
-- #shot of [[Empress Dowager]] and a court lady standing in front of [[Late Emperor's Room]]
+- #shot of [[Empr Dow Anshi]] and a court lady standing in front of [[Late Emperor's Room]]
 - [[Maomao]]'s new room
 	- [[Hongnian]] and [[Yinghua]] bring [[Maomao]] to a storage shed
 	- [[Hongnian]] tells [[Maomao]] that it will be her new room
@@ -88,58 +88,58 @@
 		- Probably part of trade goods and escaped and then multiplied
 		- Similar looking to cockroaches, but they're different
 	- She's very excitable
-- [[Empress Dowager]] walks through
+- [[Empr Dow Anshi]] walks through
 	- They hear a wooden clacker
 	- [[Maomao]] recognizes her
 		- Last saw at garden party
 		- She looks young
-	- Procession of the [[Empress Dowager]] heading to the [[Clinic]]
-		- [[Empress Dowager]]
+	- Procession of the [[Empr Dow Anshi]] heading to the [[Clinic]]
+		- [[Empr Dow Anshi]]
 		- 1 shade eunuch
 		- 1 fan eunuch
 		- 1 clacker lady
 		- 1 young lady
-		- 1 older lady
+		- 1 [[Older serving woman|older lady]]
 	- [[Shisui]] explains that she's probably headed to the [[Clinic]]
-		- [[Empress Dowager]] set up the [[Clinic]]
+		- [[Empr Dow Anshi]] set up the [[Clinic]]
 		- However, this happened during the reign of [[The Empress]]
-			- So, [[Empress Dowager]] could not make the [[Clinic]] official
+			- So, [[Empr Dow Anshi]] could not make the [[Clinic]] official
 			- This is an interesting detail, suggesting that there was at least some opposition between the two women
-	- [[Shisui]] says that the [[Empress Dowager]] is very kind
+	- [[Shisui]] says that the [[Empr Dow Anshi]] is very kind
 		- How does she know?
-	- [[Shisui]] explains that [[Empress Dowager]] is behind the ban on slavery and castration
+	- [[Shisui]] explains that [[Empr Dow Anshi]] is behind the ban on slavery and castration
 		- [[Maomao]] sees this as generally good
 		- However, she is aware of the grey areas, specifically in courtesans
 		- Officially, slavery is banned, but that just means that it exists under a different name now
-	- [[Maomao]] wonders if the [[Empress Dowager]] is going to the [[Clinic]] in response to the incident at the [[Crystal Pavilion]], presumably regarding the sick servant
+	- [[Maomao]] wonders if the [[Empr Dow Anshi]] is going to the [[Clinic]] in response to the incident at the [[Crystal Pavilion]], presumably regarding the sick servant
 		- That may lead to large medical reforms in the [[Rear Palace]]
 	- She wants to follow, but needs to report for duties
 - Cleaning up the [[Jade Pavilion]]
 	- [[Maomao]], [[Ailan]], [[Yinghua]], [[Guiyuan]] are cleaning the surfaces in the [[Jade Pavilion]] as [[Hongnian]] directs
 	- [[Hongnian]] is getting on everyone's cases and demanding that everything be spotless
 	- [[Maomao]] wonders if there's a visitor
-- [[Empress Dowager]] comes to visit the [[Jade Pavilion]]
-	- She still has the procession, but the older lady is now missing from it
+- [[Empr Dow Anshi]] comes to visit the [[Jade Pavilion]]
+	- She still has the procession, but the [[Older serving woman]] is now missing from it
 	- [[Gyokuyou]] and all ladies in waiting are bowing to her
-	- [[Empress Dowager]] knows that [[Gyokuyou]] is pregnant
-	- [[Empress Dowager]] and [[Gyokuyou]] sit down for tea and mooncake
-		- [[Empress Dowager]] is holding [[Lingli]]
+	- [[Empr Dow Anshi]] knows that [[Gyokuyou]] is pregnant
+	- [[Empr Dow Anshi]] and [[Gyokuyou]] sit down for tea and mooncake
+		- [[Empr Dow Anshi]] is holding [[Lingli]]
 		- [[Maomao]] thinks it seems more like friends chatting than wife and mother-in-law
-	- [[Empress Dowager]] calls out to [[Maomao]], she recognizes her
+	- [[Empr Dow Anshi]] calls out to [[Maomao]], she recognizes her
 		- [[Suiren]] had told her that [[Maomao]] was worth training
-		- [[Suiren]] used to be [[Empress Dowager]]'s lady in waiting
+		- [[Suiren]] used to be [[Empr Dow Anshi]]'s lady in waiting
 			- Somehow, [[Maomao]] still isn't putting things together
 	- [[Gyokuyou]] says that [[Lingli]] seems tired and she will put her to bed
-		- This is a cover to allow [[Gyokuyou]] to give [[Empress Dowager]] time alone with [[Maomao]]
-- [[Empress Dowager]]'s problem
-	- The older lady is back and is in the room
-	- [[Empress Dowager]] says she has heard that [[Maomao]] solves problems
+		- This is a cover to allow [[Gyokuyou]] to give [[Empr Dow Anshi]] time alone with [[Maomao]]
+- [[Empr Dow Anshi]]'s problem
+	- The [[Older serving woman]] is back and is in the room
+	- [[Empr Dow Anshi]] says she has heard that [[Maomao]] solves problems
 		- [[Maomao]] explains that she just speaks from her knowledge when the facts seem appropriate
 			- She is trying to be humble/honest
 			- Aware of her shortcomings compared to [[Luomen]]
 			- But may have come across too negative
-	- Older lady seems displeased with [[Maomao]]'s response
-	- [[Empress Dowager]] says that's fine
+	- [[Older serving woman]] seems displeased with [[Maomao]]'s response
+	- [[Empr Dow Anshi]] says that's fine
 	- She wants to know if she put a curse on the [[Late Emperor]]
 - [[Maomao]]'s shed
 	- [[Maomao]] is rearranging the shed
@@ -150,22 +150,22 @@
 			- Puppet of [[The Empress]]
 			- Pedophile
 		- [[Late Emperor]] deliberately chose the youngest girls available despite access to more age-appropriate women
-		- As a sign of this, [[Empress Dowager]] has a scar from a Cesarian that was performed when she gave birth to [[Emperor]] since she was very young
+		- As a sign of this, [[Empr Dow Anshi]] has a scar from a Cesarian that was performed when she gave birth to [[Emperor]] since she was very young
 			- [[Luomen]] became a eunuch in order to help with that surgery
 			- That said, [[Emperor]] is healthy and she had another child later
 				- [[Jinshi]] is one year older than [[Maomao]]
-				- [[Empress Dowager]] would have been nearly 30 then
+				- [[Empr Dow Anshi]] would have been nearly 30 then
 					- She was not young anymore
 					- [[Maomao]] questions the true parentage of the imperial brother
-- All four [[High-ranking Concubine]]s with [[Empress Dowager]]
-	- [[Empress Dowager]] invited the four [[High-ranking Concubine]]s to a tea party
+- All four [[High-ranking Concubine]]s with [[Empr Dow Anshi]]
+	- [[Empr Dow Anshi]] invited the four [[High-ranking Concubine]]s to a tea party
 	- In the #shot of [[Loulan]]'s entourage, it may by worth noting that [[Loulan]]'s eyes are darker than normal
 	- [[Gyokuyou]] is getting sleepy during the day due to the pregnancy
 	- The tea party is in [[The Outer Court]]
 		- [[Yinghua]] finds this weird and scary because they never go there
 		- But it is where the [[Emperor]] lives
 		- [[Yinghua]] also feels that it is not being considerate of [[Gyokuyou]]
-		- The ladies feel that [[Empress Dowager]] is to be trusted with things like this
+		- The ladies feel that [[Empr Dow Anshi]] is to be trusted with things like this
 	- They are still concerned about other [[High-ranking Concubine]]s probing [[Gyokuyou]]
 		- [[Lihua]] is likely also pregnant, so will likely not probe since questions could backfire
 			- Also a proud woman who wouldn't stoop that low
@@ -175,11 +175,11 @@
 		- [[Loulan]] is the real wildcard
 - [[Hongnian]] calls [[Maomao]] aside
 	- [[Hongnian]] will be the taster at the party in order for there to not be a separate taster
-		- This shows trust in [[Empress Dowager]]
-	- Also, [[Empress Dowager]] wants [[Maomao]] to help with her problem today
+		- This shows trust in [[Empr Dow Anshi]]
+	- Also, [[Empr Dow Anshi]] wants [[Maomao]] to help with her problem today
 	- [[Hongnian]] kabedons [[Maomao]] to make sure she stays faithful to [[Gyokuyou]]
-- Starting the [[Empress Dowager]]'s request
-	- [[Maomao]] runs to meet the older serving woman that we've seen with [[Empress Dowager]]
+- Starting the [[Empr Dow Anshi]]'s request
+	- [[Maomao]] runs to meet the older serving woman that we've seen with [[Empr Dow Anshi]]
 	- That servant tells [[Maomao]] that the area they are in used to serve the same purpose as the [[Rear Palace]] before the establishment of the [[Rear Palace]]
 		- It is still immaculate even when unused
 	- She leads [[Maomao]] to a set of doors leading to a room
@@ -197,20 +197,20 @@
 		- Then became a low-ranking concubine
 	- This was her room and the room where [[Late Emperor]] was raised
 	- It is also the room where [[Late Emperor]] died
-	- The older lady seems disturbed and suggests they go somewhere else
+	- The [[Older serving woman]] seems disturbed and suggests they go somewhere else
 - Continuing
 	- During his final years, [[Late Emperor]] and [[The Empress]] both spent a lot of time in [[Late Emperor's Room]]
 	- It seemed as if they were clinging to memories
 	- [[Late Emperor]] died shortly after [[The Empress]]
 		- [[Maomao]] confirms that [[Late Emperor]] was not young when he died
-		- Older lady says that he was old enough for it to be labeled a natural death
+		- [[Older serving woman]] says that he was old enough for it to be labeled a natural death
 			- I'm going to guess around 60. Not young but certainly not old
-		- [[Maomao]] asks why, then, does the [[Empress Dowager]] think she cursed him
-	- [[Empress Dowager]] feels certain that she cursed him since she wished for so long for him to go away, almost every night
+		- [[Maomao]] asks why, then, does the [[Empr Dow Anshi]] think she cursed him
+	- [[Empr Dow Anshi]] feels certain that she cursed him since she wished for so long for him to go away, almost every night
 		- We get out first strong representation of how she felt about the [[Late Emperor]] aside from [[Jinshi]]'s dream
 	- [[Maomao]] asks if there is anything else that speaks to there being a curse
 		- [[Late Emperor]]'s body was placed in a mausoleum
-		- One year later before burying, [[Empress Dowager]] and [[Emperor]] took a look at the body
+		- One year later before burying, [[Empr Dow Anshi]] and [[Emperor]] took a look at the body
 			- And it had been well preserved, no decay
 				- Given the environment, this should not happen
 	- [[The Late Emperor's Room]] will be torn down soon, and [[Maomao]] is to finish the job before then
