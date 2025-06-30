@@ -41,7 +41,7 @@
 		- They had no leader
 		- A [[Mother Royal|noble woman]] arrived from a distant land
 		- [[Mother Royal]] became pregnant by divine intervention
-		- The child of [[Mother Royal]] became the first Emperor of [[Empire of Li]]
+		- The child of [[Mother Royal]] became the [[First Emperor of Li]]
 		- [[Mother Royal]] could see in the dark
 		- Became known later as [[Mother Royal]]
 		- Some say she was a sorceress from a land of sorcerers
@@ -63,15 +63,181 @@
 	- [[Xiaolan]] has learned some characters, but still has lots to work on
 	- She asks the teacher for help
 	- The teacher lives in the building next door and [[Xiaolan]] asks him questions there
-	- The [[Shrine-like building]] is nearby
-- Inspecting the [[Shrine-like building]]
+	- The [[Shrine of Choosing]] is nearby
+- Inspecting the [[Shrine of Choosing]]
 	- [[Teacher]]'s quarters
 	- [[Xiaolan]] is getting help
-	- [[Maomao]] is looking out the window, over the pond, at the [[Shrine-like building]]
-	- The building is thin and long "and goes quite deep"
-		- I'm going to assume this just means thin and long
-	- Distance between pillars is small, suggesting lots of small rooms
-	- 
+	- [[Maomao]] is looking out the window, over the pond, at the [[Shrine of Choosing]]
+		- The building is thin and long "and goes quite deep"
+			- I'm going to assume this just means thin and long
+		- Distance between pillars is small, suggesting lots of small rooms
+	- [[Teacher]] comes over to the window and tells [[Maomao]] about the [[Shrine of Choosing]] ^bcfeac
+		- Built by [[Ancient People]]
+			- Before the arrival of [[Mother Royal]] (? This is implied by the next line, but not explicit)
+		- [[Mother Royal]] did not denounce old religion of [[Ancient Civilization]]
+			- Which this [[Shrine of Choosing]] was a shrine to
+		- According to legend, [[Mother Royal]] told her son that
+			- "The one who rules this land must pass through that shrine."
+			- "Only those who choose the right path can be the ruler of this land."
+		- The son, [[First Emperor of Li]], passed through the shrine
+		- The capital city was moved to [[Imperial Capital]] because it was where the [[Shrine of Choosing]] was located #whoa 
+			- This was during [[-2 Emperor]]
+		- [[Shrine of Choosing]] has not been used in many decades
+			- [[Late Emperor]] had older brothers who died in an epidemic, only he survived. So there was no choice other than him.
+		- So, traditionally, [[Shrine of Choosing]] would be used to determine heir rather than solely birth order
+	- [[Teacher]] expresses happiness that [[Maomao]] is interested in the [[Shrine of Choosing]]
+		- It's been neglected
+		- [[Luomen]] used to wander near the [[Shrine of Choosing]]
+	- It seems that [[Teacher]] used to know [[Luomen]]
+	- [[Xiaolan]] interrupts to show her writing
+- [[Jade Pavilion]]
+	- [[Maomao]] is finishing tasting for [[Gyokuyou]] and [[Emperor]]
+	- Before she leaves, [[Emperor]] tells her that he wants her to accompany him somewhere after the meal
+	- He's going to the [[Shrine of Choosing]]
+- Walking over
+	- [[Emperor]], 2 eunuchs, [[Maomao]], [[Jinshi]], [[Gaoshun]]
+	- Walking through [[Ruined Orchard]] at night
+	- [[Jinshi]] questions why [[Emperor]] is suddenly doing this
+		- [[Emperor]] does not answer
+		- [[Maomao]] wonders what his intent is
+	- The [[Shrine of Choosing]] is the same shrine-like building she has seen a few times and was talking to [[Teacher]] about before
+	- [[Teacher]] is standing in front of the doorway
+		- Greets them, seems to be responsible for [[Shrine of Choosing]]
+	- [[Emperor]] asks to do the challenge again
+		- So he's done it before and failed
+		- [[Teacher]] says that the result may be the same, but he's welcome to give it a shot
+		- This is a very informal way of addressing the [[Emperor]] #whoa 
+	- [[Teacher]] asks [[Emperor]] who is going with him
+		- [[Emperor]] is bringing [[Jinshi]] and [[Maomao]]
+		- [[Maomao]] thinks it's off limits to women
+			- It's not
+			- [[Mother Royal]] was a woman
+			- But also [[Empress Dowager]] apparently also went through the shrine?
+				- I wonder if this is a mistranslation of [[The Empress]]
+- [[Shrine of Choosing]], [[Emperor]]'s attempt
+	- [[Emperor]] is mostly just guessing, like choosing the green door because he chose the blue door last time
+	- [[Teacher]] presses [[Emperor]] to be more considerate of the ones upkeeping [[Shrine of Choosing]], since this use was on short notice
+	- [[Maomao]] feels like [[Emperor]]'s attempt is a little aimless
+	- The [[Shrine of Choosing]] is mazelike and the initial path goes back and forth and up and down
+	- There is a final room with two entrance doors
+	- [[Emperor]] chooses yellow door
+		- Leads to dead end, *Child of royalty, yet not child of the Mother Royal*
+		- Same result as last attempt
+		- [[Emperor]] feels that this means that he cannot "decipher the heavens"
+	- [[Teacher]] humbly protests (seemingly out of politeness)
+		- [[Emperor]] was responsible for including [[Shrine of Choosing]] into the rear palace #huh 
+			- It may just be "you" = the imperial family
+		- [[Teacher]] is the only person managing [[Shrine of Choosing]]
+			- [[Maomao]] figures that he must have been managing the [[Shrine of Choosing]] from before the movement of the capital and the building of the palace, especially [[Rear Palace]], which would have been well within the last 50 years
+			- Therefore, he must have accepted castration in order to continue tending to the [[Shrine of Choosing]]
+		- [[Teacher]] suggests that the fact that the [[Shrine of Choosing]] has been so neglected must mean that it's not important
+			- This is both a politeness to the [[Emperor]] and a jab
+	- They leave by the exit and emerge at the entrance of the [[Shrine of Choosing]]
+- [[Maomao]] starts analyzing
+	- [[Emperor]] followed the rules as written
+	- But still failed
+	- There must be a greater intent
+	- Does something else factor in
+		- Color of doors
+		- Number of rooms
+	- [[Teacher]] remarks that [[Luomen]] would have figured it out
+		- In his style, this is a double entendre; it is part a jab and part a clue
+		- [[Maomao]] feels a little insulted
+		- But also considers that [[Luomen]]'s specialty is specifically in medicine
+			- And also he studied in [[The West]]
+	- *Child of royalty, yet not child of the Mother Royal*
+		- Does this phrase have a deeper meaning to it
+		- [[Mother Royal]] appears in the foundation myth, but not a royal father
+			- One would assume that [[Empire of Li]] would therefore have a maternal lineage system, but it has a paternal one
+		- So, perhaps there's a method to maintain maternal lineage in the background
+	- [[Maomao]] asks if [[Late Emperor]]'s older brothers were to the same mother
+		- They were born to sisters
+			- So therefore similar genetics
+	- [[Maomao]] requests to speak frankly
+	- Asks [[Emperor]] if previous emperors had poor eyesight
+	- [[Teacher]] seems amazed that she figured it out
+	- Many previous emperors had poor eyesight, but [[Late Emperor]] had fine eyesight
+		- This confirms [[Maomao]]'s suspicions
+	- [[Maomao]] requests to do the [[Shrine of Choosing]] again
+		- [[Teacher]] is reluctant, but in that double-meaning way
+			- Allowed [[Maomao]] to enter last time
+			- But doesn't like the idea of a lot of attempts
+			- [[Maomao]] is neither a princess nor concubine
+				- [[Emperor]] says that he could accept her as a concubine
+				- But [[Lakan]] would have issues
+				- [[Jinshi]] and [[Maomao]] both question this, [[Jinshi]] out loud
+	- [[Emperor]] laughs and suggests that [[Jinshi]] take her
+		- This is interesting given the setup and current understanding of the places of everyone here
+		- [[Jinshi]] is believed to be the younger brother of [[Emperor]], so by the traditional method of [[Shrine of Choosing]], if he were able to pass the test he should be the rightful heir
+		- Potential heirs are allowed to have the aide of a concubine or princess in the [[Shrine of Choosing]], even if they are unable to pass it alone. This is loosely placing [[Maomao]] in that position and [[Maomao-Jinshi Romance]] plays in
+- [[Maomao]]'s attempt
+	- See [[Shrine of Choosing#^b926ba|Maomao's attempt]]
+	- She seems pretty confident and chooses some doors that the [[Emperor]] had not
+	- At the final room, when prompted to choose the red door, [[Maomao]] chooses a green one
+		- She seems to know that this is the end
+	- This leads out to an outlook high up in the [[Shrine of Choosing]] overlooking the entire palace
+- At the end of the [[Shrine of Choosing]]
+	- [[Teacher]] explains
+		- In the past, successful emperors would stand at this spot and make a proclamation to the people
+		- If no heirs could succeed on their own, they could retake the test with a concubine choosing the path
+		- That would have been done by either heirs or concubines with the right lineage, but [[Maomao]] circumvented that with reasoning
+	- [[Emperor]] asks for an explanation
+		- [[Teacher]] foists the explanation onto [[Maomao]]
+	- [[Maomao]]'s explanation
+		- [[Mother Royal]] said to have seen in the dark
+		- Her descendants have trouble telling colors apart
+		- Specifically, red-green colorblindness
+		- Colorblindness is rare in [[Empire of Li]], but is more common in [[The West]] or [[The West of Li]] or [[Western Region]]
+			- 1/10 males are red-green colorblind there
+		- [[Luomen]] would have figured it out because he studied medicine in [[The West]]
+		- Explains per-door
+		- [[Emperor]] thinks that this would have been noticed
+			- They get used to it and it doesn't come up a lot
+			- #huh But didn't he just say before that they had poor eyesight?
+		- Colorblindness also leads to better night vision
+		- [[Maomao]] figures that there is a low probability of making it through most of the rooms on chance (1/512), but the last room would be especially challenging for someone without colorblindness to pass. The previous rooms all had two apparent right answers, but the last room has 0 apparent correct answers
+		- Reality of the legend
+			- [[Mother Royal]] came from [[The West]]
+				- We see camels and clothes somewhat similar to [[Cousin Special Envoys]]
+			- Came with many servants
+			- Married into the existing royalty
+				- Covered that up strategically
+				- Common to bring outsider into bloodline to stop inbreeding
+				- Male hereditary bloodline to honor original marriage into the  royalty
+			- [[Mother Royal]] wanted to protect her bloodline and set up the [[Shrine of Choosing]] to do so
+				- If the current male heirs could not complete, concubines from the [[Mother Royal]] family would be brought in
+					- #hm by who? This suggests some sort of Bene Gesserit force that is able to find and place concubines from the [[Mother Royal]] bloodline. What is interesting as well is that we may be seeing this already in the [[Cousin Special Envoys]], especially considering that they were interested in both [[Emperor]] and his brother
+			- This lead to power consolidation into a shadow force that eventually got rid of the original male ruler from the story
+				- "Very peaceful, very deliberate takeover"
+	- [[Emperor]] asks if this means that he does not have [[Mother Royal]] blood
+		- [[Maomao]] says that [[Shrine of Choosing]] is just the most accurate way of finding out
+		- But that the trait is not always passed on, so [[Emperor]] may still be in the bloodline
+	- [[Maomao]] also says that bloodlines that are too thick can be problematic, it's not necessarily good to keep the same trait because it indicates inbreeding
+		- She suspects that [[Late Emperor]]'s older brothers may have succumbed to the epidemic because of this inbreeding
+	- [[Teacher]] congratulates [[Maomao]] for figuring it out
+		- He knew!
+		- [[Mother Royal]] ruled over the land because she was smart
+			- He suggests adding [[Maomao]] to the bloodline because she is also smart
+				- This, again, is somewhat a double meaning by both being not serious while also reflecting the very real fact that [[Maomao]] has shot up in position since 2 years back due to her being an asset
+	- [[Emperor]] jokes that it's an interesting suggestion but
+		- [[Lakan]] would be unhappy
+		- She's not busty enough
+	- #hm [[Teacher]] warns the [[Emperor]], but perhaps also [[Jinshi]]
+		- Be careful
+		- Many people do not like the addition of new blood into the royal bloodline
+			- [[Emperor]] says he's aware
+				- [[Teacher]] says that he must be
+					- Why must he be?
+					- [[Gyokuyou]]?
+					- Just his position?
+		- However, [[Teacher]] seems to maybe not been talking to [[Emperor]], since he seems to brush off [[Emperor]]'s response and bow again, more towards [[Jinshi]],  and repeat to be careful
+			- [[Jinshi]] says that he knows
+- Returning from [[Shrine of Choosing]]
+	- [[Gaoshun]] and two eunuchs are waiting for them
+	- [[Maomao]] wonders who [[Jinshi]] actually is
+		- How is she this dense
+	- She ends up shelving the thought, with the feeling that there are some things best left unknown
+		- I think this is meant to be a thematic callback to the figured truth of [[Mother Royal]] as another thing that is best left unknown to [[Emperor]]
 # Manga
 - V11C55
 	- 
@@ -83,6 +249,7 @@
 	- Both book and manga cover that [[Jinshi]] currently believes that he is the son of [[Late Emperor]], but thought that the [[Emperor]] was his father growing up. No ambiguity about the identity of his mother, [[Empress Dowager]]
 # Inciting Events
 # Lingering Questions
+How old is the [[Empire of Li]]? There's no guarantee that 
 # Subplot and Themes
 # Characters
 [[Maomao]]

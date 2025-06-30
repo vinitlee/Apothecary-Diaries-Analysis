@@ -10,7 +10,7 @@
 		- Ceremonial platform
 		- [[Ruined Orchard]]
 		- Pond
-		- [[Shrine-like building]]
+		- [[Shrine of Choosing]]
 	- This area used to be home to a different ethnicity, people of the [[Ancient Civilization]]
 		- [[Empire of Li]] is using parts left over
 			- Buildings

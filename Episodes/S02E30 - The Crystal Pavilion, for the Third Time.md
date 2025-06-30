@@ -41,7 +41,7 @@
 		- That would affect the whole [[Rear Palace]]
 	- [[Yinghua]] warns [[Maomao]] to get permission before delving into things
 		- [[Maomao]] starts to formulate a plan
-	- [[Maomao]] sees a [[Lizard]] in the grass
+	- [[Maomao]] sees a [[Lizard]] in the grass ^bb935b
 		- She jumps to catch it
 		- It gets away, but leaves its tail
 			- #hm is this an analogy or just bonding
@@ -236,7 +236,7 @@
 	- He goes silent
 		- [[Lihua]] asks if there is something wrong
 		- He denies and drinks the glass
-- #shot of the [[Shrine-like building]]
+- #shot of the [[Shrine of Choosing]]
 # Inciting Events
 # Lingering Questions
 What are the three times?
