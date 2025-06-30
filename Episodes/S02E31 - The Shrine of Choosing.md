@@ -1,4 +1,4 @@
-[Link to Episode](https://www.crunchyroll.com/watch/G9DU9NVP2/the-shrine-of-choosing)
+z[Link to Episode](https://www.crunchyroll.com/watch/G9DU9NVP2/the-shrine-of-choosing)
 # Plot
 - Dream sequence
 	- Young [[Jinshi]] chasing a bouncing ball
