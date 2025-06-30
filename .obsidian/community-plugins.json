@@ -4,5 +4,6 @@
   "templater-obsidian",
   "quickadd",
   "cm-typewriter-scroll-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "spellcheck-toggler"
 ]

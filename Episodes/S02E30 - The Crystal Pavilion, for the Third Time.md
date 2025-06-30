@@ -92,7 +92,7 @@
 	- [[Eunuch Doctor]] asks about the shed, which was the source of the cough
 		- [[Shin]] says it's just for storage
 	- [[Eunuch Doctor]] asks if they've done gardening in the area recently
-		- [[Shin]] says no, but notices a bush with white flowers next to the shed that she does not recognize
+		- [[Shin]] says no, but notices a [[White Blossom]] bush with white flowers next to the shed that she does not recognize
 	- [[Maomao]] speaks for the first time this encounter
 		- She says [[Shin]] is wearing perfume today
 			- The last time, when [[Maomao]] sniffed in the [[Crystal Pavilion]], [[Shin]] was the only one without any perfume
@@ -209,12 +209,12 @@
 		- As understood above, the punishment is lenient and generous
 - Outside the [[Crystal Pavilion]]
 	- [[Jinshi]], [[Gaoshun]], [[Maomao]]
-	- [[Jinshi]] pushes a white silk handkerchief to [[Maomao]] and urges her to wipe the blood from her face
+	- [[Jinshi]] pushes a white silk handkerchief to [[Maomao]] and urges her to wipe the blood from her face ^54ff55
 	- She doesn't want to soil such a fancy thing
 	- [[Jinshi]] asks her how she figured everything out
 	- Explanation
 		- Since the servant had not been seen, she was somewhere out of sight and far from bedrooms
-		- Bush that was noticed before was white, but is typically red. Green and white is believed to bring good health in feng shui
+		- [[White Blossom]] bush that was noticed before was white, but is typically red. Green and white is believed to bring good health in feng shui
 		- Ironically, the white powder in the seeds of this plant can be used to make an abortive medicine
 	- [[Jinshi]] reacts to this and says that there are poisons everywhere
 		- [[Maomao]] reminds him that knowledge is needed to transform things into poisons
