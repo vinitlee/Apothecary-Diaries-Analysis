@@ -26,9 +26,193 @@
 		- Invites [[Maomao]] to grab a book of her own from the back room
 	- [[Maomao]] takes this opportunity to read because books are rare and precious
 		- However, after checking out the books in [[Suiren]]'s library, [[Maomao]] is turned off because they are very young in subject matter
-	- Putting down the book, [[Maomao]] 
+	- Putting down the book, [[Maomao]] looks around the storage area and sees a wicker box
+		- We have seen this before, in [[S01E17 - A Jaunt Around Town]]
+	- [[Suiren]] offers to show [[Maomao]] the contents of the box
+		- Children's toys
+		- [[Suiren]] explains that they're [[Jinshi]]'s favorite toys
+	- [[Suiren]] asks [[Maomao]] what she thinks of [[Jinshi]]
+		- [[Maomao]] says that he's a good boss
+			- Internally, she is thinking this because he gives her rare ingredients like [[Bear gall]] and [[Ox bezoar]]
+	- [[Suiren]] explains that these are the toys that [[Suiren]] hid from young [[Jinshi]] when he would get too attached to them
+		- When she did this, he would cry uncontrollably
+		- #shot [[Suiren]] is holding a soldier doll. Not sure If that's relevant to what it's setting up
+		- #shot of young [[Jinshi]] crying, and [[Gaoshun]] trying to distract him with a noisemaker
+		- [[Maomao]] questions why [[Suiren]] took away his favorite toys
+			- [[Suiren]] explains that if one focuses on one thing too much, one loses sight of other things, and that [[Jinshi]]'s born position does not allow for that
+				- We heard her and [[Gaoshun]] say the same thing in [[S01E17 - A Jaunt Around Town]]
+			- She says that he needed to learn to overcome these challenges and be the adult
+			- She says that this was the desire of [[Jinshi]]'s mother
+				- She does not say [[Empr Dow Anshi|Empress Dowager]]
+		- [[Maomao]] reflects on this
+			- His mother?
+			- Repressed upbringing can affect a person's mind
+			- She thinks that this might be what causes the childish behavior that we sometimes see from [[Jinshi]]
+			- She also considers that, despite these tendencies, others view him as the elegant eunuch
+		- [[Maomao]] finds a folded paper picture in the box
+			- She unfolds it and looks at it, but [[Suiren]] takes it right away
+				- [[Suiren]] says that she was meant to throw it away, but she did not
+				- She is hiding it from [[Maomao]]
+		- [[Maomao]] sees something else in the box that piques her interest, but she is more serious now
+			- Using a cloth, she picks up a glinting yellow rock
+				- It is the same as the one we saw in [[Jinshi]]'s dream in [[S02E31 - The Shrine of Choosing]]
+			- [[Suiren]] thinks it's just a pebble
+				- She took it away right away because pebbles can't be clean
+			- [[Maomao]] says that it's poison
+				- [[Suiren]] is surprised
+			- [[Maomao]] wonders where it came from
+				- Asks if [[Jinshi]] ever visited the inner court ([[Rear Palace]]? I think she's talking about the area where [[Late Emperor's Room]] is though)
+					- Sometimes
+			- [[Maomao]] has a hypothesis but no proof
+				- Will not say more now
+				- But she does have an answer to the question of the curse
+				- Asks [[Suiren]] to wait until tomorrow for an explanation
+- Checking out [[Late Emperor's Room]]
+	- [[Empr Dow Anshi]], [[Older serving woman]], [[Jinshi]], [[Gaoshun]], [[Maomao]]
+	- They go to the [[Late Emperor's Room]]
+	- [[Maomao]] doesn't like that [[Jinshi]] is here because she's conscious of this becoming a big event
+	- She enters room
+		- The smell she noted in [[S02E32 - The Empress Dowager]] is still there
+			- Not just mold
+			- Stinging smell
+		- Brush with tip cut straight
+			- She asks if the [[Late Emperor]] painted
+				- [[Empr Dow Anshi]] says that the [[Late Emperor]] once painted something for her
+				- But he said that it needed to be secret, because otherwise it would be taken away
+					- #huh by who?
+			- [[Jinshi]] starts tapping his arm, a nervous tic of his #why
+		- Asks if [[Late Emperor]] only painted in that room
+			- [[Older serving woman]] says that she does not know, but there was only a single servant assigned to him while he was in this room
+			- [[Gaoshun]] and [[Older serving woman]] will fetch him
+		- Picks up the brush
+			- Harder than expected
+			- Particular smell, maybe not the same one though
+		- Pigments and marks on floor that are more concentrated near a particular wall
+		- She goes over and feels that wall
+			- It is soft
+				- She thinks there are layers of thick paper under the white wall paint
+	- [[Mute Servant]] is brought
+		- He is uncharacteristically old for the lone servant to an emperor
+		- [[Maomao]] wants to ask him questions, but [[Empr Dow Anshi]] indicates that won't be possible
+			- [[Mute Servant]] is a former slave
+			- Cannot talk
+			- This makes the selection make sense if the [[Late Emperor]] wanted privacy
+	- [[Maomao]] asks the [[Mute Servant]] to nod or shake his head to respond
+		- *Were there any paintings in the room?*
+			- He does not respond, hands shaking
+			- [[Maomao]] thinks he's hiding something
+	- [[Maomao]] changes approach
+		- Asks what's on that wall
+		- Asks [[Empr Dow Anshi]] permission to tear off the wallpaper
+		- [[Mute Servant]]'s expression changes as if he's silently panicking
+	- [[Maomao]] uses water to de-adhere the topmost wallpaper from the wall and peels it off
+		- Exposing a painting![[VS--Vilos-10’49”.png]]
+		- Five young women gathered around an older woman in yellow under a cherry tree. The older woman is holding a branch or stem with a pink flower on it.
+		- [[Late Emperor]] painted this
+		- [[Maomao]] feels that [[Late Emperor]] passed his life without letting his talents shine just because he was thrust into the role of emperor by consequence of his birth and the untimely death of his older brothers
+	- [[Maomao]] says that the yellow for the gown of the central woman in the painting is made by crushing [[Orpiment]] 
+		- [[Orpiment]] is an arsenic compound, and can reduce decay
+			- Explanation of the curse
+	- [[Maomao]] considers that the [[Late Emperor]] gradually absorbed the [[Orpiment]] while he painted secretly in this room
+		- It was unbefitting for an emperor to paint pictures
+		- The wall is still soft, evidence that there are likely many paintings hidden underneath
+	- [[Maomao]] considers that painting required resources
+		- His mother, [[The Empress]], recognized that [[Late Emperor]] was not fit to be emperor
+		- She wielded power in his place to protect him
+		- The last thing she did for him is set him up in the room he was most comfortable in with the things he needed to paint
+			- Ironically, it is what killed him
+	- [[Empr Dow Anshi]] says that [[Maomao]] did well and enters the room, quietly looking at painting
+- [[Empr Dow Anshi]] and the painting
+	- We shift point of view to [[Empr Dow Anshi]]
+	- Where before she had seemed composed, we hear her internal thoughts finding the painting infuriating
+		- Because the painting stars [[The Empress]]
+		- And [[Empr Dow Anshi]] doubts she is even one of the secondary characters
+	- She believes that she must have not meant anything to [[Late Emperor]]
+		- The only thing that connects her to her position is the fact that she gave birth to the [[Emperor]], not any connection to the [[Late Emperor]]
+- [[Empr Dow Anshi]]'s story
+	- Others think that as a young girl she was a victim of the [[Late Emperor]] and accidentally became pregnant
+	- However, she does not see it this way because she knew how it was before entering palace
+	- Father was a bureaucrat and mother was the concubine of that bureaucrat
+		- Looked young
+		- First period came early
+		- Given the [[Late Emperor]]'s proclivities, this put her in a position where her father could use her to gain political power
+	- She entered the [[Rear Palace]] as a lady in waiting of her step sister, who was a mid-rank concubine
+		- So her father sent two daughters, knowing that the younger one was the real play
+		- The sister was unaware of the plan
+	- When the [[Late Emperor]] finally visited her sister
+		- Her sister was excited
+		- He seems uncomfortable and nervous
+			- He looks a lot like [[Jinshi]]
+		- He reacts very poorly to her sister touching him, pushes her away and freaks out
+		- He seems like he's trying to rub away her touch
+		- He doesn't come across like the leader of the nation
+	- [[Empr Dow Anshi]] could have fulfilled her role as lady-in-waiting by consoling her sister or apologizing to the [[Late Emperor]]
+		- But instead, she takes it as an opportunity to get close to him
+	- Following this, she became pregnant with [[Late Emperor]]'s child ([[Emperor]])
+		- She says that her life was put in danger multiple times
+		- Good for her, the child was a boy and accepted by [[The Empress]]
+		- #shot of young [[Suiren]] taking care of [[Emperor]]
+	- There had been a girl that gave birth to a daughter #important
+		- She claimed that the girl was the [[Late Emperor]]'s daughter
+		- He denied it
+		- A doctor was declared the father
+		- The doctor and the baby were exiled
+			- But not the mother
+		- Before this, [[Rear Palace]] doctors were allowed to be uncastrated, but this event changed that so that doctors needed to be eunuchs
+			- This is why the doctor being the father is a natural scapegoat
+			- This also leads into [[Luomen]]'s story
+			- It happened only shortly before [[Empr Dow Anshi]]'s pregnancy, so it's particularly unlucky for [[Luomen]], who was called in to do the Cesarian section on [[Empr Dow Anshi]]
+		- The girl who gave birth to the daughter remains in the [[Rear Palace]]
+			- Likely will never leave
+	- Later, when [[Empr Dow Anshi]] grew up and no longer looked like a little girl, the [[Late Emperor]] stopped visiting her
+		- #shot of [[Older serving woman]] attending to her at this point
+		- In the shot, she says to the [[Older serving woman]] that she hears that the [[Rear Palace]] is expanding again
+			- [[Older serving woman]] says that it is [[Master Shishou]]'s suggestion #whoa 
+			- Do we know what expanding means here? Does it mean more building/area or just more girls?
+	- She remembers the [[Late Emperor]] as
+		- A pathetic man
+		- Puppet of [[The Empress]]
+		- Man who can only talk to young girls
+		- These are also all slurs we know that people said behind his back
+	- [[Empr Dow Anshi]] is furious that she has been left behind by such a pathetic man
+		- She torments him in his bedchamber
+		- She is straddling him, it's highly likely that she gets pregnant in this encounter
+			- Which means that she's around 25-30 at this point
+		- She whispers something into his ear
+		- She wants him to remember her above the little girls he preys on and above [[The Empress]], his mother
+	- After this, his mind was destroyed and he stayed in his room
+		- She sadly reflects on the painting in front of her and thinks that it means that she did not succeed; he still remembered [[The Empress]] and the little girls without any thought of her
+	- He did paint her once
+		- She was wearing yellow too
+		- She initially treasured the painting, but ended up asking [[Suiren]] to dispose of it when she felt that she had been cast aside by the [[Late Emperor]]
+- [[Jinshi]] and [[Empr Dow Anshi]]
+	- [[Jinshi]] recalls that [[Late Emperor]] visited him and [[Empr Dow Anshi]] once in the past
+		- This must be the time we saw in [[Jinshi]]'s dream
+	- [[Jinshi]] found the [[Orpiment]] then
+	- [[Empr Dow Anshi]] looks at [[Jinshi]] and thinks
+		- "Child of immorality"
+		- "Child of a mistake"
+		- "No matter what they say, a precious child, nonetheless"
+			- Who is they and what do they say
+		- This is clearly a reference to the time she raped [[Late Emperor]]
+		- This also heavily suggests that, if [[Jinshi]] was swapped, she is not aware of it
+	- [[Jinshi]] recalls seeing the painting that [[Late Emperor]] had made of [[Empr Dow Anshi]]
+		- He thinks he might have picked up the [[Orpiment]] because it reminded him of the yellow in the painting
+		- He says that [[Empr Dow Anshi]] had worn clothes of that color in the past
+		- #shot a very explicit fade between [[Late Emperor]] and [[Jinshi]], showing how similar they look
+		- [[Jinshi]] questions whether the woman at the center of the painting really is [[The Empress]]
+			- We haven't seen [[The Empress]] in yellow clothes so far
+			- We know now that [[Empr Dow Anshi]] used to often wear yellow
+		- [[Jinshi]] recalls that [[Late Emperor]] seemed like he was trying to to tell them something when he visited them that one time, before getting turned back by [[The Empress]]
+			- [[Empr Dow Anshi]] is not sure, and realizes that she intentionally kept herself from knowing
+	- [[Empr Dow Anshi]] changes the subject slightly and remarks that she notices that [[Jinshi]] is interested in [[Maomao]]
+		- He plays it off as if [[Maomao]] is just useful, but she sees through that
+		- "You should hide your favorites, or someone else might hide them from you."
+			- This is at least in part a reference to the toy box, but I think there's more
 # Inciting Events
 # Lingering Questions
+Why does [[Jinshi]]'s born position require him to look at the larger picture and pay attention to many things? From what we know, [[Suiren]] sees him as the younger brother of the [[Emperor]]. What responsibilities does he have given this position? His current duties seem to mostly be stuff that the [[Emperor]] has tasked him with, not stuff he was born into.
 # Subplot and Themes
+Mothers protecting sons
 # Characters
 [[Maomao]]

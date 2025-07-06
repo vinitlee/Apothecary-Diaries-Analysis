@@ -19,10 +19,10 @@ z[Link to Episode](https://www.crunchyroll.com/watch/G9DU9NVP2/the-shrine-of-cho
 		- He seems frightened, but also not all there
 		- He is making grunting noises and gripping himself
 	- Two men carry [[Late Emperor]] down the hall, following [[The Empress]]
-		- In his right hand is a [[Yellow stone]]
+		- In his right hand is a [[Orpiment]]
 	- [[Jinshi]] voiceover asks who [[Late Emperor]] and [[The Empress]] were, just referring to them as old man and old woman
-	- [[Late Emperor]] drops the [[Yellow stone]]
-	- Young [[Jinshi]] reaches out for the [[Yellow stone]]
+	- [[Late Emperor]] drops the [[Orpiment]]
+	- Young [[Jinshi]] reaches out for the [[Orpiment]]
 - [[Jinshi]] wakes up
 	- It's the middle of the night
 	- He starts practicing sword fighting to calm his mind

@@ -1,0 +1,10 @@
+**mother::** [[???]]
+**father::** [[???]]
+**role::** [[???]]
+**reports_to::** [[???]]
+**origin::** [[???]]
+**domain::** [[???]]
+
+---
+# Notes
+Same age as [[Gyokuyou]]
